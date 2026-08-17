@@ -214,7 +214,7 @@
             "last_commit": "2024-03-04T15:58:37Z",
             "owner": "therecipe",
             "repo": "qt",
-            "stars": 10802
+            "stars": 10804
           }
         },
         {
@@ -1950,7 +1950,7 @@
             "last_commit": "2025-08-15T16:20:01Z",
             "owner": "wang-bin",
             "repo": "QtAV",
-            "stars": 4257
+            "stars": 4258
           }
         },
         {
@@ -2037,10 +2037,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-16T03:26:46Z",
+            "last_commit": "2026-08-17T03:25:05Z",
             "owner": "KDE",
             "repo": "kdeconnect-kde",
-            "stars": 3923
+            "stars": 3927
           }
         },
         {
@@ -2295,7 +2295,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-13T16:00:36Z",
+            "last_commit": "2026-08-16T20:23:46Z",
             "owner": "frida",
             "repo": "frida-qml",
             "stars": 46
@@ -2343,7 +2343,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-15T19:01:54Z",
+            "last_commit": "2026-08-16T19:04:06Z",
             "owner": "Esri",
             "repo": "arcgis-maps-sdk-toolkit-qt",
             "stars": 146
@@ -2746,7 +2746,7 @@
             "last_commit": "2026-08-16T07:22:13Z",
             "owner": "quickshell-mirror",
             "repo": "quickshell",
-            "stars": 2773
+            "stars": 2783
           }
         },
         {
@@ -2796,7 +2796,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T14:54:50.346Z",
+    "last_updated": "2026-08-17T14:57:31.947Z",
     "original_repository": "mikalv/awesome-qt-qml",
     "original_repository_sha": "dbeebe15890cdfebe5deda640ae7ddd495983ceb",
     "enhanced_repository": "enhansome/enhansome-qt-qml",
