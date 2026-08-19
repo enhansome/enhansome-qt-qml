@@ -1,6 +1,6 @@
 # Awesome Qt with stars
 
-A curated list of awesome Qt and QML libraries, resources, projects, and shiny things. Inspired by [awesome-cpp](https://github.com/fffaraz/awesome-cpp) ⭐ 72,829 | 🐛 312 | 📅 2026-08-19 and other awesome lists.
+A curated list of awesome Qt and QML libraries, resources, projects, and shiny things. Inspired by [awesome-cpp](https://github.com/fffaraz/awesome-cpp) ⭐ 72,830 | 🐛 312 | 📅 2026-08-19 and other awesome lists.
 
 Pull requests of new projects/apps/libraries are welcome :)
 
@@ -146,7 +146,7 @@ Pull requests of new projects/apps/libraries are welcome :)
 ## Images
 
 * [QML-Loaders](https://github.com/Furkanzmc/QML-Loaders) ⭐ 290 | 🐛 1 | 🌐 QML | 📅 2021-04-06 - Loading animation implementations in QML.
-* [SCodes](https://github.com/scytheStudio/SCodes) ⭐ 140 | 🐛 15 | 🌐 C++ | 📅 2026-04-20 - Qt & QML wrapper for [ZXing-C++ Library](https://github.com/nu-book/zxing-cpp) ⭐ 1,972 | 🐛 40 | 🌐 C++ | 📅 2026-08-18 with ready-made QML items for decoding and generating 1D and 2D barcodes (aka. QR codes).
+* [SCodes](https://github.com/scytheStudio/SCodes) ⭐ 140 | 🐛 15 | 🌐 C++ | 📅 2026-04-20 - Qt & QML wrapper for [ZXing-C++ Library](https://github.com/nu-book/zxing-cpp) ⭐ 1,973 | 🐛 41 | 🌐 C++ | 📅 2026-08-18 with ready-made QML items for decoding and generating 1D and 2D barcodes (aka. QR codes).
 * [qqr.js](https://github.com/M4rtinK/qqr.js) ⭐ 40 | 🐛 2 | 🌐 JavaScript | 📅 2015-02-24 - QML bindings for qr.js Javascript QR code library.
 * [imagequick](https://github.com/hluk/imagequick) ⭐ 18 | 🐛 0 | 🌐 C++ | 📅 2014-07-09 - Simple image browser written in QML.
 * [QML-ImageProvider](https://github.com/Daguerreo/QML-ImageProvider) ⭐ 15 | 🐛 0 | 🌐 C++ | 📅 2021-03-09 - Demonstrate how to use QQuickImageProvider to provide a stream of image to QML.
@@ -256,7 +256,7 @@ Pull requests of new projects/apps/libraries are welcome :)
 
 ## Networking
 
-* [kdeconnect-kde](https://github.com/KDE/kdeconnect-kde) ⭐ 3,933 | 🐛 0 | 🌐 C++ | 📅 2026-08-18 - Software to connect with Andriod phones. App and Plasmoid are both in QML.
+* [kdeconnect-kde](https://github.com/KDE/kdeconnect-kde) ⭐ 3,934 | 🐛 0 | 🌐 C++ | 📅 2026-08-18 - Software to connect with Andriod phones. App and Plasmoid are both in QML.
 * [qxmpp](https://github.com/qxmpp-project/qxmpp) ⚠️ Archived - Cross-platform C++ XMPP client and server library.
 * [QSsh](https://github.com/lvklabs/QSsh) ⭐ 230 | 🐛 19 | 🌐 C++ | 📅 2019-11-30 - SSH and SFTP support for Qt. This project is based on Qt Creator's `libQtcSsh.so`.
 * [qtrest](https://github.com/qtrest/qtrest) ⭐ 224 | 🐛 2 | 🌐 C++ | 📅 2026-05-27 - a small and simple REST API client for any Qt/QML application.
@@ -336,12 +336,12 @@ Pull requests of new projects/apps/libraries are welcome :)
 
 ## Web Frameworks
 
-* [Cutelyst](https://cutelyst.org/) - Cutelyst is a web framework written in C++11 and Qt, performant and inspired in the Perl Catalyst Web Framework. ([source](https://github.com/cutelyst/cutelyst) ⭐ 976 | 🐛 16 | 🌐 C++ | 📅 2026-08-12)
+* [Cutelyst](https://cutelyst.org/) - Cutelyst is a web framework written in C++11 and Qt, performant and inspired in the Perl Catalyst Web Framework. ([source](https://github.com/cutelyst/cutelyst) ⭐ 976 | 🐛 17 | 🌐 C++ | 📅 2026-08-12)
 * [QDjango](http://qdjango.org/) - QDjango is a web framework written in C++ and built on top of the Qt library. Where possible it tries to follow django's API, hence its name.
 
 ## X11/Wayland
 
-* [quickshell](https://github.com/quickshell-mirror/quickshell) ⭐ 2,800 | 🐛 425 | 🌐 C++ | 📅 2026-08-16 - Flexible toolkit for making desktop shells with QtQuick, for Wayland and X11.
+* [quickshell](https://github.com/quickshell-mirror/quickshell) ⭐ 2,802 | 🐛 425 | 🌐 C++ | 📅 2026-08-16 - Flexible toolkit for making desktop shells with QtQuick, for Wayland and X11.
 * [sddm](https://github.com/sddm/sddm) ⭐ 2,333 | 🐛 751 | 🌐 C++ | 📅 2026-08-19 - QML based X11 and Wayland display manager.
 * [shell](https://github.com/lirios/shell) ⭐ 248 | 🐛 35 | 🌐 C++ | 📅 2024-02-11 - QtQuick and Wayland shell for convergence.
 * [qmlcompmgr](https://github.com/amezin/qmlcompmgr) ⚠️ Archived - It's a simple compositing manager for X11, written using Qt Quick and QML. Not ready for production.
@@ -366,7 +366,7 @@ Pull requests of new projects/apps/libraries are welcome :)
 * [tdesktop](https://github.com/telegramdesktop/tdesktop) ⭐ 32,645 | 🐛 1,015 | 🌐 C++ | 📅 2026-08-19 - Telegram Desktop messaging app.
 * [cool-retro-term](https://github.com/Swordfish90/cool-retro-term) ⭐ 25,934 | 🐛 561 | 🌐 QML | 📅 2026-05-31 - Is a terminal emulator which mimics the look and feel of the old cathode tube screens. It has been designed to be eye-candy, customizable, and reasonably lightweight.
 * [QOwnNotes](https://github.com/pbek/QOwnNotes) ⭐ 5,843 | 🐛 64 | 🌐 C++ | 📅 2026-08-18 - QOwnNotes is a plain-text file notepad and todo-list manager with markdown support and ownCloud / Nextcloud integration.
-* [QGroundControl](https://github.com/mavlink/qgroundcontrol) ⭐ 4,856 | 🐛 992 | 🌐 C++ | 📅 2026-08-19 - UAV Ground Control Station (Linux, Windows, MacOS, Android, iOS)
+* [QGroundControl](https://github.com/mavlink/qgroundcontrol) ⭐ 4,856 | 🐛 995 | 🌐 C++ | 📅 2026-08-19 - UAV Ground Control Station (Linux, Windows, MacOS, Android, iOS)
 * [pegasus-frontend](https://github.com/mmatyas/pegasus-frontend) ⭐ 1,872 | 🐛 152 | 🌐 C++ | 📅 2026-07-26 - A cross platform, customizable graphical frontend for launching emulators and managing your game collection.
 * [SerialTest](https://github.com/wh201906/SerialTest) ⭐ 1,640 | 🐛 27 | 🌐 C++ | 📅 2024-06-17 - Debugging serial port/Bluetooth SPP/BLE/TCP server/TCP client/UDP connections on Windows/Linux/Android.
 * [ScreenCapture](https://github.com/xland/ScreenCapture) ⭐ 1,456 | 🐛 36 | 🌐 C++ | 📅 2026-08-19 - A feature-rich screenshot program.

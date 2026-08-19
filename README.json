@@ -2166,7 +2166,7 @@
             "last_commit": "2026-08-18T03:28:17Z",
             "owner": "KDE",
             "repo": "kdeconnect-kde",
-            "stars": 3933
+            "stars": 3934
           }
         },
         {
@@ -2913,7 +2913,7 @@
             "last_commit": "2026-08-16T07:22:13Z",
             "owner": "quickshell-mirror",
             "repo": "quickshell",
-            "stars": 2800
+            "stars": 2802
           }
         },
         {
@@ -3027,7 +3027,7 @@
             "archived": false,
             "id": 19374812,
             "language": "C++",
-            "last_commit": "2026-08-19T11:04:56Z",
+            "last_commit": "2026-08-19T13:44:08Z",
             "owner": "telegramdesktop",
             "repo": "tdesktop",
             "stars": 32645
@@ -3308,7 +3308,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:49:38.653Z",
+    "last_updated": "2026-08-19T15:04:57.280Z",
     "original_repository": "mikalv/awesome-qt-qml",
     "original_repository_id": 95331210,
     "original_repository_sha": "dbeebe15890cdfebe5deda640ae7ddd495983ceb",
