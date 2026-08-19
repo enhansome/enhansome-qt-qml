@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 161839771,
             "language": "C++",
             "last_commit": "2026-04-28T20:42:20Z",
             "owner": "FalsinSoft",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 23826746,
             "language": "QML",
             "last_commit": "2017-04-25T05:21:07Z",
             "owner": "benlau",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 33689441,
             "language": "QML",
             "last_commit": "2023-08-09T11:21:18Z",
             "owner": "Iktwo",
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 79029176,
             "language": "Java",
             "last_commit": "2021-07-23T05:31:03Z",
             "owner": "benlau",
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 82199417,
             "language": "QML",
             "last_commit": "2018-02-14T08:39:16Z",
             "owner": "dobokirisame",
@@ -80,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 37572979,
             "language": "Java",
             "last_commit": "2016-12-28T05:44:22Z",
             "owner": "mzafers",
@@ -94,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 78635542,
             "language": "C++",
             "last_commit": "2023-04-09T19:00:27Z",
             "owner": "tripolskypetr",
@@ -105,7 +112,7 @@
       "title": "Android"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -114,6 +121,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 35407754,
             "language": "QML",
             "last_commit": "2017-04-01T03:20:33Z",
             "owner": "benlau",
@@ -128,6 +136,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 19842856,
             "language": "C++",
             "last_commit": "2014-08-31T21:42:53Z",
             "owner": "amarchen",
@@ -139,7 +148,7 @@
       "title": "Apple iOS"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -148,6 +157,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 85094627,
             "language": "C++",
             "last_commit": "2023-10-18T16:06:53Z",
             "owner": "benlau",
@@ -162,6 +172,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 35589064,
             "language": "QML",
             "last_commit": "2021-07-03T17:18:39Z",
             "owner": "benlau",
@@ -176,6 +187,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 69586490,
             "language": "C++",
             "last_commit": "2021-11-04T01:07:11Z",
             "owner": "benlau",
@@ -190,6 +202,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 91892025,
             "language": "C++",
             "last_commit": "2018-04-23T16:13:50Z",
             "owner": "romshark",
@@ -201,7 +214,7 @@
       "title": "Async"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -210,11 +223,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 26836182,
             "language": "Go",
             "last_commit": "2024-03-04T15:58:37Z",
             "owner": "therecipe",
             "repo": "qt",
-            "stars": 10804
+            "stars": 10805
           }
         },
         {
@@ -224,6 +238,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 92974365,
             "language": "C#",
             "last_commit": "2022-12-08T05:22:33Z",
             "owner": "qmlnet",
@@ -238,6 +253,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 136326040,
             "language": "Rust",
             "last_commit": "2026-04-13T15:52:19Z",
             "owner": "woboq",
@@ -252,6 +268,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 27974723,
             "language": "Rust",
             "last_commit": "2018-09-17T15:54:04Z",
             "owner": "cyndis",
@@ -266,6 +283,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 28563697,
             "language": "C++",
             "last_commit": "2025-04-02T20:53:46Z",
             "owner": "filcuc",
@@ -280,6 +298,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 101109992,
             "language": "Crystal",
             "last_commit": "2022-02-21T22:23:50Z",
             "owner": "Papierkorb",
@@ -294,6 +313,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 101109905,
             "language": "Crystal",
             "last_commit": "2021-11-18T21:36:11Z",
             "owner": "Papierkorb",
@@ -308,6 +328,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1644688,
             "language": "OCaml",
             "last_commit": "2026-08-08T13:53:32Z",
             "owner": "Kakadu",
@@ -322,6 +343,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 25389327,
             "language": "C++",
             "last_commit": "2017-07-29T08:03:07Z",
             "owner": "seanchas116",
@@ -333,7 +355,7 @@
       "title": "Binding"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -342,6 +364,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 53477758,
             "language": "C++",
             "last_commit": "2023-07-13T08:22:32Z",
             "owner": "HamedMasafi",
@@ -356,6 +379,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 27321793,
             "language": "QML",
             "last_commit": "2026-01-07T06:04:23Z",
             "owner": "ndesai",
@@ -370,6 +394,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 34391167,
             "language": "C++",
             "last_commit": "2018-10-30T13:20:18Z",
             "owner": "paulovap",
@@ -384,6 +409,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1497480,
             "language": "JavaScript",
             "last_commit": "2011-03-30T21:30:04Z",
             "owner": "manuels",
@@ -398,6 +424,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 53709789,
             "language": "C++",
             "last_commit": "2019-05-20T04:48:10Z",
             "owner": "JosephMillsAtWork",
@@ -409,7 +436,7 @@
       "title": "Database"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -418,6 +445,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 20598769,
             "language": "QML",
             "last_commit": "2018-09-17T05:35:18Z",
             "owner": "penk",
@@ -432,6 +460,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 192014830,
             "language": "C++",
             "last_commit": "2024-11-22T22:13:32Z",
             "owner": "patrickelectric",
@@ -446,6 +475,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 15674031,
             "language": "C++",
             "last_commit": "2016-09-16T13:32:47Z",
             "owner": "penk",
@@ -460,6 +490,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 29749719,
             "language": "C++",
             "last_commit": "2025-06-09T20:38:27Z",
             "owner": "jesperhh",
@@ -474,6 +505,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 10937940,
             "language": "Python",
             "last_commit": "2020-09-20T19:24:47Z",
             "owner": "agateau",
@@ -488,6 +520,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 91685417,
             "language": "JavaScript",
             "last_commit": "2023-01-01T11:47:26Z",
             "owner": "e-fever",
@@ -502,6 +535,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 69791938,
             "language": "JavaScript",
             "last_commit": "2017-08-07T11:22:33Z",
             "owner": "pkoretic",
@@ -516,6 +550,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 11919461,
             "language": "C++",
             "last_commit": "2013-08-06T09:10:20Z",
             "owner": "frankencode",
@@ -530,6 +565,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 80335516,
             "language": "C++",
             "last_commit": "2017-07-13T04:12:39Z",
             "owner": "benlau",
@@ -541,7 +577,7 @@
       "title": "Development"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -550,6 +586,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 848182195,
             "language": "C++",
             "last_commit": "2026-08-03T15:06:17Z",
             "owner": "Palm1r",
@@ -564,6 +601,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2271993,
             "language": "Vim Script",
             "last_commit": "2023-09-11T07:45:37Z",
             "owner": "peterhoeg",
@@ -578,6 +616,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 83246591,
             "language": "Kotlin",
             "last_commit": "2020-06-13T16:20:41Z",
             "owner": "kropp",
@@ -592,6 +631,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 12356737,
             "language": "QML",
             "last_commit": "2023-11-22T16:31:24Z",
             "owner": "SublimeText",
@@ -606,6 +646,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 621180,
             "language": "Emacs Lisp",
             "last_commit": "2014-08-12T04:33:07Z",
             "owner": "cataska",
@@ -620,6 +661,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 18549330,
             "language": null,
             "last_commit": "2020-03-05T02:02:09Z",
             "owner": "rschiang",
@@ -631,7 +673,7 @@
       "title": "Editor Integration"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -640,6 +682,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 18375938,
             "language": "C++",
             "last_commit": "2019-12-16T14:18:52Z",
             "owner": "Bacon2D",
@@ -654,6 +697,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 9125504,
             "language": "C++",
             "last_commit": "2013-10-05T06:35:50Z",
             "owner": "advancingu",
@@ -665,7 +709,7 @@
       "title": "Game Engine"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -674,6 +718,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1518671,
             "language": "C++",
             "last_commit": "2025-09-30T19:37:09Z",
             "owner": "qml-box2d",
@@ -688,6 +733,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 35483880,
             "language": "QML",
             "last_commit": "2015-05-12T11:38:25Z",
             "owner": "qyvlik",
@@ -702,6 +748,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 8955337,
             "language": "C++",
             "last_commit": "2013-08-27T19:18:48Z",
             "owner": "schulzch",
@@ -716,6 +763,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 85758393,
             "language": "C++",
             "last_commit": "2017-03-21T22:26:17Z",
             "owner": "vannell",
@@ -727,7 +775,7 @@
       "title": "Graphics"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -736,6 +784,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 8376115,
             "language": "C++",
             "last_commit": "2022-07-26T12:03:04Z",
             "owner": "carlonluca",
@@ -750,6 +799,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 60373832,
             "language": "C",
             "last_commit": "2026-06-13T17:11:13Z",
             "owner": "alex-spataru",
@@ -764,6 +814,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 24983502,
             "language": "C++",
             "last_commit": "2019-05-24T06:34:37Z",
             "owner": "chili-epfl",
@@ -778,6 +829,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 104219502,
             "language": "Objective-C++",
             "last_commit": "2017-09-20T15:52:07Z",
             "owner": "andeplane",
@@ -792,6 +844,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 841350211,
             "language": "C++",
             "last_commit": "2025-08-05T07:42:09Z",
             "owner": "somcosoftware",
@@ -803,7 +856,7 @@
       "title": "Hardware"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -812,11 +865,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 82279869,
             "language": "QML",
             "last_commit": "2021-04-06T13:15:35Z",
             "owner": "Furkanzmc",
             "repo": "QML-Loaders",
-            "stars": 289
+            "stars": 290
           }
         },
         {
@@ -826,6 +880,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 288114834,
             "language": "C++",
             "last_commit": "2026-04-20T12:35:54Z",
             "owner": "somcosoftware",
@@ -840,6 +895,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 31234420,
             "language": "JavaScript",
             "last_commit": "2015-02-24T23:41:10Z",
             "owner": "M4rtinK",
@@ -854,6 +910,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3225165,
             "language": "C++",
             "last_commit": "2014-07-09T18:55:26Z",
             "owner": "hluk",
@@ -868,6 +925,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 300621205,
             "language": "C++",
             "last_commit": "2021-03-09T09:20:37Z",
             "owner": "Daguerreo",
@@ -882,6 +940,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 78939038,
             "language": "C++",
             "last_commit": "2017-01-14T13:40:47Z",
             "owner": "Match-Yang",
@@ -893,7 +952,7 @@
       "title": "Images"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -902,6 +961,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 36614922,
             "language": "C++",
             "last_commit": "2024-04-10T21:32:21Z",
             "owner": "benlau",
@@ -916,6 +976,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 53751365,
             "language": "JavaScript",
             "last_commit": "2017-04-21T21:39:50Z",
             "owner": "quickly",
@@ -930,6 +991,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 33422738,
             "language": "JavaScript",
             "last_commit": "2017-12-15T17:48:21Z",
             "owner": "grassator",
@@ -944,6 +1006,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 24551270,
             "language": "C++",
             "last_commit": "2015-05-26T07:25:24Z",
             "owner": "trollixx",
@@ -958,6 +1021,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 28343688,
             "language": "JavaScript",
             "last_commit": "2015-05-04T20:06:13Z",
             "owner": "achipa",
@@ -972,6 +1036,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 66487353,
             "language": "C++",
             "last_commit": "2018-07-03T23:37:53Z",
             "owner": "paulondc",
@@ -986,6 +1051,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 75308458,
             "language": "JavaScript",
             "last_commit": "2019-02-10T12:01:31Z",
             "owner": "benlau",
@@ -1000,6 +1066,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 127801159,
             "language": "JavaScript",
             "last_commit": "2025-11-05T21:13:51Z",
             "owner": "easyQML",
@@ -1014,6 +1081,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 45015075,
             "language": "JavaScript",
             "last_commit": "2015-10-28T03:25:20Z",
             "owner": "diro",
@@ -1028,6 +1096,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 47485051,
             "language": "JavaScript",
             "last_commit": "2016-01-16T05:08:20Z",
             "owner": "bhdouglass",
@@ -1039,7 +1108,7 @@
       "title": "JavaScript"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1048,6 +1117,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 49656954,
             "language": "C++",
             "last_commit": "2022-09-28T10:00:12Z",
             "owner": "benlau",
@@ -1062,6 +1132,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 24219855,
             "language": "C++",
             "last_commit": "2015-08-25T21:32:41Z",
             "owner": "vmatikainen",
@@ -1073,7 +1144,7 @@
       "title": "JSON"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1082,6 +1153,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 18024689,
             "language": "C++",
             "last_commit": "2019-10-25T07:26:14Z",
             "owner": "abumq",
@@ -1096,6 +1168,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 12261396,
             "language": "JavaScript",
             "last_commit": "2022-02-19T21:13:43Z",
             "owner": "dpeytonX",
@@ -1107,7 +1180,7 @@
       "title": "Logging"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1116,6 +1189,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 55835846,
             "language": "C++",
             "last_commit": "2026-07-31T16:56:51Z",
             "owner": "paceholder",
@@ -1130,6 +1204,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 47689142,
             "language": "C++",
             "last_commit": "2024-08-19T05:37:55Z",
             "owner": "mfreiholz",
@@ -1144,6 +1219,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 48326244,
             "language": "C++",
             "last_commit": "2023-03-04T10:55:51Z",
             "owner": "Skycoder42",
@@ -1158,6 +1234,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 51682254,
             "language": "JavaScript",
             "last_commit": "2022-04-11T15:07:47Z",
             "owner": "qmlweb",
@@ -1172,6 +1249,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3504505,
             "language": "C++",
             "last_commit": "2026-08-07T14:16:18Z",
             "owner": "lxqt",
@@ -1186,6 +1264,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 49439186,
             "language": "C++",
             "last_commit": "2026-08-18T12:59:34Z",
             "owner": "pbek",
@@ -1200,11 +1279,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 61654663,
             "language": "QML",
             "last_commit": "2024-12-11T23:27:25Z",
             "owner": "Furkanzmc",
             "repo": "QML-UI-Animations",
-            "stars": 366
+            "stars": 367
           }
         },
         {
@@ -1214,6 +1294,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 80766100,
             "language": "C++",
             "last_commit": "2019-12-01T14:15:13Z",
             "owner": "Skycoder42",
@@ -1228,6 +1309,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 70241809,
             "language": "Python",
             "last_commit": "2026-08-12T12:22:38Z",
             "owner": "pureqml",
@@ -1242,6 +1324,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 52406733,
             "language": "C++",
             "last_commit": "2023-07-18T14:31:39Z",
             "owner": "oKcerG",
@@ -1256,6 +1339,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 86943296,
             "language": "QML",
             "last_commit": "2021-10-26T17:27:04Z",
             "owner": "jcelerier",
@@ -1270,6 +1354,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 29530349,
             "language": "Makefile",
             "last_commit": "2022-02-22T22:01:20Z",
             "owner": "githubuser0xFFFF",
@@ -1284,6 +1369,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 25865920,
             "language": "C++",
             "last_commit": "2022-07-06T12:17:41Z",
             "owner": "cisco-open-source",
@@ -1298,6 +1384,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 51194451,
             "language": "Shell",
             "last_commit": "2021-04-07T07:15:35Z",
             "owner": "benlau",
@@ -1312,6 +1399,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 83843703,
             "language": "QML",
             "last_commit": "2018-07-10T15:47:41Z",
             "owner": "alamminsalo",
@@ -1326,6 +1414,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 17676388,
             "language": "C++",
             "last_commit": "2022-02-27T15:54:08Z",
             "owner": "machinekit",
@@ -1340,6 +1429,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 67211,
             "language": "C++",
             "last_commit": "2017-09-12T13:22:14Z",
             "owner": "jorgen",
@@ -1354,6 +1444,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 72558052,
             "language": "JavaScript",
             "last_commit": "2019-06-01T20:37:37Z",
             "owner": "benlau",
@@ -1368,6 +1459,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 33730231,
             "language": "C++",
             "last_commit": "2022-02-04T07:29:02Z",
             "owner": "evonove",
@@ -1382,6 +1474,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 230216969,
             "language": "C++",
             "last_commit": "2025-01-15T05:54:18Z",
             "owner": "Waqar144",
@@ -1396,6 +1489,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 77643340,
             "language": "C++",
             "last_commit": "2022-05-27T19:53:03Z",
             "owner": "Skycoder42",
@@ -1410,6 +1504,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3370399,
             "language": "JavaScript",
             "last_commit": "2015-08-29T11:00:50Z",
             "owner": "penk",
@@ -1424,6 +1519,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 29141268,
             "language": "QML",
             "last_commit": "2024-01-16T10:36:54Z",
             "owner": "Ableton",
@@ -1438,6 +1534,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 44064238,
             "language": "C++",
             "last_commit": "2020-09-29T19:01:18Z",
             "owner": "dinusv",
@@ -1452,6 +1549,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 10188605,
             "language": "QML",
             "last_commit": "2017-09-06T08:03:35Z",
             "owner": "qt-labs",
@@ -1466,6 +1564,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1133474,
             "language": "QML",
             "last_commit": "2023-09-24T02:55:48Z",
             "owner": "rshest",
@@ -1480,6 +1579,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 40628892,
             "language": "QML",
             "last_commit": "2019-10-19T13:46:32Z",
             "owner": "janimo",
@@ -1494,6 +1594,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 16673877,
             "language": "QML",
             "last_commit": "2018-12-03T21:13:46Z",
             "owner": "otsaloma",
@@ -1508,6 +1609,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 64304043,
             "language": "C++",
             "last_commit": "2026-06-27T19:18:28Z",
             "owner": "Instand",
@@ -1522,6 +1624,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 67616183,
             "language": "QML",
             "last_commit": "2018-06-14T15:10:03Z",
             "owner": "MidoriYakumo",
@@ -1536,6 +1639,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 81609691,
             "language": "QML",
             "last_commit": "2026-02-28T05:14:01Z",
             "owner": "hahn-kev",
@@ -1550,6 +1654,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 90104688,
             "language": "QML",
             "last_commit": "2017-10-04T04:56:42Z",
             "owner": "KhoaTranProgrammer",
@@ -1564,6 +1669,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 10797177,
             "language": "C++",
             "last_commit": "2013-08-06T09:56:08Z",
             "owner": "damian0",
@@ -1578,6 +1684,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 64820545,
             "language": "C++",
             "last_commit": "2019-11-19T14:02:49Z",
             "owner": "benlau",
@@ -1592,6 +1699,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 55592021,
             "language": "JavaScript",
             "last_commit": "2022-04-14T17:51:10Z",
             "owner": "qmlweb",
@@ -1606,6 +1714,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 62549629,
             "language": "QML",
             "last_commit": "2016-07-10T20:41:53Z",
             "owner": "andeplane",
@@ -1620,6 +1729,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 79081593,
             "language": "C++",
             "last_commit": "2017-01-16T04:11:15Z",
             "owner": "arunpkio",
@@ -1634,6 +1744,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 16727222,
             "language": null,
             "last_commit": "2014-04-14T16:47:11Z",
             "owner": "bobbaluba",
@@ -1648,6 +1759,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 37730614,
             "language": "C++",
             "last_commit": "2024-03-26T07:11:42Z",
             "owner": "danieloneill",
@@ -1662,6 +1774,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 43917698,
             "language": "QML",
             "last_commit": "2016-01-29T13:21:44Z",
             "owner": "anatolyk82",
@@ -1676,6 +1789,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 47927361,
             "language": "C++",
             "last_commit": "2020-07-18T11:35:12Z",
             "owner": "DannyGB",
@@ -1690,6 +1804,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 61425779,
             "language": "QML",
             "last_commit": "2018-02-14T11:13:15Z",
             "owner": "spuschhof",
@@ -1704,6 +1819,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 62277543,
             "language": "QML",
             "last_commit": "2016-07-04T09:27:32Z",
             "owner": "unseon",
@@ -1718,6 +1834,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 263978495,
             "language": "C++",
             "last_commit": "2023-06-01T21:24:08Z",
             "owner": "Palm1r",
@@ -1732,6 +1849,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 30137443,
             "language": "QML",
             "last_commit": "2026-04-13T01:28:23Z",
             "owner": "MrEricSir",
@@ -1746,6 +1864,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 65476873,
             "language": "C++",
             "last_commit": "2018-04-27T11:44:47Z",
             "owner": "chili-epfl",
@@ -1760,6 +1879,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 21655053,
             "language": "C++",
             "last_commit": "2016-01-20T19:38:46Z",
             "owner": "rchamberlin",
@@ -1774,6 +1894,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 84191812,
             "language": "QML",
             "last_commit": "2017-03-07T11:33:15Z",
             "owner": "dant3",
@@ -1788,6 +1909,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 87026899,
             "language": "C++",
             "last_commit": "2017-04-03T01:30:19Z",
             "owner": "Ashifta",
@@ -1802,6 +1924,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 33633518,
             "language": "JavaScript",
             "last_commit": "2015-06-05T02:02:56Z",
             "owner": "pkobrien",
@@ -1816,6 +1939,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 92662088,
             "language": "QML",
             "last_commit": "2017-06-10T21:38:13Z",
             "owner": "skarbat",
@@ -1830,6 +1954,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 25130011,
             "language": "C++",
             "last_commit": "2015-10-22T13:53:17Z",
             "owner": "chili-epfl",
@@ -1844,6 +1969,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3613880,
             "language": "C++",
             "last_commit": "2012-03-24T20:34:13Z",
             "owner": "QKit",
@@ -1858,6 +1984,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 889768,
             "language": "C++",
             "last_commit": "2010-09-05T17:43:43Z",
             "owner": "proDOOMman",
@@ -1872,6 +1999,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 39610034,
             "language": "QML",
             "last_commit": "2015-07-31T07:28:45Z",
             "owner": "qyvlik",
@@ -1886,6 +2014,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 30708388,
             "language": "QML",
             "last_commit": "2023-07-27T15:14:55Z",
             "owner": "neversun",
@@ -1900,6 +2029,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 61130403,
             "language": "C++",
             "last_commit": "2016-06-15T06:22:18Z",
             "owner": "uralbash",
@@ -1914,30 +2044,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 999523866,
             "language": "C++",
             "last_commit": "2026-07-27T11:02:32Z",
             "owner": "status-im",
             "repo": "QtModelsToolkit",
             "stars": 1
           }
-        },
-        {
-          "node_type": "item",
-          "title": "qmltermwidget",
-          "description": "This project is a QML port of qtermwidget.",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "QmlPrinter",
-          "description": "Simple Qt component which allows user to print out a QML view from C++.",
-          "children": []
         }
       ],
       "title": "Misc"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1946,6 +2065,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 6435042,
             "language": "C++",
             "last_commit": "2025-08-15T16:20:01Z",
             "owner": "wang-bin",
@@ -1960,6 +2080,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 42736918,
             "language": "C++",
             "last_commit": "2026-08-12T05:56:29Z",
             "owner": "KDE",
@@ -1974,6 +2095,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 17293112,
             "language": "QML",
             "last_commit": "2016-02-20T08:16:10Z",
             "owner": "RSATom",
@@ -1988,6 +2110,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 6604771,
             "language": "C++",
             "last_commit": "2012-11-08T22:24:28Z",
             "owner": "longwei",
@@ -2002,6 +2125,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2949675,
             "language": "C++",
             "last_commit": "2018-08-30T22:17:21Z",
             "owner": "jarnoh",
@@ -2016,6 +2140,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 15425133,
             "language": "C++",
             "last_commit": "2014-03-25T16:39:36Z",
             "owner": "sverzegnassi",
@@ -2027,7 +2152,7 @@
       "title": "Multimedia"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -2036,11 +2161,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 42725503,
             "language": "C++",
             "last_commit": "2026-08-18T03:28:17Z",
             "owner": "KDE",
             "repo": "kdeconnect-kde",
-            "stars": 3929
+            "stars": 3933
           }
         },
         {
@@ -2050,6 +2176,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 18179320,
             "language": "C++",
             "last_commit": "2025-03-20T21:41:54Z",
             "owner": "qxmpp-project",
@@ -2064,6 +2191,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 6815113,
             "language": "C++",
             "last_commit": "2019-11-30T17:33:51Z",
             "owner": "lvklabs",
@@ -2078,6 +2206,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 52100641,
             "language": "C++",
             "last_commit": "2026-05-27T07:29:47Z",
             "owner": "qtrest",
@@ -2092,6 +2221,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 194254343,
             "language": "C++",
             "last_commit": "2024-09-03T21:27:58Z",
             "owner": "semlanik",
@@ -2106,6 +2236,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 79821213,
             "language": "C++",
             "last_commit": "2023-06-11T11:22:23Z",
             "owner": "larpon",
@@ -2120,6 +2251,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 10317867,
             "language": "C++",
             "last_commit": "2024-05-04T12:52:43Z",
             "owner": "communi",
@@ -2134,6 +2266,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 456367,
             "language": "C++",
             "last_commit": "2023-06-23T09:05:04Z",
             "owner": "wiedi",
@@ -2148,6 +2281,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 27006622,
             "language": "C++",
             "last_commit": "2016-11-06T09:40:13Z",
             "owner": "nsuke",
@@ -2162,6 +2296,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 15698426,
             "language": "QML",
             "last_commit": "2016-03-04T15:00:20Z",
             "owner": "jemc",
@@ -2176,6 +2311,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 44820915,
             "language": "C++",
             "last_commit": "2017-07-25T15:44:14Z",
             "owner": "toni1991",
@@ -2190,6 +2326,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 46064173,
             "language": "C++",
             "last_commit": "2016-11-20T15:14:43Z",
             "owner": "qyvlik",
@@ -2204,6 +2341,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 6367522,
             "language": "C++",
             "last_commit": "2013-10-04T18:03:16Z",
             "owner": "misterion",
@@ -2218,6 +2356,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 12195643,
             "language": "C++",
             "last_commit": "2016-08-16T14:48:41Z",
             "owner": "ksiazkowicz",
@@ -2232,6 +2371,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 73364382,
             "language": "C++",
             "last_commit": "2018-04-27T11:29:47Z",
             "owner": "chili-epfl",
@@ -2246,6 +2386,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 51564662,
             "language": "C++",
             "last_commit": "2016-02-12T04:23:32Z",
             "owner": "folibis",
@@ -2257,7 +2398,7 @@
       "title": "Networking"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -2266,6 +2407,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 22053374,
             "language": "C++",
             "last_commit": "2017-03-05T20:12:24Z",
             "owner": "qmlc",
@@ -2280,6 +2422,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 48244874,
             "language": "C++",
             "last_commit": "2017-03-13T07:32:17Z",
             "owner": "benlau",
@@ -2294,6 +2437,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 20378353,
             "language": "C++",
             "last_commit": "2026-08-18T13:32:28Z",
             "owner": "frida",
@@ -2308,6 +2452,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 78744669,
             "language": "QML",
             "last_commit": "2018-08-17T14:47:32Z",
             "owner": "benlau",
@@ -2319,7 +2464,7 @@
       "title": "QML Specific"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -2328,6 +2473,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 77058582,
             "language": "C++",
             "last_commit": "2022-11-28T16:12:34Z",
             "owner": "larpon",
@@ -2342,8 +2488,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 23629913,
             "language": "C++",
-            "last_commit": "2026-08-17T19:05:35Z",
+            "last_commit": "2026-08-18T23:31:33Z",
             "owner": "Esri",
             "repo": "arcgis-maps-sdk-toolkit-qt",
             "stars": 146
@@ -2356,6 +2503,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 37615658,
             "language": "Objective-C",
             "last_commit": "2021-03-14T18:52:12Z",
             "owner": "nextgeniuspro",
@@ -2370,6 +2518,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 23988458,
             "language": "Objective-C",
             "last_commit": "2014-09-30T12:53:54Z",
             "owner": "lasconic",
@@ -2381,7 +2530,7 @@
       "title": "SDKs"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -2390,6 +2539,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 25996549,
             "language": "QML",
             "last_commit": "2018-01-31T21:14:14Z",
             "owner": "papyros",
@@ -2404,6 +2554,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 63346224,
             "language": "QML",
             "last_commit": "2026-08-05T06:54:28Z",
             "owner": "lirios",
@@ -2418,11 +2569,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 879336028,
             "language": "QML",
             "last_commit": "2026-08-17T15:08:13Z",
             "owner": "mengps",
             "repo": "HuskarUI",
-            "stars": 575
+            "stars": 576
           }
         },
         {
@@ -2432,6 +2584,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 25746907,
             "language": "QML",
             "last_commit": "2017-07-24T11:41:08Z",
             "owner": "brexis",
@@ -2446,6 +2599,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 55869190,
             "language": "QML",
             "last_commit": "2018-03-24T22:26:45Z",
             "owner": "StratifyLabs",
@@ -2460,6 +2614,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 26809156,
             "language": "C++",
             "last_commit": "2026-04-07T09:45:35Z",
             "owner": "Ableton",
@@ -2474,6 +2629,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 945324197,
             "language": "QML",
             "last_commit": "2026-07-29T09:40:25Z",
             "owner": "RinLit-233-shiroko",
@@ -2488,6 +2644,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 21114441,
             "language": "QML",
             "last_commit": "2021-05-25T19:41:32Z",
             "owner": "QMLCommunity",
@@ -2502,6 +2659,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 27752866,
             "language": null,
             "last_commit": "2015-02-02T02:44:51Z",
             "owner": "Druage",
@@ -2516,6 +2674,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 938985333,
             "language": "QML",
             "last_commit": "2026-07-13T15:31:34Z",
             "owner": "MarkoStanojevic12",
@@ -2530,6 +2689,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 72390826,
             "language": "QML",
             "last_commit": "2020-06-09T09:19:28Z",
             "owner": "benlau",
@@ -2544,6 +2704,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 79438630,
             "language": "JavaScript",
             "last_commit": "2017-03-16T11:22:16Z",
             "owner": "qCring",
@@ -2558,6 +2719,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 1023149071,
             "language": "C++",
             "last_commit": "2025-10-15T07:42:21Z",
             "owner": "Advanced-Effects",
@@ -2569,7 +2731,7 @@
       "title": "Styling"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -2578,6 +2740,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 124771839,
             "language": "QML",
             "last_commit": "2020-08-08T15:30:24Z",
             "owner": "patrickelectric",
@@ -2592,6 +2755,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 38335492,
             "language": "CMake",
             "last_commit": "2017-07-21T07:13:18Z",
             "owner": "qCring",
@@ -2606,6 +2770,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 63355535,
             "language": "C++",
             "last_commit": "2016-09-28T07:29:18Z",
             "owner": "benlau",
@@ -2620,24 +2785,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 65550658,
             "language": "C++",
             "last_commit": "2017-12-08T18:46:37Z",
             "owner": "benlau",
             "repo": "qpm-qt-creator-project-template",
             "stars": 7
           }
-        },
-        {
-          "node_type": "item",
-          "title": "Qt-Qbs-Application",
-          "description": "Qt Qbs application boilerplate and useful scripts.",
-          "children": []
         }
       ],
       "title": "Templates"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -2646,6 +2806,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 48814653,
             "language": "C++",
             "last_commit": "2024-08-02T10:27:17Z",
             "owner": "benlau",
@@ -2660,6 +2821,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 691645,
             "language": "JavaScript",
             "last_commit": "2010-07-07T15:21:52Z",
             "owner": "fgrehm",
@@ -2674,6 +2836,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 21186080,
             "language": "QML",
             "last_commit": "2015-09-30T19:32:12Z",
             "owner": "jemc",
@@ -2688,6 +2851,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1535510,
             "language": "C++",
             "last_commit": "2016-05-11T17:11:37Z",
             "owner": "benlau",
@@ -2699,7 +2863,7 @@
       "title": "Testing"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -2708,6 +2872,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 39349320,
             "language": "C++",
             "last_commit": "2026-08-12T08:05:15Z",
             "owner": "cneben",
@@ -2722,6 +2887,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 59888953,
             "language": "C++",
             "last_commit": "2026-06-23T18:18:37Z",
             "owner": "qCring",
@@ -2733,7 +2899,7 @@
       "title": "Visualization"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -2742,11 +2908,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 766993934,
             "language": "C++",
             "last_commit": "2026-08-16T07:22:13Z",
             "owner": "quickshell-mirror",
             "repo": "quickshell",
-            "stars": 2792
+            "stars": 2800
           }
         },
         {
@@ -2756,8 +2923,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 7675929,
             "language": "C++",
-            "last_commit": "2026-08-15T18:44:26Z",
+            "last_commit": "2026-08-19T10:45:49Z",
             "owner": "sddm",
             "repo": "sddm",
             "stars": 2333
@@ -2770,6 +2938,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 63376422,
             "language": "C++",
             "last_commit": "2024-02-11T14:16:13Z",
             "owner": "lirios",
@@ -2784,6 +2953,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 35898637,
             "language": "C++",
             "last_commit": "2015-07-20T18:05:20Z",
             "owner": "amezin",
@@ -2793,11 +2963,354 @@
         }
       ],
       "title": "X11/Wayland"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "The QML Book",
+          "description": "The QML Book. (source)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 11542228,
+            "language": "Batchfile",
+            "last_commit": "2023-06-02T17:07:28Z",
+            "owner": "qmlbook",
+            "repo": "qmlbook",
+            "stars": 2582
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "QML Coding Guidelines",
+          "description": "A collection of good practices when writing QML code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 146772699,
+            "language": null,
+            "last_commit": "2022-04-18T21:23:53Z",
+            "owner": "Furkanzmc",
+            "repo": "QML-Coding-Guide",
+            "stars": 608
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RCSE",
+          "description": "Rolisteam Character Sheet Editor: easier way to create a character sheet, rcse provides more than that. It helps learning QML: draw your page, generate code, change it, execute it, and see the result.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 56432556,
+            "language": "C++",
+            "last_commit": "2020-12-11T13:26:37Z",
+            "owner": "Rolisteam",
+            "repo": "rcse",
+            "stars": 10
+          }
+        }
+      ],
+      "title": "Learning"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "tdesktop",
+          "description": "Telegram Desktop messaging app.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 19374812,
+            "language": "C++",
+            "last_commit": "2026-08-19T11:04:56Z",
+            "owner": "telegramdesktop",
+            "repo": "tdesktop",
+            "stars": 32645
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cool-retro-term",
+          "description": "Is a terminal emulator which mimics the look and feel of the old cathode tube screens. It has been designed to be eye-candy, customizable, and reasonably lightweight.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 14614344,
+            "language": "QML",
+            "last_commit": "2026-05-31T10:12:54Z",
+            "owner": "Swordfish90",
+            "repo": "cool-retro-term",
+            "stars": 25934
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "QOwnNotes",
+          "description": "QOwnNotes is a plain-text file notepad and todo-list manager with markdown support and ownCloud / Nextcloud integration.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 27436491,
+            "language": "C++",
+            "last_commit": "2026-08-18T16:14:22Z",
+            "owner": "pbek",
+            "repo": "QOwnNotes",
+            "stars": 5843
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "QGroundControl",
+          "description": "UAV Ground Control Station (Linux, Windows, MacOS, Android, iOS)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 2567844,
+            "language": "C++",
+            "last_commit": "2026-08-19T12:26:33Z",
+            "owner": "mavlink",
+            "repo": "qgroundcontrol",
+            "stars": 4856
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pegasus-frontend",
+          "description": "A cross platform, customizable graphical frontend for launching emulators and managing your game collection.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 89860403,
+            "language": "C++",
+            "last_commit": "2026-07-26T14:59:14Z",
+            "owner": "mmatyas",
+            "repo": "pegasus-frontend",
+            "stars": 1872
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SerialTest",
+          "description": "Debugging serial port/Bluetooth SPP/BLE/TCP server/TCP client/UDP connections on Windows/Linux/Android.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 274386713,
+            "language": "C++",
+            "last_commit": "2024-06-17T11:33:30Z",
+            "owner": "wh201906",
+            "repo": "SerialTest",
+            "stars": 1640
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ScreenCapture",
+          "description": "A feature-rich screenshot program.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 625084443,
+            "language": "C++",
+            "last_commit": "2026-08-19T05:26:11Z",
+            "owner": "xland",
+            "repo": "ScreenCapture",
+            "stars": 1456
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "panopticon",
+          "description": "A libre cross-platform disassembler.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 16771027,
+            "language": "Rust",
+            "last_commit": "2019-01-03T23:20:27Z",
+            "owner": "das-labor",
+            "repo": "panopticon",
+            "stars": 1445
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yubioath-desktop",
+          "description": "Yubico Authenticator for Desktop (Windows, macOS and Linux).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 16949032,
+            "language": "Dart",
+            "last_commit": "2026-08-17T12:33:06Z",
+            "owner": "Yubico",
+            "repo": "yubioath-flutter",
+            "stars": 1363
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "QVGE",
+          "description": "Qt Visual Graph Editor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 116423899,
+            "language": "C++",
+            "last_commit": "2025-07-01T16:36:02Z",
+            "owner": "ArsMasiuk",
+            "repo": "qvge",
+            "stars": 670
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tasket++",
+          "description": "GUI based scheduler and automation tool for PC user actions simulations",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 744848058,
+            "language": "C++",
+            "last_commit": "2026-07-13T05:58:53Z",
+            "owner": "AmirHammouteneEI",
+            "repo": "ScheduledPasteAndKeys",
+            "stars": 196
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rolisteam",
+          "description": "VirtualTableTop software to play Pen and paper role playing games.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 30956152,
+            "language": "C++",
+            "last_commit": "2026-06-21T05:25:42Z",
+            "owner": "Rolisteam",
+            "repo": "rolisteam",
+            "stars": 193
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tensor",
+          "description": "Tensor is an IM client for the Matrix protocol in development.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 45385708,
+            "language": "C++",
+            "last_commit": "2017-02-21T09:03:01Z",
+            "owner": "davidar",
+            "repo": "tensor",
+            "stars": 172
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yat",
+          "description": "Terminal Emulator written in C++ and qml.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 67211,
+            "language": "C++",
+            "last_commit": "2017-09-12T13:22:14Z",
+            "owner": "jorgen",
+            "repo": "yat",
+            "stars": 119
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "IPConnect",
+          "description": "P2P Chat and File Transfer Desktop Application.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 70985348,
+            "language": "C++",
+            "last_commit": "2017-10-30T20:42:47Z",
+            "owner": "shashwatdixit124",
+            "repo": "IPConnect",
+            "stars": 90
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "files",
+          "description": "File manager.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 63345136,
+            "language": "C++",
+            "last_commit": "2022-10-21T21:52:34Z",
+            "owner": "lirios",
+            "repo": "files",
+            "stars": 89
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "qmlvncviewer",
+          "description": "VNC viewer component by qt quick.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 62862974,
+            "language": "C",
+            "last_commit": "2017-06-15T02:58:54Z",
+            "owner": "heroyin",
+            "repo": "qmlvncviewer",
+            "stars": 65
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TelegramQML",
+          "description": "Telegram API tools for QtQml and Qml. It's based on Cutegram-Core and libqtelegram.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 37739113,
+            "language": "C++",
+            "last_commit": "2018-05-03T12:55:42Z",
+            "owner": "Aseman-Land",
+            "repo": "TelegramQML",
+            "stars": 59
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "harbour-sailfinder",
+          "description": "Sailfinder source code & bug tracker.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 56079217,
+            "language": "C++",
+            "last_commit": "2021-08-23T16:07:29Z",
+            "owner": "DylanVanAssche",
+            "repo": "harbour-sailfinder",
+            "stars": 18
+          }
+        }
+      ],
+      "title": "Software"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T15:04:49.738Z",
+    "last_updated": "2026-08-19T12:49:38.653Z",
     "original_repository": "mikalv/awesome-qt-qml",
+    "original_repository_id": 95331210,
     "original_repository_sha": "dbeebe15890cdfebe5deda640ae7ddd495983ceb",
     "enhanced_repository": "enhansome/enhansome-qt-qml",
     "enhanced_repository_description": null,
