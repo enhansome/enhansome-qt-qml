@@ -1,6 +1,6 @@
 # Awesome Qt with stars
 
-A curated list of awesome Qt and QML libraries, resources, projects, and shiny things. Inspired by [awesome-cpp](https://github.com/fffaraz/awesome-cpp) ⭐ 72,846 | 🐛 311 | 📅 2026-08-19 and other awesome lists.
+A curated list of awesome Qt and QML libraries, resources, projects, and shiny things. Inspired by [awesome-cpp](https://github.com/fffaraz/awesome-cpp) ⭐ 72,862 | 🐛 312 | 📅 2026-08-19 and other awesome lists.
 
 Pull requests of new projects/apps/libraries are welcome :)
 
@@ -40,11 +40,11 @@ Pull requests of new projects/apps/libraries are welcome :)
 
 ## Android
 
-* [QtAndroidTools](https://github.com/FalsinSoft/QtAndroidTools) ⭐ 296 | 🐛 5 | 🌐 C++ | 📅 2026-04-28 - QtAndroidTools is a library that allows to simplify access to some native Android features from QML.
+* [QtAndroidTools](https://github.com/FalsinSoft/QtAndroidTools) ⭐ 295 | 🐛 5 | 🌐 C++ | 📅 2026-04-28 - QtAndroidTools is a library that allows to simplify access to some native Android features from QML.
 * [quickandroid](https://github.com/benlau/quickandroid) ⚠️ Archived - QML Theme and Component Library for Android.
 * [QuteLauncher](https://github.com/Iktwo/QuteLauncher) ⭐ 132 | 🐛 0 | 🌐 QML | 📅 2023-08-09 - QML Android Launcher.
 * [androidnative.pri](https://github.com/benlau/androidnative.pri) ⭐ 105 | 🐛 5 | 🌐 Java | 📅 2021-07-23 - Calling Android functions from Qt without using JNI.
-* [qml-filedialog](https://github.com/dobokirisame/qml-filedialog) ⭐ 52 | 🐛 1 | 🌐 QML | 📅 2018-02-14 - Qt Quick File picker.
+* [qml-filedialog](https://github.com/dobokirisame/qml-filedialog) ⭐ 50 | 🐛 1 | 🌐 QML | 📅 2018-02-14 - Qt Quick File picker.
 * [QtVlcMediaPlayer](https://github.com/mzafers/QtVlcMediaPlayer) ⭐ 29 | 🐛 6 | 🌐 Java | 📅 2016-12-28 - LibVLC integrated Qt QML MediaPlayer for Android.
 * [qmlcontactlist](https://github.com/tripolskypetr/qmlcontactlist) ⭐ 12 | 🐛 0 | 🌐 C++ | 📅 2023-04-09 - The easy way to extend contacts from android to qml.
 
@@ -56,20 +56,20 @@ Pull requests of new projects/apps/libraries are welcome :)
 ## Async
 
 * [asyncfuture](https://github.com/benlau/asyncfuture) ⚠️ Archived - AsyncFuture - Use QFuture like a Promise object.
-* [quickpromise](https://github.com/benlau/quickpromise) ⭐ 179 | 🐛 3 | 🌐 QML | 📅 2021-07-03 - Quick Promise - QML Promise Library.
+* [quickpromise](https://github.com/benlau/quickpromise) ⭐ 178 | 🐛 3 | 🌐 QML | 📅 2021-07-03 - Quick Promise - QML Promise Library.
 * [quickfuture](https://github.com/benlau/quickfuture) ⭐ 52 | 🐛 5 | 🌐 C++ | 📅 2021-11-04 - Using QFuture in QML.
 * [QuickStreams](https://qbeon.github.io/QuickStreams/) - An asynchronous programming library for the QML programming language ([source](https://github.com/qbeon/QuickStreams) ⚠️ Archived).
 
 ## Binding
 
 * [go-qt](https://github.com/therecipe/qt) ⭐ 10,806 | 🐛 372 | 🌐 Go | 📅 2024-03-04 - Qt binding for Go (Golang) with support for Windows / macOS / Linux / Android / iOS / Sailfish OS / Raspberry Pi / AsteroidOS.
-* [Qml.Net](https://github.com/pauldotknopf/Qml.Net) ⭐ 1,413 | 🐛 52 | 🌐 C# | 📅 2022-12-08 - Qml.Net is cross-platform integration of Qml/QtQuick for .NET Core/.NET Framework/Mono. It is a binding that brings .NET types into JavaScript with full interoperability.
+* [Qml.Net](https://github.com/pauldotknopf/Qml.Net) ⭐ 1,412 | 🐛 52 | 🌐 C# | 📅 2022-12-08 - Qml.Net is cross-platform integration of Qml/QtQuick for .NET Core/.NET Framework/Mono. It is a binding that brings .NET types into JavaScript with full interoperability.
 * [qmetaobject-rs](https://github.com/woboq/qmetaobject-rs) ⭐ 735 | 🐛 94 | 🌐 Rust | 📅 2026-04-13 - A framework empowering everyone to create Qt/QML applications with Rust.
 * [qmlrs](https://github.com/cyndis/qmlrs) ⭐ 436 | 🐛 15 | 🌐 Rust | 📅 2018-09-17 - qmlrs allows the use of QML/QtQuick code from Rust.
 * [DOtherside](https://github.com/filcuc/DOtherSide) ⭐ 227 | 🐛 15 | 🌐 C++ | 📅 2025-04-02 - C language library for creating bindings for the Qt QML language.
 * [qt5.cr](https://github.com/Papierkorb/qt5.cr) ⚠️ Archived - Bindings to Crystal via Bindgen.
 * [Bindgen](https://github.com/Papierkorb/bindgen/) ⚠️ Archived - Binding and wrapper generator for C++ libraries, focused on Crystal.
-* [lablqml](https://github.com/Kakadu/lablqml) ⭐ 167 | 🐛 14 | 🌐 OCaml | 📅 2026-08-08 - Let's write QML/QtQuick GUI's for OCaml and Reason.
+* [lablqml](https://github.com/Kakadu/lablqml) ⭐ 166 | 🐛 14 | 🌐 OCaml | 📅 2026-08-08 - Let's write QML/QtQuick GUI's for OCaml and Reason.
 * [libqmlbind](https://github.com/seanchas116/libqmlbind) ⭐ 31 | 🐛 12 | 🌐 C++ | 📅 2017-07-29 - A C library for creating QML bindings for other languages easily through exporting objects to QML.
 * [Language Bindings](https://wiki.qt.io/Language_Bindings) - List of available bindings, maintained in the Qt Wiki.
 * [Language Bindings](https://en.wikipedia.org/wiki/List_of_language_bindings_for_Qt_5) - List of language bindings, maintained on Wikipedia.
@@ -112,7 +112,7 @@ Pull requests of new projects/apps/libraries are welcome :)
 
 ## Editor Integration
 
-* [QodeAssist](https://github.com/Palm1r/QodeAssist) ⭐ 436 | 🐛 27 | 🌐 C++ | 📅 2026-08-03 - AI-powered opensource coding assistant plugin for Qt Creator.
+* [QodeAssist](https://github.com/Palm1r/QodeAssist) ⭐ 437 | 🐛 27 | 🌐 C++ | 📅 2026-08-03 - AI-powered opensource coding assistant plugin for Qt Creator.
 * [vim-qml](https://github.com/peterhoeg/vim-qml) ⭐ 155 | 🐛 0 | 🌐 Vim Script | 📅 2023-09-11 - QML syntax highlighting for vim.
 * [intellij-qml](https://github.com/kropp/intellij-qml) ⚠️ Archived - QML support for IntelliJ-based IDEs.
 * [Sublime-QML](https://github.com/skozlovf/Sublime-QML) ⭐ 29 | 🐛 3 | 🌐 QML | 📅 2023-11-22 - QML support for Sublime Text 2 and Sublime Text 3.
@@ -146,7 +146,7 @@ Pull requests of new projects/apps/libraries are welcome :)
 ## Images
 
 * [QML-Loaders](https://github.com/Furkanzmc/QML-Loaders) ⭐ 290 | 🐛 1 | 🌐 QML | 📅 2021-04-06 - Loading animation implementations in QML.
-* [SCodes](https://github.com/scytheStudio/SCodes) ⭐ 140 | 🐛 15 | 🌐 C++ | 📅 2026-04-20 - Qt & QML wrapper for [ZXing-C++ Library](https://github.com/nu-book/zxing-cpp) ⭐ 1,975 | 🐛 40 | 🌐 C++ | 📅 2026-08-20 with ready-made QML items for decoding and generating 1D and 2D barcodes (aka. QR codes).
+* [SCodes](https://github.com/scytheStudio/SCodes) ⭐ 140 | 🐛 15 | 🌐 C++ | 📅 2026-04-20 - Qt & QML wrapper for [ZXing-C++ Library](https://github.com/nu-book/zxing-cpp) ⭐ 1,978 | 🐛 39 | 🌐 C++ | 📅 2026-08-20 with ready-made QML items for decoding and generating 1D and 2D barcodes (aka. QR codes).
 * [qqr.js](https://github.com/M4rtinK/qqr.js) ⭐ 40 | 🐛 2 | 🌐 JavaScript | 📅 2015-02-24 - QML bindings for qr.js Javascript QR code library.
 * [imagequick](https://github.com/hluk/imagequick) ⭐ 18 | 🐛 0 | 🌐 C++ | 📅 2014-07-09 - Simple image browser written in QML.
 * [QML-ImageProvider](https://github.com/Daguerreo/QML-ImageProvider) ⭐ 15 | 🐛 0 | 🌐 C++ | 📅 2021-03-09 - Demonstrate how to use QQuickImageProvider to provide a stream of image to QML.
@@ -154,7 +154,7 @@ Pull requests of new projects/apps/libraries are welcome :)
 
 ## JavaScript
 
-* [quickflux](https://github.com/benlau/quickflux) ⭐ 342 | 🐛 13 | 🌐 C++ | 📅 2024-04-10 - QuickFlux is an implementation of Flux Application Architecture Framework from Facebook.
+* [quickflux](https://github.com/benlau/quickflux) ⭐ 341 | 🐛 13 | 🌐 C++ | 📅 2024-04-10 - QuickFlux is an implementation of Flux Application Architecture Framework from Facebook.
 * [Quickly](https://github.com/quickly/quickly) ⭐ 222 | 🐛 115 | 🌐 JavaScript | 📅 2017-04-21 - ES6 and Node.js-like environment for QML.
 * [react-qml](https://github.com/grassator/react-qml) ⭐ 113 | 🐛 0 | 🌐 JavaScript | 📅 2017-12-15 - A bridge library that allows to use React.js with QML.
 * [Node.qml](https://github.com/trollixx/node.qml) ⭐ 75 | 🐛 1 | 🌐 C++ | 📅 2015-05-26 - Node.qml is an effort to provide a Node.js compatibility layer to QML applications.
@@ -182,7 +182,7 @@ Pull requests of new projects/apps/libraries are welcome :)
 
 ## Misc
 
-* [nodeeditor](https://github.com/paceholder/nodeeditor) ⭐ 3,683 | 🐛 85 | 🌐 C++ | 📅 2026-07-31 - Qt Node Editor. Dataflow programming framework.
+* [nodeeditor](https://github.com/paceholder/nodeeditor) ⭐ 3,684 | 🐛 85 | 🌐 C++ | 📅 2026-07-31 - Qt Node Editor. Dataflow programming framework.
 * [Qt-Advanced-Docking-System](https://github.com/mfreiholz/Qt-Advanced-Docking-System) ⭐ 829 | 🐛 29 | 🌐 C++ | 📅 2024-08-19 - Advanced Docking System for Qt.
 * [QtAutoUpdater](https://github.com/Skycoder42/QtAutoUpdater) ⭐ 813 | 🐛 10 | 🌐 C++ | 📅 2023-03-04 - A Qt library to automatically check for updates and install them.
 * [qmlweb](https://github.com/qmlweb/qmlweb) ⭐ 793 | 🐛 80 | 🌐 JavaScript | 📅 2022-04-11 - A QML engine in a web browser.
@@ -196,7 +196,7 @@ Pull requests of new projects/apps/libraries are welcome :)
 * [QtFreeVirtualKeyboard](https://github.com/githubuser0xFFFF/QtFreeVirtualKeyboard) ⭐ 272 | 🐛 8 | 🌐 Makefile | 📅 2022-02-22 - A QML based on screen virtual keyboard for embedded QML applications.
 * [qmlwebdriver](https://github.com/cisco-open-source/qtwebdriver) ⭐ 200 | 🐛 27 | 🌐 C++ | 📅 2022-07-06 - QtWebDriver is a WebDriver implementation for Qt.
 * [qtci](https://github.com/benlau/qtci) ⚠️ Archived - Collection of scripts to build Qt application in command line environment.
-* [qmlnotify](https://github.com/alamminsalo/qmlnotify) ⭐ 159 | 🐛 0 | 🌐 QML | 📅 2018-07-10 - Desktop notification server which implements org.freedesktop.Notifications, using modern Qt/Qml technologies.
+* [qmlnotify](https://github.com/alamminsalo/qmlnotify) ⭐ 157 | 🐛 0 | 🌐 QML | 📅 2018-07-10 - Desktop notification server which implements org.freedesktop.Notifications, using modern Qt/Qml technologies.
 * [QtQuickVcp](https://github.com/qtquickvcp/QtQuickVcp) ⭐ 138 | 🐛 27 | 🌐 C++ | 📅 2022-02-27 - A Virtual Control Panel for Machinekit written in Qt/C++/QML.
 * [yat](https://github.com/jorgen/yat) ⭐ 119 | 🐛 1 | 🌐 C++ | 📅 2017-09-12 - Terminal Emulator written in C++ and qml.
 * [sparkqml](https://github.com/benlau/sparkqml) ⭐ 102 | 🐛 1 | 🌐 JavaScript | 📅 2019-06-01 - SparkQML - A QML Document Viewer for State and Transition Preview.
@@ -246,7 +246,7 @@ Pull requests of new projects/apps/libraries are welcome :)
 ## Multimedia
 
 * [QtAv](https://github.com/wang-bin/QtAV) ⭐ 4,258 | 🐛 523 | 🌐 C++ | 📅 2025-08-15 - A multimedia playback framework based on Qt and FFmpeg to write a player easily.
-* [Kamoso](https://github.com/KDE/kamoso) ⭐ 50 | 🐛 0 | 🌐 C++ | 📅 2026-08-12 - Webcam Application.
+* [Kamoso](https://github.com/KDE/kamoso) ⭐ 50 | 🐛 0 | 🌐 C++ | 📅 2026-08-21 - Webcam Application.
 * [QmlVlcDemo](https://github.com/RSATom/QmlVlcDemo) ⚠️ Archived - Simple demo app for QmlVlc lib.
 * [qmlvideo](https://github.com/longwei/qmlvideo) ⭐ 33 | 🐛 0 | 🌐 C++ | 📅 2012-11-08 - QML video element backend by libVLC, rendered on gl texture.
 * [qmlmidi](https://github.com/jarnoh/qmlmidi) ⭐ 14 | 🐛 3 | 🌐 C++ | 📅 2018-08-30 - MIDI plugin for Qt Quick. Enables using MIDI input or output devices from declarative QML.
@@ -256,10 +256,10 @@ Pull requests of new projects/apps/libraries are welcome :)
 
 ## Networking
 
-* [kdeconnect-kde](https://github.com/KDE/kdeconnect-kde) ⭐ 3,936 | 🐛 0 | 🌐 C++ | 📅 2026-08-20 - Software to connect with Andriod phones. App and Plasmoid are both in QML.
+* [kdeconnect-kde](https://github.com/KDE/kdeconnect-kde) ⭐ 3,940 | 🐛 0 | 🌐 C++ | 📅 2026-08-21 - Software to connect with Andriod phones. App and Plasmoid are both in QML.
 * [qxmpp](https://github.com/qxmpp-project/qxmpp) ⚠️ Archived - Cross-platform C++ XMPP client and server library.
 * [QSsh](https://github.com/lvklabs/QSsh) ⭐ 230 | 🐛 19 | 🌐 C++ | 📅 2019-11-30 - SSH and SFTP support for Qt. This project is based on Qt Creator's `libQtcSsh.so`.
-* [qtrest](https://github.com/qtrest/qtrest) ⭐ 224 | 🐛 2 | 🌐 C++ | 📅 2026-05-27 - a small and simple REST API client for any Qt/QML application.
+* [qtrest](https://github.com/qtrest/qtrest) ⭐ 223 | 🐛 2 | 🌐 C++ | 📅 2026-05-27 - a small and simple REST API client for any Qt/QML application.
 * [QtProtobuf](https://github.com/semlanik/qtprotobuf) ⭐ 177 | 🐛 46 | 🌐 C++ | 📅 2024-09-03 - gRPC and Protobuf generator and bindings for Qt framework
 * [QuickDownload](https://github.com/Larpon/QuickDownload) ⭐ 92 | 🐛 2 | 🌐 C++ | 📅 2023-06-11 - Easy way to download files with Qt QML and C++.
 * [libcommuni](http://communi.github.io/) - A cross-platform IRC framework written with Qt ([source](https://github.com/communi/libcommuni) ⭐ 89 | 🐛 20 | 🌐 C++ | 📅 2024-05-04).
@@ -290,7 +290,7 @@ Pull requests of new projects/apps/libraries are welcome :)
 ## SDKs
 
 * [QtFirebase](https://github.com/Larpon/QtFirebase) ⭐ 289 | 🐛 25 | 🌐 C++ | 📅 2022-11-28 - An effort to bring the Firebase C++ API to Qt + QML.
-* [arcgis-runtime-toolkit-qt](https://github.com/Esri/arcgis-runtime-toolkit-qt) ⭐ 146 | 🐛 2 | 🌐 C++ | 📅 2026-08-19 - This project contains QML source code for controls and utilities you can use with the ArcGIS Runtime SDK for Qt.
+* [arcgis-runtime-toolkit-qt](https://github.com/Esri/arcgis-runtime-toolkit-qt) ⭐ 146 | 🐛 2 | 🌐 C++ | 📅 2026-08-21 - This project contains QML source code for controls and utilities you can use with the ArcGIS Runtime SDK for Qt.
 * [QtAdMob](https://github.com/yevgeniy-logachev/QtAdMob) ⭐ 101 | 🐛 8 | 🌐 Objective-C | 📅 2021-03-14 - QtAdMob is a C++ lib for Qt with QML support, which allows to show ads from AdMob on Android and iOS platforms.
 * [GATutorial-QML](https://github.com/lasconic/GATutorial-QML) ⭐ 9 | 🐛 0 | 🌐 Objective-C | 📅 2014-09-30 - A simple integration of Google Analytics with Qt Quick for iOS and Android.
 * [Felgo](https://felgo.com/) - Felgo (previously V-Play Engine) allows easy cross-platform mobile games and apps development for all major platforms including iOS, Android, BlackBerry.
@@ -301,22 +301,22 @@ Pull requests of new projects/apps/libraries are welcome :)
 ## Styling
 
 * [qml-material](https://github.com/papyros/qml-material) ⭐ 2,630 | 🐛 143 | 🌐 QML | 📅 2018-01-31 - Material Design implemented in QtQuick.
-* [fluid](https://github.com/lirios/fluid) ⭐ 888 | 🐛 63 | 🌐 QML | 📅 2026-08-19 - Fluid is a collection of cross-platform QtQuick components for building fluid and dynamic applications.
-* [HuskarUI](https://github.com/mengps/HuskarUI) ⭐ 578 | 🐛 10 | 🌐 QML | 📅 2026-08-17 - A Web Ant-Design UI Kits for Qt Quick (QML)
+* [fluid](https://github.com/lirios/fluid) ⭐ 888 | 🐛 59 | 🌐 QML | 📅 2026-08-21 - Fluid is a collection of cross-platform QtQuick components for building fluid and dynamic applications.
+* [HuskarUI](https://github.com/mengps/HuskarUI) ⭐ 579 | 🐛 10 | 🌐 QML | 📅 2026-08-17 - A Web Ant-Design UI Kits for Qt Quick (QML)
 * [qml-bootstrap](https://github.com/brexis/qml-bootstrap) ⭐ 412 | 🐛 11 | 🌐 QML | 📅 2017-07-24 - Sweet Qml components inspired from Ionic framework style for mobile and desktop Qt/Qml projects.
 * [StratifyQML](https://github.com/StratifyLabs/StratifyQML) ⭐ 231 | 🐛 11 | 🌐 QML | 📅 2018-03-24 - Stratify Labs UI QML framework inspired by Twitter Bootstrap.
 * [aqt-stylesheets](https://github.com/Ableton/aqt-stylesheets) ⭐ 229 | 🐛 15 | 🌐 C++ | 📅 2026-04-07 - StylesSheets is a library for Qt/QML that allows you to apply CSS stylesheets to QML applications.
 * [Rin-UI](https://github.com/RinLit-233-shiroko/Rin-UI) ⭐ 164 | 🐛 11 | 🌐 QML | 📅 2026-07-29 - A Fluent Design-like UI library for Qt Quick (QML)
 * [font-awesome-qml](https://github.com/QMLCommunity/font-awesome-qml) ⭐ 119 | 🐛 0 | 🌐 QML | 📅 2021-05-25 - Font Awesome in QML (Qt Quick).
 * [FlatUI-Controls-QML](https://github.com/Druage/FlatUI-Controls-QML) ⭐ 93 | 🐛 1 | 📅 2015-02-02 - This is custom made and themed QML controls. The controls are made to look and behave just like Flat UI Toolkit.
-* [Material-Qt](https://github.com/MarkoStanojevic12/Material-Qt) ⭐ 68 | 🐛 3 | 🌐 QML | 📅 2026-07-13 - A fully custom QML library built on the Material design scheme
+* [Material-Qt](https://github.com/MarkoStanojevic12/Material-Qt) ⭐ 68 | 🐛 3 | 🌐 QML | 📅 2026-08-20 - A fully custom QML library built on the Material design scheme
 * [fontawesome.pri](https://github.com/benlau/fontawesome.pri) ⭐ 53 | 🐛 1 | 🌐 QML | 📅 2020-06-09 - Using FontAwesome in QML.
 * [QMLFontAwesome](https://github.com/qCring/QMLFontAwesome) ⭐ 14 | 🐛 0 | 🌐 JavaScript | 📅 2017-03-16 - Resources for FontAwesome support in your QML application.
 * [Muse framework](https://github.com/Advanced-Effects/Muse-Qml-App-Template) ⚠️ Archived - The UI components framework that MuseScore and Audacity use. Intended to be used on desktop!
 
 ## Templates
 
-* [mini-qml](https://github.com/patrickelectric/mini-qml) ⭐ 48 | 🐛 4 | 🌐 QML | 📅 2020-08-08 - A minimal example to deploy Qml applications for Windows, Linux and Mac with Travis and AppVeyor.
+* [mini-qml](https://github.com/patrickelectric/mini-qml) ⭐ 46 | 🐛 4 | 🌐 QML | 📅 2020-08-08 - A minimal example to deploy Qml applications for Windows, Linux and Mac with Travis and AppVeyor.
 * [QMLApplicationTemplate](https://github.com/qCring/QMLApplicationTemplate) ⭐ 45 | 🐛 0 | 🌐 CMake | 📅 2017-07-21 - CMake project template for a simple QML application.
 * [quickflux-project-template](https://github.com/benlau/quickflux-project-template) ⭐ 8 | 🐛 0 | 🌐 C++ | 📅 2016-09-28 - Project template using QuickFlux with unit tests.
 * [qpm-qt-creator-project-template](https://github.com/benlau/qpm-qt-creator-project-template) ⭐ 7 | 🐛 0 | 🌐 C++ | 📅 2017-12-08 - Qt Creator Project Templates with qpm.
@@ -341,7 +341,7 @@ Pull requests of new projects/apps/libraries are welcome :)
 
 ## X11/Wayland
 
-* [quickshell](https://github.com/quickshell-mirror/quickshell) ⭐ 2,806 | 🐛 431 | 🌐 C++ | 📅 2026-08-20 - Flexible toolkit for making desktop shells with QtQuick, for Wayland and X11.
+* [quickshell](https://github.com/quickshell-mirror/quickshell) ⭐ 2,810 | 🐛 433 | 🌐 C++ | 📅 2026-08-21 - Flexible toolkit for making desktop shells with QtQuick, for Wayland and X11.
 * [sddm](https://github.com/sddm/sddm) ⭐ 2,335 | 🐛 751 | 🌐 C++ | 📅 2026-08-19 - QML based X11 and Wayland display manager.
 * [shell](https://github.com/lirios/shell) ⭐ 248 | 🐛 35 | 🌐 C++ | 📅 2024-02-11 - QtQuick and Wayland shell for convergence.
 * [qmlcompmgr](https://github.com/amezin/qmlcompmgr) ⚠️ Archived - It's a simple compositing manager for X11, written using Qt Quick and QML. Not ready for production.
@@ -363,18 +363,18 @@ Pull requests of new projects/apps/libraries are welcome :)
 
 # Software
 
-* [tdesktop](https://github.com/telegramdesktop/tdesktop) ⭐ 32,650 | 🐛 1,014 | 🌐 C++ | 📅 2026-08-19 - Telegram Desktop messaging app.
-* [cool-retro-term](https://github.com/Swordfish90/cool-retro-term) ⭐ 25,933 | 🐛 561 | 🌐 QML | 📅 2026-05-31 - Is a terminal emulator which mimics the look and feel of the old cathode tube screens. It has been designed to be eye-candy, customizable, and reasonably lightweight.
-* [QOwnNotes](https://github.com/pbek/QOwnNotes) ⭐ 5,844 | 🐛 63 | 🌐 C++ | 📅 2026-08-18 - QOwnNotes is a plain-text file notepad and todo-list manager with markdown support and ownCloud / Nextcloud integration.
-* [QGroundControl](https://github.com/mavlink/qgroundcontrol) ⭐ 4,858 | 🐛 995 | 🌐 C++ | 📅 2026-08-20 - UAV Ground Control Station (Linux, Windows, MacOS, Android, iOS)
+* [tdesktop](https://github.com/telegramdesktop/tdesktop) ⭐ 32,656 | 🐛 1,003 | 🌐 C++ | 📅 2026-08-21 - Telegram Desktop messaging app.
+* [cool-retro-term](https://github.com/Swordfish90/cool-retro-term) ⭐ 25,937 | 🐛 561 | 🌐 QML | 📅 2026-05-31 - Is a terminal emulator which mimics the look and feel of the old cathode tube screens. It has been designed to be eye-candy, customizable, and reasonably lightweight.
+* [QOwnNotes](https://github.com/pbek/QOwnNotes) ⭐ 5,844 | 🐛 63 | 🌐 C++ | 📅 2026-08-21 - QOwnNotes is a plain-text file notepad and todo-list manager with markdown support and ownCloud / Nextcloud integration.
+* [QGroundControl](https://github.com/mavlink/qgroundcontrol) ⭐ 4,860 | 🐛 997 | 🌐 C++ | 📅 2026-08-20 - UAV Ground Control Station (Linux, Windows, MacOS, Android, iOS)
 * [pegasus-frontend](https://github.com/mmatyas/pegasus-frontend) ⭐ 1,872 | 🐛 152 | 🌐 C++ | 📅 2026-07-26 - A cross platform, customizable graphical frontend for launching emulators and managing your game collection.
 * [SerialTest](https://github.com/wh201906/SerialTest) ⭐ 1,641 | 🐛 27 | 🌐 C++ | 📅 2024-06-17 - Debugging serial port/Bluetooth SPP/BLE/TCP server/TCP client/UDP connections on Windows/Linux/Android.
-* [ScreenCapture](https://github.com/xland/ScreenCapture) ⭐ 1,459 | 🐛 31 | 🌐 C++ | 📅 2026-08-20 - A feature-rich screenshot program.
+* [ScreenCapture](https://github.com/xland/ScreenCapture) ⭐ 1,464 | 🐛 31 | 🌐 C++ | 📅 2026-08-21 - A feature-rich screenshot program.
 * [panopticon](https://github.com/das-labor/panopticon) ⚠️ Archived - A libre cross-platform disassembler.
-* [yubioath-desktop](https://github.com/Yubico/yubioath-desktop) ⭐ 1,364 | 🐛 107 | 🌐 Dart | 📅 2026-08-17 - Yubico Authenticator for Desktop (Windows, macOS and Linux).
-* [QVGE](https://github.com/ArsMasiuk/qvge) ⭐ 670 | 🐛 40 | 🌐 C++ | 📅 2025-07-01 - Qt Visual Graph Editor.
+* [yubioath-desktop](https://github.com/Yubico/yubioath-desktop) ⭐ 1,365 | 🐛 107 | 🌐 Dart | 📅 2026-08-17 - Yubico Authenticator for Desktop (Windows, macOS and Linux).
+* [QVGE](https://github.com/ArsMasiuk/qvge) ⭐ 669 | 🐛 40 | 🌐 C++ | 📅 2025-07-01 - Qt Visual Graph Editor.
 * [Tasket++](https://github.com/AmirHammouteneEI/ScheduledPasteAndKeys) ⭐ 196 | 🐛 0 | 🌐 C++ | 📅 2026-07-13 - GUI based scheduler and automation tool for PC user actions simulations
-* [Rolisteam](https://github.com/Rolisteam/rolisteam) ⭐ 193 | 🐛 15 | 🌐 C++ | 📅 2026-06-21 - VirtualTableTop software to play Pen and paper role playing games.
+* [Rolisteam](https://github.com/Rolisteam/rolisteam) ⭐ 194 | 🐛 15 | 🌐 C++ | 📅 2026-06-21 - VirtualTableTop software to play Pen and paper role playing games.
 * [tensor](https://github.com/davidar/tensor) ⭐ 172 | 🐛 5 | 🌐 C++ | 📅 2017-02-21 - Tensor is an IM client for the Matrix protocol in development.
 * [yat](https://github.com/jorgen/yat) ⭐ 119 | 🐛 1 | 🌐 C++ | 📅 2017-09-12 - Terminal Emulator written in C++ and qml.
 * [IPConnect](https://github.com/shashwatdixit124/IPConnect) ⭐ 90 | 🐛 1 | 🌐 C++ | 📅 2017-10-30 - P2P Chat and File Transfer Desktop Application.
@@ -391,4 +391,4 @@ Pull requests of new projects/apps/libraries are welcome :)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._

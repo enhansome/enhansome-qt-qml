@@ -15,7 +15,7 @@
             "last_commit": "2026-04-28T20:42:20Z",
             "owner": "FalsinSoft",
             "repo": "QtAndroidTools",
-            "stars": 296
+            "stars": 295
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2017-04-25T05:21:07Z",
             "owner": "benlau",
             "repo": "quickandroid",
-            "stars": 236
+            "stars": 234
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2018-02-14T08:39:16Z",
             "owner": "dobokirisame",
             "repo": "qml-filedialog",
-            "stars": 52
+            "stars": 50
           }
         },
         {
@@ -177,7 +177,7 @@
             "last_commit": "2021-07-03T17:18:39Z",
             "owner": "benlau",
             "repo": "quickpromise",
-            "stars": 179
+            "stars": 178
           }
         },
         {
@@ -243,7 +243,7 @@
             "last_commit": "2022-12-08T05:22:33Z",
             "owner": "qmlnet",
             "repo": "qmlnet",
-            "stars": 1413
+            "stars": 1412
           }
         },
         {
@@ -333,7 +333,7 @@
             "last_commit": "2026-08-08T13:53:32Z",
             "owner": "Kakadu",
             "repo": "lablqml",
-            "stars": 167
+            "stars": 166
           }
         },
         {
@@ -591,7 +591,7 @@
             "last_commit": "2026-08-03T15:06:17Z",
             "owner": "Palm1r",
             "repo": "QodeAssist",
-            "stars": 436
+            "stars": 437
           }
         },
         {
@@ -966,7 +966,7 @@
             "last_commit": "2024-04-10T21:32:21Z",
             "owner": "benlau",
             "repo": "quickflux",
-            "stars": 342
+            "stars": 341
           }
         },
         {
@@ -1194,7 +1194,7 @@
             "last_commit": "2026-07-31T16:56:51Z",
             "owner": "paceholder",
             "repo": "nodeeditor",
-            "stars": 3683
+            "stars": 3684
           }
         },
         {
@@ -1404,7 +1404,7 @@
             "last_commit": "2018-07-10T15:47:41Z",
             "owner": "alamminsalo",
             "repo": "qmlnotify",
-            "stars": 159
+            "stars": 157
           }
         },
         {
@@ -2082,7 +2082,7 @@
             "archived": false,
             "id": 42736918,
             "language": "C++",
-            "last_commit": "2026-08-12T05:56:29Z",
+            "last_commit": "2026-08-21T10:08:06Z",
             "owner": "KDE",
             "repo": "kamoso",
             "stars": 50
@@ -2163,10 +2163,10 @@
             "archived": false,
             "id": 42725503,
             "language": "C++",
-            "last_commit": "2026-08-20T11:09:41Z",
+            "last_commit": "2026-08-21T14:39:14Z",
             "owner": "KDE",
             "repo": "kdeconnect-kde",
-            "stars": 3936
+            "stars": 3940
           }
         },
         {
@@ -2211,7 +2211,7 @@
             "last_commit": "2026-05-27T07:29:47Z",
             "owner": "qtrest",
             "repo": "qtrest",
-            "stars": 224
+            "stars": 223
           }
         },
         {
@@ -2490,7 +2490,7 @@
             "archived": false,
             "id": 23629913,
             "language": "C++",
-            "last_commit": "2026-08-19T19:02:15Z",
+            "last_commit": "2026-08-21T14:38:18Z",
             "owner": "Esri",
             "repo": "arcgis-maps-sdk-toolkit-qt",
             "stars": 146
@@ -2556,7 +2556,7 @@
             "archived": false,
             "id": 63346224,
             "language": "QML",
-            "last_commit": "2026-08-19T18:43:42Z",
+            "last_commit": "2026-08-21T08:17:44Z",
             "owner": "lirios",
             "repo": "fluid",
             "stars": 888
@@ -2574,7 +2574,7 @@
             "last_commit": "2026-08-17T15:08:13Z",
             "owner": "mengps",
             "repo": "HuskarUI",
-            "stars": 578
+            "stars": 579
           }
         },
         {
@@ -2676,7 +2676,7 @@
             "archived": false,
             "id": 938985333,
             "language": "QML",
-            "last_commit": "2026-07-13T15:31:34Z",
+            "last_commit": "2026-08-20T16:01:01Z",
             "owner": "MarkoStanojevic12",
             "repo": "MMaterial",
             "stars": 68
@@ -2745,7 +2745,7 @@
             "last_commit": "2020-08-08T15:30:24Z",
             "owner": "patrickelectric",
             "repo": "mini-qml",
-            "stars": 48
+            "stars": 46
           }
         },
         {
@@ -2910,10 +2910,10 @@
             "archived": false,
             "id": 766993934,
             "language": "C++",
-            "last_commit": "2026-08-20T11:09:04Z",
+            "last_commit": "2026-08-21T02:29:43Z",
             "owner": "quickshell-mirror",
             "repo": "quickshell",
-            "stars": 2806
+            "stars": 2810
           }
         },
         {
@@ -3027,10 +3027,10 @@
             "archived": false,
             "id": 19374812,
             "language": "C++",
-            "last_commit": "2026-08-19T16:32:34Z",
+            "last_commit": "2026-08-21T14:40:44Z",
             "owner": "telegramdesktop",
             "repo": "tdesktop",
-            "stars": 32650
+            "stars": 32656
           }
         },
         {
@@ -3045,7 +3045,7 @@
             "last_commit": "2026-05-31T10:12:54Z",
             "owner": "Swordfish90",
             "repo": "cool-retro-term",
-            "stars": 25933
+            "stars": 25937
           }
         },
         {
@@ -3057,7 +3057,7 @@
             "archived": false,
             "id": 27436491,
             "language": "C++",
-            "last_commit": "2026-08-18T16:14:22Z",
+            "last_commit": "2026-08-21T14:08:57Z",
             "owner": "pbek",
             "repo": "QOwnNotes",
             "stars": 5844
@@ -3072,10 +3072,10 @@
             "archived": false,
             "id": 2567844,
             "language": "C++",
-            "last_commit": "2026-08-20T08:38:59Z",
+            "last_commit": "2026-08-20T23:33:35Z",
             "owner": "mavlink",
             "repo": "qgroundcontrol",
-            "stars": 4858
+            "stars": 4860
           }
         },
         {
@@ -3117,10 +3117,10 @@
             "archived": false,
             "id": 625084443,
             "language": "C++",
-            "last_commit": "2026-08-20T06:58:24Z",
+            "last_commit": "2026-08-21T11:16:58Z",
             "owner": "xland",
             "repo": "ScreenCapture",
-            "stars": 1459
+            "stars": 1464
           }
         },
         {
@@ -3150,7 +3150,7 @@
             "last_commit": "2026-08-17T12:33:06Z",
             "owner": "Yubico",
             "repo": "yubioath-flutter",
-            "stars": 1364
+            "stars": 1365
           }
         },
         {
@@ -3165,7 +3165,7 @@
             "last_commit": "2025-07-01T16:36:02Z",
             "owner": "ArsMasiuk",
             "repo": "qvge",
-            "stars": 670
+            "stars": 669
           }
         },
         {
@@ -3195,7 +3195,7 @@
             "last_commit": "2026-06-21T05:25:42Z",
             "owner": "Rolisteam",
             "repo": "rolisteam",
-            "stars": 193
+            "stars": 194
           }
         },
         {
@@ -3308,7 +3308,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T15:08:23.263Z",
+    "last_updated": "2026-08-21T15:06:28.017Z",
     "original_repository": "mikalv/awesome-qt-qml",
     "original_repository_id": 95331210,
     "original_repository_sha": "dbeebe15890cdfebe5deda640ae7ddd495983ceb",
