@@ -228,7 +228,7 @@
             "last_commit": "2024-03-04T15:58:37Z",
             "owner": "therecipe",
             "repo": "qt",
-            "stars": 10806
+            "stars": 10808
           }
         },
         {
@@ -2163,10 +2163,10 @@
             "archived": false,
             "id": 42725503,
             "language": "C++",
-            "last_commit": "2026-08-21T14:39:14Z",
+            "last_commit": "2026-08-22T03:26:14Z",
             "owner": "KDE",
             "repo": "kdeconnect-kde",
-            "stars": 3940
+            "stars": 3941
           }
         },
         {
@@ -2490,7 +2490,7 @@
             "archived": false,
             "id": 23629913,
             "language": "C++",
-            "last_commit": "2026-08-21T14:38:18Z",
+            "last_commit": "2026-08-21T21:43:25Z",
             "owner": "Esri",
             "repo": "arcgis-maps-sdk-toolkit-qt",
             "stars": 146
@@ -2556,7 +2556,7 @@
             "archived": false,
             "id": 63346224,
             "language": "QML",
-            "last_commit": "2026-08-21T08:17:44Z",
+            "last_commit": "2026-08-21T22:19:02Z",
             "owner": "lirios",
             "repo": "fluid",
             "stars": 888
@@ -2913,7 +2913,7 @@
             "last_commit": "2026-08-21T02:29:43Z",
             "owner": "quickshell-mirror",
             "repo": "quickshell",
-            "stars": 2810
+            "stars": 2822
           }
         },
         {
@@ -2928,7 +2928,7 @@
             "last_commit": "2026-08-19T10:45:49Z",
             "owner": "sddm",
             "repo": "sddm",
-            "stars": 2335
+            "stars": 2336
           }
         },
         {
@@ -3027,10 +3027,10 @@
             "archived": false,
             "id": 19374812,
             "language": "C++",
-            "last_commit": "2026-08-21T14:40:44Z",
+            "last_commit": "2026-08-22T14:30:49Z",
             "owner": "telegramdesktop",
             "repo": "tdesktop",
-            "stars": 32656
+            "stars": 32667
           }
         },
         {
@@ -3045,7 +3045,7 @@
             "last_commit": "2026-05-31T10:12:54Z",
             "owner": "Swordfish90",
             "repo": "cool-retro-term",
-            "stars": 25937
+            "stars": 25940
           }
         },
         {
@@ -3057,10 +3057,10 @@
             "archived": false,
             "id": 27436491,
             "language": "C++",
-            "last_commit": "2026-08-21T14:08:57Z",
+            "last_commit": "2026-08-22T11:13:27Z",
             "owner": "pbek",
             "repo": "QOwnNotes",
-            "stars": 5844
+            "stars": 5843
           }
         },
         {
@@ -3072,7 +3072,7 @@
             "archived": false,
             "id": 2567844,
             "language": "C++",
-            "last_commit": "2026-08-20T23:33:35Z",
+            "last_commit": "2026-08-21T19:57:41Z",
             "owner": "mavlink",
             "repo": "qgroundcontrol",
             "stars": 4860
@@ -3090,7 +3090,7 @@
             "last_commit": "2026-07-26T14:59:14Z",
             "owner": "mmatyas",
             "repo": "pegasus-frontend",
-            "stars": 1872
+            "stars": 1873
           }
         },
         {
@@ -3105,7 +3105,7 @@
             "last_commit": "2024-06-17T11:33:30Z",
             "owner": "wh201906",
             "repo": "SerialTest",
-            "stars": 1641
+            "stars": 1643
           }
         },
         {
@@ -3117,10 +3117,10 @@
             "archived": false,
             "id": 625084443,
             "language": "C++",
-            "last_commit": "2026-08-21T11:16:58Z",
+            "last_commit": "2026-08-22T05:01:11Z",
             "owner": "xland",
             "repo": "ScreenCapture",
-            "stars": 1464
+            "stars": 1467
           }
         },
         {
@@ -3150,7 +3150,7 @@
             "last_commit": "2026-08-17T12:33:06Z",
             "owner": "Yubico",
             "repo": "yubioath-flutter",
-            "stars": 1365
+            "stars": 1366
           }
         },
         {
@@ -3180,7 +3180,7 @@
             "last_commit": "2026-07-13T05:58:53Z",
             "owner": "AmirHammouteneEI",
             "repo": "ScheduledPasteAndKeys",
-            "stars": 196
+            "stars": 195
           }
         },
         {
@@ -3308,7 +3308,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T15:06:28.017Z",
+    "last_updated": "2026-08-22T14:53:49.682Z",
     "original_repository": "mikalv/awesome-qt-qml",
     "original_repository_id": 95331210,
     "original_repository_sha": "dbeebe15890cdfebe5deda640ae7ddd495983ceb",
