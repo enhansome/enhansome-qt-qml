@@ -1,6 +1,6 @@
 # Awesome Qt with stars
 
-A curated list of awesome Qt and QML libraries, resources, projects, and shiny things. Inspired by [awesome-cpp](https://github.com/fffaraz/awesome-cpp) ⭐ 72,908 | 🐛 311 | 📅 2026-08-22 and other awesome lists.
+A curated list of awesome Qt and QML libraries, resources, projects, and shiny things. Inspired by [awesome-cpp](https://github.com/fffaraz/awesome-cpp) ⭐ 72,910 | 🐛 311 | 📅 2026-08-22 and other awesome lists.
 
 Pull requests of new projects/apps/libraries are welcome :)
 
@@ -302,7 +302,7 @@ Pull requests of new projects/apps/libraries are welcome :)
 
 * [qml-material](https://github.com/papyros/qml-material) ⭐ 2,631 | 🐛 143 | 🌐 QML | 📅 2018-01-31 - Material Design implemented in QtQuick.
 * [fluid](https://github.com/lirios/fluid) ⭐ 888 | 🐛 60 | 🌐 QML | 📅 2026-08-21 - Fluid is a collection of cross-platform QtQuick components for building fluid and dynamic applications.
-* [HuskarUI](https://github.com/mengps/HuskarUI) ⭐ 580 | 🐛 10 | 🌐 QML | 📅 2026-08-17 - A Web Ant-Design UI Kits for Qt Quick (QML)
+* [HuskarUI](https://github.com/mengps/HuskarUI) ⭐ 580 | 🐛 10 | 🌐 QML | 📅 2026-08-24 - A Web Ant-Design UI Kits for Qt Quick (QML)
 * [qml-bootstrap](https://github.com/brexis/qml-bootstrap) ⭐ 412 | 🐛 11 | 🌐 QML | 📅 2017-07-24 - Sweet Qml components inspired from Ionic framework style for mobile and desktop Qt/Qml projects.
 * [StratifyQML](https://github.com/StratifyLabs/StratifyQML) ⭐ 231 | 🐛 11 | 🌐 QML | 📅 2018-03-24 - Stratify Labs UI QML framework inspired by Twitter Bootstrap.
 * [aqt-stylesheets](https://github.com/Ableton/aqt-stylesheets) ⭐ 229 | 🐛 15 | 🌐 C++ | 📅 2026-04-07 - StylesSheets is a library for Qt/QML that allows you to apply CSS stylesheets to QML applications.
@@ -341,7 +341,7 @@ Pull requests of new projects/apps/libraries are welcome :)
 
 ## X11/Wayland
 
-* [quickshell](https://github.com/quickshell-mirror/quickshell) ⭐ 2,847 | 🐛 449 | 🌐 C++ | 📅 2026-08-22 - Flexible toolkit for making desktop shells with QtQuick, for Wayland and X11.
+* [quickshell](https://github.com/quickshell-mirror/quickshell) ⭐ 2,847 | 🐛 448 | 🌐 C++ | 📅 2026-08-22 - Flexible toolkit for making desktop shells with QtQuick, for Wayland and X11.
 * [sddm](https://github.com/sddm/sddm) ⭐ 2,338 | 🐛 751 | 🌐 C++ | 📅 2026-08-19 - QML based X11 and Wayland display manager.
 * [shell](https://github.com/lirios/shell) ⭐ 248 | 🐛 35 | 🌐 C++ | 📅 2024-02-11 - QtQuick and Wayland shell for convergence.
 * [qmlcompmgr](https://github.com/amezin/qmlcompmgr) ⚠️ Archived - It's a simple compositing manager for X11, written using Qt Quick and QML. Not ready for production.
@@ -363,7 +363,7 @@ Pull requests of new projects/apps/libraries are welcome :)
 
 # Software
 
-* [tdesktop](https://github.com/telegramdesktop/tdesktop) ⭐ 32,715 | 🐛 1,006 | 🌐 C++ | 📅 2026-08-24 - Telegram Desktop messaging app.
+* [tdesktop](https://github.com/telegramdesktop/tdesktop) ⭐ 32,716 | 🐛 1,006 | 🌐 C++ | 📅 2026-08-24 - Telegram Desktop messaging app.
 * [cool-retro-term](https://github.com/Swordfish90/cool-retro-term) ⭐ 25,947 | 🐛 561 | 🌐 QML | 📅 2026-05-31 - Is a terminal emulator which mimics the look and feel of the old cathode tube screens. It has been designed to be eye-candy, customizable, and reasonably lightweight.
 * [QOwnNotes](https://github.com/pbek/QOwnNotes) ⭐ 5,845 | 🐛 63 | 🌐 C++ | 📅 2026-08-23 - QOwnNotes is a plain-text file notepad and todo-list manager with markdown support and ownCloud / Nextcloud integration.
 * [QGroundControl](https://github.com/mavlink/qgroundcontrol) ⭐ 4,862 | 🐛 999 | 🌐 C++ | 📅 2026-08-23 - UAV Ground Control Station (Linux, Windows, MacOS, Android, iOS)
