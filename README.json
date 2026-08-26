@@ -288,7 +288,7 @@
             "last_commit": "2025-04-02T20:53:46Z",
             "owner": "filcuc",
             "repo": "dotherside",
-            "stars": 227
+            "stars": 228
           }
         },
         {
@@ -1194,7 +1194,7 @@
             "last_commit": "2026-07-31T16:56:51Z",
             "owner": "paceholder",
             "repo": "nodeeditor",
-            "stars": 3684
+            "stars": 3685
           }
         },
         {
@@ -1266,7 +1266,7 @@
             "archived": false,
             "id": 49439186,
             "language": "C++",
-            "last_commit": "2026-08-18T12:59:34Z",
+            "last_commit": "2026-08-26T11:34:20Z",
             "owner": "pbek",
             "repo": "qmarkdowntextedit",
             "stars": 497
@@ -1551,7 +1551,7 @@
             "archived": false,
             "id": 10188605,
             "language": "QML",
-            "last_commit": "2017-09-06T08:03:35Z",
+            "last_commit": "2026-08-25T16:15:14Z",
             "owner": "qt-labs",
             "repo": "qml-presentation-system",
             "stars": 49
@@ -2070,7 +2070,7 @@
             "last_commit": "2025-08-15T16:20:01Z",
             "owner": "wang-bin",
             "repo": "QtAV",
-            "stars": 4258
+            "stars": 4256
           }
         },
         {
@@ -2163,10 +2163,10 @@
             "archived": false,
             "id": 42725503,
             "language": "C++",
-            "last_commit": "2026-08-25T03:38:53Z",
+            "last_commit": "2026-08-26T03:31:48Z",
             "owner": "KDE",
             "repo": "kdeconnect-kde",
-            "stars": 3953
+            "stars": 3955
           }
         },
         {
@@ -2490,7 +2490,7 @@
             "archived": false,
             "id": 23629913,
             "language": "C++",
-            "last_commit": "2026-08-24T19:01:51Z",
+            "last_commit": "2026-08-25T19:33:58Z",
             "owner": "Esri",
             "repo": "arcgis-maps-sdk-toolkit-qt",
             "stars": 146
@@ -2631,7 +2631,7 @@
             "archived": false,
             "id": 945324197,
             "language": "QML",
-            "last_commit": "2026-08-25T04:27:57Z",
+            "last_commit": "2026-08-26T10:01:45Z",
             "owner": "RinLit-233-shiroko",
             "repo": "Rin-UI",
             "stars": 165
@@ -2910,10 +2910,10 @@
             "archived": false,
             "id": 766993934,
             "language": "C++",
-            "last_commit": "2026-08-25T09:14:32Z",
+            "last_commit": "2026-08-26T06:38:01Z",
             "owner": "quickshell-mirror",
             "repo": "quickshell",
-            "stars": 2859
+            "stars": 2867
           }
         },
         {
@@ -2928,7 +2928,7 @@
             "last_commit": "2026-08-19T10:45:49Z",
             "owner": "sddm",
             "repo": "sddm",
-            "stars": 2339
+            "stars": 2335
           }
         },
         {
@@ -2979,7 +2979,7 @@
             "last_commit": "2023-06-02T17:07:28Z",
             "owner": "qmlbook",
             "repo": "qmlbook",
-            "stars": 2582
+            "stars": 2583
           }
         },
         {
@@ -3027,10 +3027,10 @@
             "archived": false,
             "id": 19374812,
             "language": "C++",
-            "last_commit": "2026-08-25T14:59:56Z",
+            "last_commit": "2026-08-26T12:35:10Z",
             "owner": "telegramdesktop",
             "repo": "tdesktop",
-            "stars": 32729
+            "stars": 32742
           }
         },
         {
@@ -3045,7 +3045,7 @@
             "last_commit": "2026-05-31T10:12:54Z",
             "owner": "Swordfish90",
             "repo": "cool-retro-term",
-            "stars": 25950
+            "stars": 25956
           }
         },
         {
@@ -3057,7 +3057,7 @@
             "archived": false,
             "id": 27436491,
             "language": "C++",
-            "last_commit": "2026-08-25T09:11:40Z",
+            "last_commit": "2026-08-26T11:36:21Z",
             "owner": "pbek",
             "repo": "QOwnNotes",
             "stars": 5849
@@ -3072,10 +3072,10 @@
             "archived": false,
             "id": 2567844,
             "language": "C++",
-            "last_commit": "2026-08-25T15:18:56Z",
+            "last_commit": "2026-08-26T05:30:08Z",
             "owner": "mavlink",
             "repo": "qgroundcontrol",
-            "stars": 4869
+            "stars": 4870
           }
         },
         {
@@ -3105,7 +3105,7 @@
             "last_commit": "2024-06-17T11:33:30Z",
             "owner": "wh201906",
             "repo": "SerialTest",
-            "stars": 1643
+            "stars": 1645
           }
         },
         {
@@ -3120,7 +3120,7 @@
             "last_commit": "2026-08-25T01:29:36Z",
             "owner": "xland",
             "repo": "ScreenCapture",
-            "stars": 1472
+            "stars": 1477
           }
         },
         {
@@ -3308,7 +3308,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T15:24:55.314Z",
+    "last_updated": "2026-08-26T16:03:34.684Z",
     "original_repository": "mikalv/awesome-qt-qml",
     "original_repository_id": 95331210,
     "original_repository_sha": "dbeebe15890cdfebe5deda640ae7ddd495983ceb",
