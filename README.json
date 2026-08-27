@@ -1266,7 +1266,7 @@
             "archived": false,
             "id": 49439186,
             "language": "C++",
-            "last_commit": "2026-08-26T21:26:00Z",
+            "last_commit": "2026-08-27T19:39:30Z",
             "owner": "pbek",
             "repo": "qmarkdowntextedit",
             "stars": 497
@@ -2070,7 +2070,7 @@
             "last_commit": "2025-08-15T16:20:01Z",
             "owner": "wang-bin",
             "repo": "QtAV",
-            "stars": 4256
+            "stars": 4257
           }
         },
         {
@@ -2166,7 +2166,7 @@
             "last_commit": "2026-08-27T11:20:36Z",
             "owner": "KDE",
             "repo": "kdeconnect-kde",
-            "stars": 3954
+            "stars": 3956
           }
         },
         {
@@ -2439,10 +2439,10 @@
             "archived": false,
             "id": 20378353,
             "language": "C++",
-            "last_commit": "2026-08-18T13:32:28Z",
+            "last_commit": "2026-08-27T16:26:17Z",
             "owner": "frida",
             "repo": "frida-qml",
-            "stars": 46
+            "stars": 47
           }
         },
         {
@@ -2490,7 +2490,7 @@
             "archived": false,
             "id": 23629913,
             "language": "C++",
-            "last_commit": "2026-08-26T19:08:22Z",
+            "last_commit": "2026-08-27T19:36:52Z",
             "owner": "Esri",
             "repo": "arcgis-maps-sdk-toolkit-qt",
             "stars": 146
@@ -2631,7 +2631,7 @@
             "archived": false,
             "id": 945324197,
             "language": "QML",
-            "last_commit": "2026-08-27T03:27:55Z",
+            "last_commit": "2026-08-27T20:27:07Z",
             "owner": "RinLit-233-shiroko",
             "repo": "Rin-UI",
             "stars": 165
@@ -2913,7 +2913,7 @@
             "last_commit": "2026-08-26T06:38:01Z",
             "owner": "quickshell-mirror",
             "repo": "quickshell",
-            "stars": 2878
+            "stars": 2886
           }
         },
         {
@@ -3027,10 +3027,10 @@
             "archived": false,
             "id": 19374812,
             "language": "C++",
-            "last_commit": "2026-08-27T05:56:00Z",
+            "last_commit": "2026-08-27T15:26:57Z",
             "owner": "telegramdesktop",
             "repo": "tdesktop",
-            "stars": 32751
+            "stars": 32753
           }
         },
         {
@@ -3045,7 +3045,7 @@
             "last_commit": "2026-05-31T10:12:54Z",
             "owner": "Swordfish90",
             "repo": "cool-retro-term",
-            "stars": 25957
+            "stars": 25960
           }
         },
         {
@@ -3057,10 +3057,10 @@
             "archived": false,
             "id": 27436491,
             "language": "C++",
-            "last_commit": "2026-08-27T11:53:08Z",
+            "last_commit": "2026-08-27T20:07:21Z",
             "owner": "pbek",
             "repo": "QOwnNotes",
-            "stars": 5854
+            "stars": 5855
           }
         },
         {
@@ -3072,10 +3072,10 @@
             "archived": false,
             "id": 2567844,
             "language": "C++",
-            "last_commit": "2026-08-27T01:05:26Z",
+            "last_commit": "2026-08-27T20:44:51Z",
             "owner": "mavlink",
             "repo": "qgroundcontrol",
-            "stars": 4873
+            "stars": 4875
           }
         },
         {
@@ -3090,7 +3090,7 @@
             "last_commit": "2026-08-24T17:43:32Z",
             "owner": "mmatyas",
             "repo": "pegasus-frontend",
-            "stars": 1880
+            "stars": 1881
           }
         },
         {
@@ -3120,7 +3120,7 @@
             "last_commit": "2026-08-25T01:29:36Z",
             "owner": "xland",
             "repo": "ScreenCapture",
-            "stars": 1476
+            "stars": 1477
           }
         },
         {
@@ -3308,7 +3308,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:59:25.195Z",
+    "last_updated": "2026-08-27T23:56:32.416Z",
     "original_repository_info": {
       "archived": false,
       "id": 95331210,
