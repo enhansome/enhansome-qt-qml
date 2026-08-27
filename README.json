@@ -192,7 +192,7 @@
             "last_commit": "2021-11-04T01:07:11Z",
             "owner": "benlau",
             "repo": "quickfuture",
-            "stars": 52
+            "stars": 51
           }
         },
         {
@@ -228,7 +228,7 @@
             "last_commit": "2024-03-04T15:58:37Z",
             "owner": "therecipe",
             "repo": "qt",
-            "stars": 10809
+            "stars": 10808
           }
         },
         {
@@ -966,7 +966,7 @@
             "last_commit": "2024-04-10T21:32:21Z",
             "owner": "benlau",
             "repo": "quickflux",
-            "stars": 341
+            "stars": 340
           }
         },
         {
@@ -1194,7 +1194,7 @@
             "last_commit": "2026-07-31T16:56:51Z",
             "owner": "paceholder",
             "repo": "nodeeditor",
-            "stars": 3685
+            "stars": 3686
           }
         },
         {
@@ -1266,7 +1266,7 @@
             "archived": false,
             "id": 49439186,
             "language": "C++",
-            "last_commit": "2026-08-26T11:34:20Z",
+            "last_commit": "2026-08-26T21:26:00Z",
             "owner": "pbek",
             "repo": "qmarkdowntextedit",
             "stars": 497
@@ -1329,7 +1329,7 @@
             "last_commit": "2023-07-18T14:31:39Z",
             "owner": "oKcerG",
             "repo": "SortFilterProxyModel",
-            "stars": 321
+            "stars": 322
           }
         },
         {
@@ -2082,7 +2082,7 @@
             "archived": false,
             "id": 42736918,
             "language": "C++",
-            "last_commit": "2026-08-21T10:08:06Z",
+            "last_commit": "2026-08-27T11:18:26Z",
             "owner": "KDE",
             "repo": "kamoso",
             "stars": 50
@@ -2163,10 +2163,10 @@
             "archived": false,
             "id": 42725503,
             "language": "C++",
-            "last_commit": "2026-08-26T03:31:48Z",
+            "last_commit": "2026-08-27T11:20:36Z",
             "owner": "KDE",
             "repo": "kdeconnect-kde",
-            "stars": 3955
+            "stars": 3954
           }
         },
         {
@@ -2478,7 +2478,7 @@
             "last_commit": "2022-11-28T16:12:34Z",
             "owner": "larpon",
             "repo": "QtFirebase",
-            "stars": 290
+            "stars": 291
           }
         },
         {
@@ -2490,7 +2490,7 @@
             "archived": false,
             "id": 23629913,
             "language": "C++",
-            "last_commit": "2026-08-25T19:33:58Z",
+            "last_commit": "2026-08-26T19:08:22Z",
             "owner": "Esri",
             "repo": "arcgis-maps-sdk-toolkit-qt",
             "stars": 146
@@ -2574,7 +2574,7 @@
             "last_commit": "2026-08-24T15:15:33Z",
             "owner": "mengps",
             "repo": "HuskarUI",
-            "stars": 581
+            "stars": 582
           }
         },
         {
@@ -2631,7 +2631,7 @@
             "archived": false,
             "id": 945324197,
             "language": "QML",
-            "last_commit": "2026-08-26T10:01:45Z",
+            "last_commit": "2026-08-27T03:27:55Z",
             "owner": "RinLit-233-shiroko",
             "repo": "Rin-UI",
             "stars": 165
@@ -2649,7 +2649,7 @@
             "last_commit": "2021-05-25T19:41:32Z",
             "owner": "QMLCommunity",
             "repo": "font-awesome-qml",
-            "stars": 119
+            "stars": 120
           }
         },
         {
@@ -2877,7 +2877,7 @@
             "last_commit": "2026-08-12T08:05:15Z",
             "owner": "cneben",
             "repo": "QuickQanava",
-            "stars": 1376
+            "stars": 1374
           }
         },
         {
@@ -2892,7 +2892,7 @@
             "last_commit": "2026-06-23T18:18:37Z",
             "owner": "qCring",
             "repo": "QuickVtk",
-            "stars": 377
+            "stars": 376
           }
         }
       ],
@@ -2913,7 +2913,7 @@
             "last_commit": "2026-08-26T06:38:01Z",
             "owner": "quickshell-mirror",
             "repo": "quickshell",
-            "stars": 2867
+            "stars": 2878
           }
         },
         {
@@ -3027,10 +3027,10 @@
             "archived": false,
             "id": 19374812,
             "language": "C++",
-            "last_commit": "2026-08-26T12:35:10Z",
+            "last_commit": "2026-08-27T05:56:00Z",
             "owner": "telegramdesktop",
             "repo": "tdesktop",
-            "stars": 32742
+            "stars": 32751
           }
         },
         {
@@ -3045,7 +3045,7 @@
             "last_commit": "2026-05-31T10:12:54Z",
             "owner": "Swordfish90",
             "repo": "cool-retro-term",
-            "stars": 25956
+            "stars": 25957
           }
         },
         {
@@ -3057,10 +3057,10 @@
             "archived": false,
             "id": 27436491,
             "language": "C++",
-            "last_commit": "2026-08-26T11:36:21Z",
+            "last_commit": "2026-08-27T11:53:08Z",
             "owner": "pbek",
             "repo": "QOwnNotes",
-            "stars": 5849
+            "stars": 5854
           }
         },
         {
@@ -3072,10 +3072,10 @@
             "archived": false,
             "id": 2567844,
             "language": "C++",
-            "last_commit": "2026-08-26T05:30:08Z",
+            "last_commit": "2026-08-27T01:05:26Z",
             "owner": "mavlink",
             "repo": "qgroundcontrol",
-            "stars": 4870
+            "stars": 4873
           }
         },
         {
@@ -3120,7 +3120,7 @@
             "last_commit": "2026-08-25T01:29:36Z",
             "owner": "xland",
             "repo": "ScreenCapture",
-            "stars": 1477
+            "stars": 1476
           }
         },
         {
@@ -3150,7 +3150,7 @@
             "last_commit": "2026-08-24T12:33:16Z",
             "owner": "Yubico",
             "repo": "yubioath-flutter",
-            "stars": 1366
+            "stars": 1369
           }
         },
         {
@@ -3308,9 +3308,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T16:03:34.684Z",
-    "original_repository": "mikalv/awesome-qt-qml",
-    "original_repository_id": 95331210,
+    "last_updated": "2026-08-27T11:59:25.195Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 95331210,
+      "language": null,
+      "last_commit": "2026-01-06T01:02:04Z",
+      "owner": "mikalv",
+      "repo": "awesome-qt-qml",
+      "stars": 2606
+    },
     "original_repository_sha": "dbeebe15890cdfebe5deda640ae7ddd495983ceb",
     "enhanced_repository": "enhansome/enhansome-qt-qml",
     "enhanced_repository_description": null,
