@@ -16,7 +16,8 @@
             "owner": "FalsinSoft",
             "repo": "QtAndroidTools",
             "stars": 295
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "benlau",
             "repo": "quickandroid",
             "stars": 234
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "Iktwo",
             "repo": "QuteLauncher",
             "stars": 132
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "benlau",
             "repo": "androidnative.pri",
             "stars": 105
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "dobokirisame",
             "repo": "qml-filedialog",
             "stars": 50
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "mzafers",
             "repo": "QtVlcMediaPlayer",
             "stars": 29
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "tripolskypetr",
             "repo": "qmlcontactlist",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         }
       ],
       "title": "Android"
@@ -127,7 +134,8 @@
             "owner": "benlau",
             "repo": "quickios",
             "stars": 166
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -142,7 +150,8 @@
             "owner": "amarchen",
             "repo": "CuteContacts-iOS",
             "stars": 35
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         }
       ],
       "title": "Apple iOS"
@@ -163,7 +172,8 @@
             "owner": "benlau",
             "repo": "asyncfuture",
             "stars": 246
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -177,8 +187,9 @@
             "last_commit": "2021-07-03T17:18:39Z",
             "owner": "benlau",
             "repo": "quickpromise",
-            "stars": 178
-          }
+            "stars": 177
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -193,7 +204,8 @@
             "owner": "benlau",
             "repo": "quickfuture",
             "stars": 51
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -208,7 +220,8 @@
             "owner": "romshark",
             "repo": "QuickStreams",
             "stars": 43
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         }
       ],
       "title": "Async"
@@ -229,7 +242,8 @@
             "owner": "therecipe",
             "repo": "qt",
             "stars": 10808
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -244,7 +258,8 @@
             "owner": "qmlnet",
             "repo": "qmlnet",
             "stars": 1412
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -258,8 +273,9 @@
             "last_commit": "2026-04-13T15:52:19Z",
             "owner": "woboq",
             "repo": "qmetaobject-rs",
-            "stars": 735
-          }
+            "stars": 734
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -274,7 +290,8 @@
             "owner": "cyndis",
             "repo": "qmlrs",
             "stars": 436
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -289,7 +306,8 @@
             "owner": "filcuc",
             "repo": "dotherside",
             "stars": 228
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -304,7 +322,8 @@
             "owner": "Papierkorb",
             "repo": "qt5.cr",
             "stars": 216
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -319,7 +338,8 @@
             "owner": "Papierkorb",
             "repo": "bindgen",
             "stars": 191
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -334,7 +354,8 @@
             "owner": "Kakadu",
             "repo": "lablqml",
             "stars": 166
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -349,7 +370,8 @@
             "owner": "seanchas116",
             "repo": "libqmlbind",
             "stars": 31
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         }
       ],
       "title": "Binding"
@@ -370,7 +392,8 @@
             "owner": "HamedMasafi",
             "repo": "Nut",
             "stars": 297
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -385,7 +408,8 @@
             "owner": "ndesai",
             "repo": "sqlite-editor-qtqml",
             "stars": 98
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -400,7 +424,8 @@
             "owner": "paulovap",
             "repo": "qtleveldb",
             "stars": 57
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -415,7 +440,8 @@
             "owner": "manuels",
             "repo": "QtMongo",
             "stars": 42
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -430,7 +456,8 @@
             "owner": "JosephMillsAtWork",
             "repo": "QmlSql",
             "stars": 28
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         }
       ],
       "title": "Database"
@@ -451,7 +478,8 @@
             "owner": "penk",
             "repo": "terrarium-app",
             "stars": 295
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -465,8 +493,9 @@
             "last_commit": "2024-11-22T22:13:32Z",
             "owner": "patrickelectric",
             "repo": "qhot",
-            "stars": 227
-          }
+            "stars": 228
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -481,7 +510,8 @@
             "owner": "penk",
             "repo": "qml-livereload",
             "stars": 180
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -496,7 +526,8 @@
             "owner": "jesperhh",
             "repo": "qmlfmt",
             "stars": 105
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -511,7 +542,8 @@
             "owner": "agateau",
             "repo": "doxyqml",
             "stars": 65
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -526,7 +558,8 @@
             "owner": "e-fever",
             "repo": "qmljsify",
             "stars": 60
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -541,7 +574,8 @@
             "owner": "pkoretic",
             "repo": "qml-kickstart",
             "stars": 32
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -556,7 +590,8 @@
             "owner": "frankencode",
             "repo": "qmlscriptconsole",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -571,7 +606,8 @@
             "owner": "benlau",
             "repo": "hotloader.pri",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         }
       ],
       "title": "Development"
@@ -592,7 +628,8 @@
             "owner": "Palm1r",
             "repo": "QodeAssist",
             "stars": 439
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -607,7 +644,8 @@
             "owner": "peterhoeg",
             "repo": "vim-qml",
             "stars": 155
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -622,7 +660,8 @@
             "owner": "kropp",
             "repo": "intellij-qml",
             "stars": 56
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -637,7 +676,8 @@
             "owner": "SublimeText",
             "repo": "QML",
             "stars": 29
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -652,7 +692,8 @@
             "owner": "cataska",
             "repo": "qml-mode",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -667,7 +708,8 @@
             "owner": "rschiang",
             "repo": "atom-language-qml",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         }
       ],
       "title": "Editor Integration"
@@ -688,7 +730,8 @@
             "owner": "Bacon2D",
             "repo": "Bacon2D",
             "stars": 215
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -703,7 +746,8 @@
             "owner": "advancingu",
             "repo": "QmlOgre",
             "stars": 88
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         }
       ],
       "title": "Game Engine"
@@ -724,7 +768,8 @@
             "owner": "qml-box2d",
             "repo": "qml-box2d",
             "stars": 284
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -739,7 +784,8 @@
             "owner": "qyvlik",
             "repo": "Chart.qml",
             "stars": 151
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -754,7 +800,8 @@
             "owner": "schulzch",
             "repo": "qml-ogdf",
             "stars": 55
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -769,7 +816,8 @@
             "owner": "vannell",
             "repo": "qml_framerate",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         }
       ],
       "title": "Graphics"
@@ -790,7 +838,8 @@
             "owner": "carlonluca",
             "repo": "pot",
             "stars": 179
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -805,7 +854,8 @@
             "owner": "alex-spataru",
             "repo": "QJoysticks",
             "stars": 106
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -820,7 +870,8 @@
             "owner": "chili-epfl",
             "repo": "qml-cvcamera",
             "stars": 58
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -835,7 +886,8 @@
             "owner": "andeplane",
             "repo": "qt-touchbar",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -850,7 +902,8 @@
             "owner": "somcosoftware",
             "repo": "Qt-BLE-Example",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         }
       ],
       "title": "Hardware"
@@ -870,8 +923,9 @@
             "last_commit": "2021-04-06T13:15:35Z",
             "owner": "Furkanzmc",
             "repo": "QML-Loaders",
-            "stars": 290
-          }
+            "stars": 289
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -886,7 +940,8 @@
             "owner": "somcosoftware",
             "repo": "SCodes",
             "stars": 141
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -901,7 +956,8 @@
             "owner": "M4rtinK",
             "repo": "qqr.js",
             "stars": 40
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -916,7 +972,8 @@
             "owner": "hluk",
             "repo": "imagequick",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -931,7 +988,8 @@
             "owner": "Daguerreo",
             "repo": "QML-ImageProvider",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -946,7 +1004,8 @@
             "owner": "Match-Yang",
             "repo": "QMLExif",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         }
       ],
       "title": "Images"
@@ -967,7 +1026,8 @@
             "owner": "benlau",
             "repo": "quickflux",
             "stars": 340
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -982,7 +1042,8 @@
             "owner": "quickly",
             "repo": "quickly",
             "stars": 222
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -997,7 +1058,8 @@
             "owner": "grassator",
             "repo": "react-qml",
             "stars": 113
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -1012,7 +1074,8 @@
             "owner": "trollixx",
             "repo": "node.qml",
             "stars": 75
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -1027,7 +1090,8 @@
             "owner": "achipa",
             "repo": "Qondrite",
             "stars": 51
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -1042,7 +1106,8 @@
             "owner": "paulondc",
             "repo": "quicknative",
             "stars": 46
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -1057,7 +1122,8 @@
             "owner": "benlau",
             "repo": "qredux",
             "stars": 26
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -1072,7 +1138,8 @@
             "owner": "easyQML",
             "repo": "lodash.qml",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -1087,7 +1154,8 @@
             "owner": "diro",
             "repo": "qml_underscorejs",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -1102,7 +1170,8 @@
             "owner": "bhdouglass",
             "repo": "qml-browserify",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         }
       ],
       "title": "JavaScript"
@@ -1123,7 +1192,8 @@
             "owner": "benlau",
             "repo": "qsyncable",
             "stars": 121
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -1138,7 +1208,8 @@
             "owner": "vmatikainen",
             "repo": "spine-qml-converter",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         }
       ],
       "title": "JSON"
@@ -1159,7 +1230,8 @@
             "owner": "abumq",
             "repo": "qmllogging",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -1174,7 +1246,8 @@
             "owner": "dpeytonX",
             "repo": "QmlLogger",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         }
       ],
       "title": "Logging"
@@ -1195,7 +1268,8 @@
             "owner": "paceholder",
             "repo": "nodeeditor",
             "stars": 3686
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -1210,7 +1284,8 @@
             "owner": "mfreiholz",
             "repo": "Qt-Advanced-Docking-System",
             "stars": 829
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -1225,7 +1300,8 @@
             "owner": "Skycoder42",
             "repo": "QtAutoUpdater",
             "stars": 813
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -1240,7 +1316,8 @@
             "owner": "qmlweb",
             "repo": "qmlweb",
             "stars": 793
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -1251,11 +1328,12 @@
             "archived": false,
             "id": 3504505,
             "language": "C++",
-            "last_commit": "2026-08-07T14:16:18Z",
+            "last_commit": "2026-08-28T21:00:13Z",
             "owner": "lxqt",
             "repo": "qtermwidget",
             "stars": 600
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -1266,11 +1344,12 @@
             "archived": false,
             "id": 49439186,
             "language": "C++",
-            "last_commit": "2026-08-27T19:39:30Z",
+            "last_commit": "2026-08-28T19:39:20Z",
             "owner": "pbek",
             "repo": "qmarkdowntextedit",
             "stars": 497
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -1285,7 +1364,8 @@
             "owner": "Furkanzmc",
             "repo": "QML-UI-Animations",
             "stars": 367
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -1300,7 +1380,8 @@
             "owner": "Skycoder42",
             "repo": "QtMvvm",
             "stars": 360
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -1315,7 +1396,8 @@
             "owner": "pureqml",
             "repo": "qmlcore",
             "stars": 337
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -1330,7 +1412,8 @@
             "owner": "oKcerG",
             "repo": "SortFilterProxyModel",
             "stars": 322
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -1345,7 +1428,8 @@
             "owner": "jcelerier",
             "repo": "qml-creative-controls",
             "stars": 278
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -1360,7 +1444,8 @@
             "owner": "githubuser0xFFFF",
             "repo": "QtFreeVirtualKeyboard",
             "stars": 272
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -1375,7 +1460,8 @@
             "owner": "cisco-open-source",
             "repo": "qtwebdriver",
             "stars": 200
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -1390,7 +1476,8 @@
             "owner": "benlau",
             "repo": "qtci",
             "stars": 161
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -1405,7 +1492,8 @@
             "owner": "alamminsalo",
             "repo": "qmlnotify",
             "stars": 157
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -1420,7 +1508,8 @@
             "owner": "machinekit",
             "repo": "QtQuickVcp",
             "stars": 138
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -1435,7 +1524,8 @@
             "owner": "jorgen",
             "repo": "yat",
             "stars": 119
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -1450,7 +1540,8 @@
             "owner": "benlau",
             "repo": "sparkqml",
             "stars": 102
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -1465,7 +1556,8 @@
             "owner": "evonove",
             "repo": "qnite",
             "stars": 102
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -1480,7 +1572,8 @@
             "owner": "Waqar144",
             "repo": "QSourceHighlite",
             "stars": 98
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -1495,7 +1588,8 @@
             "owner": "Skycoder42",
             "repo": "QtRestClient",
             "stars": 91
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -1510,7 +1604,8 @@
             "owner": "penk",
             "repo": "qml-handwriting",
             "stars": 88
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -1525,7 +1620,8 @@
             "owner": "Ableton",
             "repo": "aqt-cassowary",
             "stars": 55
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -1540,7 +1636,8 @@
             "owner": "dinusv",
             "repo": "qml-gantt",
             "stars": 50
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -1555,7 +1652,8 @@
             "owner": "qt-labs",
             "repo": "qml-presentation-system",
             "stars": 49
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -1570,7 +1668,8 @@
             "owner": "rshest",
             "repo": "qml-colorpicker",
             "stars": 49
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -1585,7 +1684,8 @@
             "owner": "janimo",
             "repo": "textsecure-qml",
             "stars": 45
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -1600,7 +1700,8 @@
             "owner": "otsaloma",
             "repo": "poor-maps",
             "stars": 44
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -1615,7 +1716,8 @@
             "owner": "Instand",
             "repo": "SolarSystem",
             "stars": 44
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -1630,7 +1732,8 @@
             "owner": "MidoriYakumo",
             "repo": "qml-virtualkey",
             "stars": 42
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -1645,7 +1748,8 @@
             "owner": "hahn-kev",
             "repo": "QmlGrid",
             "stars": 42
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -1660,7 +1764,8 @@
             "owner": "KhoaTranProgrammer",
             "repo": "ProgressBarCollection",
             "stars": 40
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -1675,7 +1780,8 @@
             "owner": "damian0",
             "repo": "QCar",
             "stars": 36
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -1690,7 +1796,8 @@
             "owner": "benlau",
             "repo": "qtshell",
             "stars": 31
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -1705,7 +1812,8 @@
             "owner": "qmlweb",
             "repo": "qmlweb-parser",
             "stars": 28
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -1720,7 +1828,8 @@
             "owner": "andeplane",
             "repo": "QML-Code-editor",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -1735,7 +1844,8 @@
             "owner": "arunpkio",
             "repo": "QMLTreeView",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -1750,7 +1860,8 @@
             "owner": "bobbaluba",
             "repo": "qmltooltip",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -1765,7 +1876,8 @@
             "owner": "danieloneill",
             "repo": "ComponentPrinter",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -1780,7 +1892,8 @@
             "owner": "anatolyk82",
             "repo": "SlideMenu",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -1795,7 +1908,8 @@
             "owner": "DannyGB",
             "repo": "KeePassTouch",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -1810,7 +1924,8 @@
             "owner": "spuschhof",
             "repo": "QMLTable",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -1825,7 +1940,8 @@
             "owner": "unseon",
             "repo": "QQuickDock",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -1840,7 +1956,8 @@
             "owner": "Palm1r",
             "repo": "AQmlTreePlugin",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -1855,7 +1972,8 @@
             "owner": "MrEricSir",
             "repo": "QMLRearrangeableTreeView",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -1870,7 +1988,8 @@
             "owner": "chili-epfl",
             "repo": "qml-cache",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -1885,7 +2004,8 @@
             "owner": "rchamberlin",
             "repo": "QmlStateMachine",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -1900,7 +2020,8 @@
             "owner": "dant3",
             "repo": "qmlcompletionbox",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -1915,7 +2036,8 @@
             "owner": "Ashifta",
             "repo": "qmlofflinesceen",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -1930,7 +2052,8 @@
             "owner": "pkobrien",
             "repo": "qml-slideshow",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -1945,7 +2068,8 @@
             "owner": "skarbat",
             "repo": "qmlmatrix",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -1960,7 +2084,8 @@
             "owner": "chili-epfl",
             "repo": "qml-chilitags",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -1975,7 +2100,8 @@
             "owner": "QKit",
             "repo": "phoneme-qml",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -1990,7 +2116,8 @@
             "owner": "proDOOMman",
             "repo": "qmlsaver",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -2005,7 +2132,8 @@
             "owner": "qyvlik",
             "repo": "DateSelector",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -2020,7 +2148,8 @@
             "owner": "neversun",
             "repo": "bodyweight-timer",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -2035,7 +2164,8 @@
             "owner": "uralbash",
             "repo": "qmltranslator",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -2050,7 +2180,8 @@
             "owner": "status-im",
             "repo": "QtModelsToolkit",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         }
       ],
       "title": "Misc"
@@ -2071,7 +2202,8 @@
             "owner": "wang-bin",
             "repo": "QtAV",
             "stars": 4257
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -2086,7 +2218,8 @@
             "owner": "KDE",
             "repo": "kamoso",
             "stars": 50
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -2101,7 +2234,8 @@
             "owner": "RSATom",
             "repo": "QmlVlcDemo",
             "stars": 42
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -2116,7 +2250,8 @@
             "owner": "longwei",
             "repo": "qmlvideo",
             "stars": 33
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -2131,7 +2266,8 @@
             "owner": "jarnoh",
             "repo": "qmlmidi",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -2146,7 +2282,8 @@
             "owner": "sverzegnassi",
             "repo": "qml-recorder",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         }
       ],
       "title": "Multimedia"
@@ -2166,8 +2303,9 @@
             "last_commit": "2026-08-27T11:20:36Z",
             "owner": "KDE",
             "repo": "kdeconnect-kde",
-            "stars": 3956
-          }
+            "stars": 3957
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -2182,7 +2320,8 @@
             "owner": "qxmpp-project",
             "repo": "qxmpp",
             "stars": 424
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -2197,7 +2336,8 @@
             "owner": "lvklabs",
             "repo": "QSsh",
             "stars": 230
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -2212,7 +2352,8 @@
             "owner": "qtrest",
             "repo": "qtrest",
             "stars": 223
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -2227,7 +2368,8 @@
             "owner": "semlanik",
             "repo": "qtprotobuf",
             "stars": 177
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -2242,7 +2384,8 @@
             "owner": "larpon",
             "repo": "QuickDownload",
             "stars": 92
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -2257,7 +2400,8 @@
             "owner": "communi",
             "repo": "libcommuni",
             "stars": 89
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -2272,7 +2416,8 @@
             "owner": "wiedi",
             "repo": "libmaia",
             "stars": 65
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -2287,7 +2432,8 @@
             "owner": "nsuke",
             "repo": "protobuf-qml",
             "stars": 54
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -2302,7 +2448,8 @@
             "owner": "jemc",
             "repo": "qml-sockets",
             "stars": 51
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -2317,7 +2464,8 @@
             "owner": "toni1991",
             "repo": "QtMqtt",
             "stars": 27
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -2332,7 +2480,8 @@
             "owner": "qyvlik",
             "repo": "HttpRequest",
             "stars": 26
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -2347,7 +2496,8 @@
             "owner": "misterion",
             "repo": "QML-WebSocket",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -2362,7 +2512,8 @@
             "owner": "ksiazkowicz",
             "repo": "lightbulb",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -2377,7 +2528,8 @@
             "owner": "chili-epfl",
             "repo": "qml-tcpsockets",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -2392,7 +2544,8 @@
             "owner": "folibis",
             "repo": "qml-soap",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         }
       ],
       "title": "Networking"
@@ -2413,7 +2566,8 @@
             "owner": "qmlc",
             "repo": "qmlc",
             "stars": 140
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -2428,7 +2582,8 @@
             "owner": "benlau",
             "repo": "quickcross",
             "stars": 49
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -2443,7 +2598,8 @@
             "owner": "frida",
             "repo": "frida-qml",
             "stars": 47
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -2458,7 +2614,8 @@
             "owner": "benlau",
             "repo": "viewstack.pri",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         }
       ],
       "title": "QML Specific"
@@ -2479,7 +2636,8 @@
             "owner": "larpon",
             "repo": "QtFirebase",
             "stars": 291
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -2490,11 +2648,12 @@
             "archived": false,
             "id": 23629913,
             "language": "C++",
-            "last_commit": "2026-08-27T19:36:52Z",
+            "last_commit": "2026-08-28T19:01:55Z",
             "owner": "Esri",
             "repo": "arcgis-maps-sdk-toolkit-qt",
             "stars": 146
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -2509,7 +2668,8 @@
             "owner": "nextgeniuspro",
             "repo": "QtAdMob",
             "stars": 101
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -2524,7 +2684,8 @@
             "owner": "lasconic",
             "repo": "GATutorial-QML",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         }
       ],
       "title": "SDKs"
@@ -2545,7 +2706,8 @@
             "owner": "papyros",
             "repo": "qml-material",
             "stars": 2630
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -2556,11 +2718,12 @@
             "archived": false,
             "id": 63346224,
             "language": "QML",
-            "last_commit": "2026-08-21T22:19:02Z",
+            "last_commit": "2026-08-28T14:43:16Z",
             "owner": "lirios",
             "repo": "fluid",
             "stars": 888
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -2575,7 +2738,8 @@
             "owner": "mengps",
             "repo": "HuskarUI",
             "stars": 582
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -2590,7 +2754,8 @@
             "owner": "brexis",
             "repo": "qml-bootstrap",
             "stars": 412
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -2605,7 +2770,8 @@
             "owner": "StratifyLabs",
             "repo": "StratifyQML",
             "stars": 231
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -2620,7 +2786,8 @@
             "owner": "Ableton",
             "repo": "aqt-stylesheets",
             "stars": 229
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -2635,7 +2802,8 @@
             "owner": "RinLit-233-shiroko",
             "repo": "Rin-UI",
             "stars": 165
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -2650,7 +2818,8 @@
             "owner": "QMLCommunity",
             "repo": "font-awesome-qml",
             "stars": 120
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -2665,7 +2834,8 @@
             "owner": "Druage",
             "repo": "FlatUI-Controls-QML",
             "stars": 93
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -2680,7 +2850,8 @@
             "owner": "MarkoStanojevic12",
             "repo": "MMaterial",
             "stars": 68
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -2695,7 +2866,8 @@
             "owner": "benlau",
             "repo": "fontawesome.pri",
             "stars": 53
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -2710,7 +2882,8 @@
             "owner": "qCring",
             "repo": "QMLFontAwesome",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -2725,7 +2898,8 @@
             "owner": "Advanced-Effects",
             "repo": "Muse-Qml-App-Template",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         }
       ],
       "title": "Styling"
@@ -2746,7 +2920,8 @@
             "owner": "patrickelectric",
             "repo": "mini-qml",
             "stars": 46
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -2761,7 +2936,8 @@
             "owner": "qCring",
             "repo": "QMLApplicationTemplate",
             "stars": 45
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -2776,7 +2952,8 @@
             "owner": "benlau",
             "repo": "quickflux-project-template",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -2791,7 +2968,8 @@
             "owner": "benlau",
             "repo": "qpm-qt-creator-project-template",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         }
       ],
       "title": "Templates"
@@ -2812,7 +2990,8 @@
             "owner": "benlau",
             "repo": "testable",
             "stars": 64
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -2827,7 +3006,8 @@
             "owner": "fgrehm",
             "repo": "qmlunit",
             "stars": 29
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -2842,7 +3022,8 @@
             "owner": "jemc",
             "repo": "QmlSpec",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -2857,7 +3038,8 @@
             "owner": "benlau",
             "repo": "testrunner",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         }
       ],
       "title": "Testing"
@@ -2878,7 +3060,8 @@
             "owner": "cneben",
             "repo": "QuickQanava",
             "stars": 1374
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -2893,7 +3076,8 @@
             "owner": "qCring",
             "repo": "QuickVtk",
             "stars": 376
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         }
       ],
       "title": "Visualization"
@@ -2910,11 +3094,12 @@
             "archived": false,
             "id": 766993934,
             "language": "C++",
-            "last_commit": "2026-08-26T06:38:01Z",
+            "last_commit": "2026-08-28T07:48:28Z",
             "owner": "quickshell-mirror",
             "repo": "quickshell",
-            "stars": 2886
-          }
+            "stars": 2897
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -2929,7 +3114,8 @@
             "owner": "sddm",
             "repo": "sddm",
             "stars": 2335
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -2944,7 +3130,8 @@
             "owner": "lirios",
             "repo": "shell",
             "stars": 248
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -2959,7 +3146,8 @@
             "owner": "amezin",
             "repo": "qmlcompmgr",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         }
       ],
       "title": "X11/Wayland"
@@ -2980,7 +3168,8 @@
             "owner": "qmlbook",
             "repo": "qmlbook",
             "stars": 2583
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -2995,7 +3184,8 @@
             "owner": "Furkanzmc",
             "repo": "QML-Coding-Guide",
             "stars": 609
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -3010,7 +3200,8 @@
             "owner": "Rolisteam",
             "repo": "rcse",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         }
       ],
       "title": "Learning"
@@ -3027,11 +3218,12 @@
             "archived": false,
             "id": 19374812,
             "language": "C++",
-            "last_commit": "2026-08-27T15:26:57Z",
+            "last_commit": "2026-08-28T19:17:56Z",
             "owner": "telegramdesktop",
             "repo": "tdesktop",
-            "stars": 32753
-          }
+            "stars": 32759
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -3045,8 +3237,9 @@
             "last_commit": "2026-05-31T10:12:54Z",
             "owner": "Swordfish90",
             "repo": "cool-retro-term",
-            "stars": 25960
-          }
+            "stars": 25964
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -3057,11 +3250,12 @@
             "archived": false,
             "id": 27436491,
             "language": "C++",
-            "last_commit": "2026-08-27T20:07:21Z",
+            "last_commit": "2026-08-28T20:06:09Z",
             "owner": "pbek",
             "repo": "QOwnNotes",
             "stars": 5855
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -3072,11 +3266,12 @@
             "archived": false,
             "id": 2567844,
             "language": "C++",
-            "last_commit": "2026-08-27T20:44:51Z",
+            "last_commit": "2026-08-28T23:37:37Z",
             "owner": "mavlink",
             "repo": "qgroundcontrol",
-            "stars": 4875
-          }
+            "stars": 4876
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -3091,7 +3286,8 @@
             "owner": "mmatyas",
             "repo": "pegasus-frontend",
             "stars": 1881
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -3105,8 +3301,9 @@
             "last_commit": "2024-06-17T11:33:30Z",
             "owner": "wh201906",
             "repo": "SerialTest",
-            "stars": 1645
-          }
+            "stars": 1646
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -3120,8 +3317,9 @@
             "last_commit": "2026-08-25T01:29:36Z",
             "owner": "xland",
             "repo": "ScreenCapture",
-            "stars": 1477
-          }
+            "stars": 1479
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -3136,7 +3334,8 @@
             "owner": "das-labor",
             "repo": "panopticon",
             "stars": 1445
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -3151,7 +3350,8 @@
             "owner": "Yubico",
             "repo": "yubioath-flutter",
             "stars": 1369
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -3166,7 +3366,8 @@
             "owner": "ArsMasiuk",
             "repo": "qvge",
             "stars": 670
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -3181,7 +3382,8 @@
             "owner": "AmirHammouteneEI",
             "repo": "ScheduledPasteAndKeys",
             "stars": 195
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -3196,7 +3398,8 @@
             "owner": "Rolisteam",
             "repo": "rolisteam",
             "stars": 194
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -3211,7 +3414,8 @@
             "owner": "davidar",
             "repo": "tensor",
             "stars": 172
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -3226,7 +3430,8 @@
             "owner": "jorgen",
             "repo": "yat",
             "stars": 119
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -3241,7 +3446,8 @@
             "owner": "shashwatdixit124",
             "repo": "IPConnect",
             "stars": 90
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -3256,7 +3462,8 @@
             "owner": "lirios",
             "repo": "files",
             "stars": 89
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -3271,7 +3478,8 @@
             "owner": "heroyin",
             "repo": "qmlvncviewer",
             "stars": 65
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -3286,7 +3494,8 @@
             "owner": "Aseman-Land",
             "repo": "TelegramQML",
             "stars": 59
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         },
         {
           "node_type": "item",
@@ -3301,14 +3510,15 @@
             "owner": "DylanVanAssche",
             "repo": "harbour-sailfinder",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
         }
       ],
       "title": "Software"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T23:56:32.416Z",
+    "last_updated": "2026-08-28T23:39:15.877Z",
     "original_repository_info": {
       "archived": false,
       "id": 95331210,
@@ -3316,7 +3526,7 @@
       "last_commit": "2026-01-06T01:02:04Z",
       "owner": "mikalv",
       "repo": "awesome-qt-qml",
-      "stars": 2606
+      "stars": 2605
     },
     "original_repository_sha": "dbeebe15890cdfebe5deda640ae7ddd495983ceb",
     "enhanced_repository": "enhansome/enhansome-qt-qml",
