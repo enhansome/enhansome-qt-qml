@@ -1,6 +1,6 @@
 # Awesome Qt with stars
 
-A curated list of awesome Qt and QML libraries, resources, projects, and shiny things. Inspired by [awesome-cpp](https://github.com/fffaraz/awesome-cpp) ⭐ 72,981 | 🐛 312 | 📅 2026-08-22 and other awesome lists.
+A curated list of awesome Qt and QML libraries, resources, projects, and shiny things. Inspired by [awesome-cpp](https://github.com/fffaraz/awesome-cpp) ⭐ 72,983 | 🐛 312 | 📅 2026-08-22 and other awesome lists.
 
 Pull requests of new projects/apps/libraries are welcome :)
 
@@ -341,7 +341,7 @@ Pull requests of new projects/apps/libraries are welcome :)
 
 ## X11/Wayland
 
-* [quickshell](https://github.com/quickshell-mirror/quickshell) ⭐ 2,897 | 🐛 467 | 🌐 C++ | 📅 2026-08-28 - Flexible toolkit for making desktop shells with QtQuick, for Wayland and X11.
+* [quickshell](https://github.com/quickshell-mirror/quickshell) ⭐ 2,897 | 🐛 468 | 🌐 C++ | 📅 2026-08-29 - Flexible toolkit for making desktop shells with QtQuick, for Wayland and X11.
 * [sddm](https://github.com/sddm/sddm) ⭐ 2,335 | 🐛 752 | 🌐 C++ | 📅 2026-08-19 - QML based X11 and Wayland display manager.
 * [shell](https://github.com/lirios/shell) ⭐ 248 | 🐛 35 | 🌐 C++ | 📅 2024-02-11 - QtQuick and Wayland shell for convergence.
 * [qmlcompmgr](https://github.com/amezin/qmlcompmgr) ⚠️ Archived - It's a simple compositing manager for X11, written using Qt Quick and QML. Not ready for production.
@@ -363,8 +363,8 @@ Pull requests of new projects/apps/libraries are welcome :)
 
 # Software
 
-* [tdesktop](https://github.com/telegramdesktop/tdesktop) ⭐ 32,759 | 🐛 1,015 | 🌐 C++ | 📅 2026-08-28 - Telegram Desktop messaging app.
-* [cool-retro-term](https://github.com/Swordfish90/cool-retro-term) ⭐ 25,964 | 🐛 561 | 🌐 QML | 📅 2026-05-31 - Is a terminal emulator which mimics the look and feel of the old cathode tube screens. It has been designed to be eye-candy, customizable, and reasonably lightweight.
+* [tdesktop](https://github.com/telegramdesktop/tdesktop) ⭐ 32,759 | 🐛 1,014 | 🌐 C++ | 📅 2026-08-29 - Telegram Desktop messaging app.
+* [cool-retro-term](https://github.com/Swordfish90/cool-retro-term) ⭐ 25,966 | 🐛 561 | 🌐 QML | 📅 2026-05-31 - Is a terminal emulator which mimics the look and feel of the old cathode tube screens. It has been designed to be eye-candy, customizable, and reasonably lightweight.
 * [QOwnNotes](https://github.com/pbek/QOwnNotes) ⭐ 5,855 | 🐛 59 | 🌐 C++ | 📅 2026-08-28 - QOwnNotes is a plain-text file notepad and todo-list manager with markdown support and ownCloud / Nextcloud integration.
 * [QGroundControl](https://github.com/mavlink/qgroundcontrol) ⭐ 4,876 | 🐛 1,000 | 🌐 C++ | 📅 2026-08-28 - UAV Ground Control Station (Linux, Windows, MacOS, Android, iOS)
 * [pegasus-frontend](https://github.com/mmatyas/pegasus-frontend) ⭐ 1,881 | 🐛 152 | 🌐 C++ | 📅 2026-08-24 - A cross platform, customizable graphical frontend for launching emulators and managing your game collection.
@@ -391,4 +391,4 @@ Pull requests of new projects/apps/libraries are welcome :)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._

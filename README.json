@@ -10,12 +10,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A library to manage Android from QML",
+            "homepage": null,
             "id": 161839771,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2026-04-28T20:42:20Z",
+            "open_issues": 5,
             "owner": "FalsinSoft",
             "repo": "QtAndroidTools",
-            "stars": 295
+            "stars": 295,
+            "topics": [
+              "admob",
+              "android",
+              "apk",
+              "qml",
+              "qt"
+            ]
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -26,12 +37,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "QML Theme and Component Library for Android",
+            "homepage": null,
             "id": 23826746,
             "language": "QML",
+            "license": "Apache-2.0",
             "last_commit": "2017-04-25T05:21:07Z",
+            "open_issues": 8,
             "owner": "benlau",
             "repo": "quickandroid",
-            "stars": 234
+            "stars": 234,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -42,12 +58,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "QML Android Launcher",
+            "homepage": null,
             "id": 33689441,
             "language": "QML",
+            "license": "GPL-3.0",
             "last_commit": "2023-08-09T11:21:18Z",
+            "open_issues": 0,
             "owner": "Iktwo",
             "repo": "QuteLauncher",
-            "stars": 132
+            "stars": 132,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -58,12 +79,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Calling Android functions from Qt without using JNI",
+            "homepage": null,
             "id": 79029176,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2021-07-23T05:31:03Z",
+            "open_issues": 5,
             "owner": "benlau",
             "repo": "androidnative.pri",
-            "stars": 105
+            "stars": 105,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -74,12 +100,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Qt Quick File picker (filedialog)",
+            "homepage": null,
             "id": 82199417,
             "language": "QML",
+            "license": "MIT",
             "last_commit": "2018-02-14T08:39:16Z",
+            "open_issues": 1,
             "owner": "dobokirisame",
             "repo": "qml-filedialog",
-            "stars": 50
+            "stars": 50,
+            "topics": [
+              "design",
+              "filedialog",
+              "qml",
+              "qt5",
+              "qtquick"
+            ]
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -90,12 +127,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "LibVLC integrated Qt QML MediaPlayer for Android",
+            "homepage": null,
             "id": 37572979,
             "language": "Java",
+            "license": null,
             "last_commit": "2016-12-28T05:44:22Z",
+            "open_issues": 6,
             "owner": "mzafers",
             "repo": "QtVlcMediaPlayer",
-            "stars": 29
+            "stars": 29,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -106,12 +148,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The easy way to extend contacts from android to qml",
+            "homepage": null,
             "id": 78635542,
             "language": "C++",
+            "license": "GPL-3.0",
             "last_commit": "2023-04-09T19:00:27Z",
+            "open_issues": 0,
             "owner": "tripolskypetr",
             "repo": "qmlcontactlist",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         }
@@ -128,12 +175,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "QML Theme and Component Library for iOS",
+            "homepage": null,
             "id": 35407754,
             "language": "QML",
+            "license": "Apache-2.0",
             "last_commit": "2017-04-01T03:20:33Z",
+            "open_issues": 5,
             "owner": "benlau",
             "repo": "quickios",
-            "stars": 166
+            "stars": 166,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -144,12 +196,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Qt/QML-based clone of iOS7 contacts application UI. Not a full app, but a proof of concept of that making a native (native enough?) looking iOS app UI is possible with Qt/QML",
+            "homepage": null,
             "id": 19842856,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2014-08-31T21:42:53Z",
+            "open_issues": 1,
             "owner": "amarchen",
             "repo": "CuteContacts-iOS",
-            "stars": 35
+            "stars": 35,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         }
@@ -166,12 +223,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Use QFuture like a Promise object",
+            "homepage": null,
             "id": 85094627,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2023-10-18T16:06:53Z",
+            "open_issues": 13,
             "owner": "benlau",
             "repo": "asyncfuture",
-            "stars": 246
+            "stars": 246,
+            "topics": [
+              "future",
+              "qml",
+              "qt"
+            ]
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -182,12 +248,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Quick Promise - QML Promise Library",
+            "homepage": null,
             "id": 35589064,
             "language": "QML",
+            "license": "Apache-2.0",
             "last_commit": "2021-07-03T17:18:39Z",
+            "open_issues": 3,
             "owner": "benlau",
             "repo": "quickpromise",
-            "stars": 177
+            "stars": 177,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -198,12 +269,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Using QFuture in QML",
+            "homepage": null,
             "id": 69586490,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2021-11-04T01:07:11Z",
+            "open_issues": 5,
             "owner": "benlau",
             "repo": "quickfuture",
-            "stars": 51
+            "stars": 51,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -214,12 +290,25 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "An asynchronous programming library for the QML programming language (Proof of Concept)",
+            "homepage": "https://qbeon.github.io/QuickStreams/",
             "id": 91892025,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2018-04-23T16:13:50Z",
+            "open_issues": 1,
             "owner": "romshark",
             "repo": "QuickStreams",
-            "stars": 43
+            "stars": 43,
+            "topics": [
+              "async",
+              "asynchronous-programming",
+              "cpp",
+              "qml",
+              "qt",
+              "qt5",
+              "qtquick"
+            ]
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         }
@@ -236,12 +325,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Qt binding for Go (Golang) with support for Windows / macOS / Linux / FreeBSD / Android / iOS / Sailfish OS / Raspberry Pi / AsteroidOS / Ubuntu Touch / JavaScript / WebAssembly",
+            "homepage": null,
             "id": 26836182,
             "language": "Go",
+            "license": "LGPL-3.0",
             "last_commit": "2024-03-04T15:58:37Z",
+            "open_issues": 372,
             "owner": "therecipe",
             "repo": "qt",
-            "stars": 10808
+            "stars": 10808,
+            "topics": [
+              "android",
+              "asteroidos",
+              "cross-platform-gui",
+              "felgo",
+              "freebsd",
+              "go",
+              "golang",
+              "gui-framework",
+              "ios",
+              "javascript",
+              "linux",
+              "macos",
+              "qt",
+              "raspberry-pi",
+              "sailfish-os",
+              "ubuntu-touch",
+              "webassembly",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -252,12 +365,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Qml.Net - Qt/QML integration/support for .NET",
+            "homepage": "https://qmlnet.github.io/",
             "id": 92974365,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2022-12-08T05:22:33Z",
+            "open_issues": 52,
             "owner": "qmlnet",
             "repo": "qmlnet",
-            "stars": 1412
+            "stars": 1412,
+            "topics": [
+              "charp",
+              "mono",
+              "net-core",
+              "qml"
+            ]
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -268,12 +391,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Integrate Qml and Rust by building the QMetaObject at compile time.",
+            "homepage": null,
             "id": 136326040,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-04-13T15:52:19Z",
+            "open_issues": 94,
             "owner": "woboq",
             "repo": "qmetaobject-rs",
-            "stars": 734
+            "stars": 734,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -284,12 +412,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "QtQuick interface for Rust",
+            "homepage": null,
             "id": 27974723,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2018-09-17T15:54:04Z",
+            "open_issues": 15,
             "owner": "cyndis",
             "repo": "qmlrs",
-            "stars": 436
+            "stars": 436,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -300,12 +433,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "C language library for creating bindings for the Qt QML language",
+            "homepage": null,
             "id": 28563697,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2025-04-02T20:53:46Z",
+            "open_issues": 15,
             "owner": "filcuc",
             "repo": "dotherside",
-            "stars": 228
+            "stars": 228,
+            "topics": [
+              "bindings",
+              "qml",
+              "qml-bindings",
+              "qt",
+              "qt-qml-language"
+            ]
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -316,12 +460,25 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Qt5 bindings for Crystal, based on Bindgen",
+            "homepage": null,
             "id": 101109992,
             "language": "Crystal",
+            "license": "MPL-2.0",
             "last_commit": "2022-02-21T22:23:50Z",
+            "open_issues": 17,
             "owner": "Papierkorb",
             "repo": "qt5.cr",
-            "stars": 216
+            "stars": 216,
+            "topics": [
+              "bindings",
+              "crystal",
+              "desktop-application",
+              "gui",
+              "qt",
+              "qt5",
+              "wrapper"
+            ]
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -332,12 +489,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Binding and wrapper generator for C/C++ libraries",
+            "homepage": null,
             "id": 101109905,
             "language": "Crystal",
+            "license": "GPL-3.0",
             "last_commit": "2021-11-18T21:36:11Z",
+            "open_issues": 28,
             "owner": "Papierkorb",
             "repo": "bindgen",
-            "stars": 191
+            "stars": 191,
+            "topics": [
+              "binding-generator",
+              "c",
+              "c-plus-plus",
+              "cpp",
+              "crystal",
+              "wrapper-generator"
+            ]
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -348,12 +517,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Interfacing Qt/QML with OCaml. Formely known as lablqt",
+            "homepage": "http://kakadu.github.io/lablqml",
             "id": 1644688,
             "language": "OCaml",
+            "license": "LGPL-2.1",
             "last_commit": "2026-08-08T13:53:32Z",
+            "open_issues": 14,
             "owner": "Kakadu",
             "repo": "lablqml",
-            "stars": 166
+            "stars": 166,
+            "topics": [
+              "gui",
+              "ocaml",
+              "qt",
+              "qtquick"
+            ]
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -364,12 +543,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A C library for creating QML bindings for other languages easily through exporting objects to QML",
+            "homepage": "https://seanchas116.github.io/libqmlbind/",
             "id": 25389327,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2017-07-29T08:03:07Z",
+            "open_issues": 12,
             "owner": "seanchas116",
             "repo": "libqmlbind",
-            "stars": 31
+            "stars": 31,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         }
@@ -386,12 +570,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Advanced, Powerful and easy to use ORM for Qt",
+            "homepage": null,
             "id": 53477758,
             "language": "C++",
+            "license": "LGPL-3.0",
             "last_commit": "2023-07-13T08:22:32Z",
+            "open_issues": 15,
             "owner": "HamedMasafi",
             "repo": "Nut",
-            "stars": 297
+            "stars": 297,
+            "topics": [
+              "database",
+              "mysql",
+              "orm",
+              "orm-library",
+              "postgresql",
+              "qt",
+              "sql",
+              "sql-server",
+              "sqlite"
+            ]
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -402,12 +601,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A SQLite Editor written in Qt+QML",
+            "homepage": null,
             "id": 27321793,
             "language": "QML",
+            "license": "MIT",
             "last_commit": "2026-01-07T06:04:23Z",
+            "open_issues": 0,
             "owner": "ndesai",
             "repo": "sqlite-editor-qtqml",
-            "stars": 98
+            "stars": 98,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -418,12 +622,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Qt/QML wrapper for Google's LevelDB for Android, iOS, Desktop an so on..",
+            "homepage": null,
             "id": 34391167,
             "language": "C++",
+            "license": "BSD-3-Clause",
             "last_commit": "2018-10-30T13:20:18Z",
+            "open_issues": 2,
             "owner": "paulovap",
             "repo": "qtleveldb",
-            "stars": 57
+            "stars": 57,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -434,12 +643,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Bindings for QML to MongoDB",
+            "homepage": null,
             "id": 1497480,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2011-03-30T21:30:04Z",
+            "open_issues": 1,
             "owner": "manuels",
             "repo": "QtMongo",
-            "stars": 42
+            "stars": 42,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -450,12 +664,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A couple of wrapper classes that are for QSql",
+            "homepage": null,
             "id": 53709789,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2019-05-20T04:48:10Z",
+            "open_issues": 2,
             "owner": "JosephMillsAtWork",
             "repo": "QmlSql",
-            "stars": 28
+            "stars": 28,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         }
@@ -472,12 +691,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "UI Prototyping Tool for Coders",
+            "homepage": "http://www.terrariumapp.com",
             "id": 20598769,
             "language": "QML",
+            "license": "MIT",
             "last_commit": "2018-09-17T05:35:18Z",
+            "open_issues": 8,
             "owner": "penk",
             "repo": "terrarium-app",
-            "stars": 295
+            "stars": 295,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -488,12 +712,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Hot reload for nested qml files",
+            "homepage": null,
             "id": 192014830,
             "language": "C++",
+            "license": "GPL-3.0",
             "last_commit": "2024-11-22T22:13:32Z",
+            "open_issues": 13,
             "owner": "patrickelectric",
             "repo": "qhot",
-            "stars": 228
+            "stars": 228,
+            "topics": [
+              "debug",
+              "hot-reload",
+              "qhot",
+              "qml",
+              "qt",
+              "reload",
+              "test"
+            ]
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -504,12 +741,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple QtQuick app live viewer",
+            "homepage": null,
             "id": 15674031,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2016-09-16T13:32:47Z",
+            "open_issues": 6,
             "owner": "penk",
             "repo": "qml-livereload",
-            "stars": 180
+            "stars": 180,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -520,12 +762,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "qmlfmt - command line application that formats QML files",
+            "homepage": null,
             "id": 29749719,
             "language": "C++",
+            "license": null,
             "last_commit": "2025-06-09T20:38:27Z",
+            "open_issues": 2,
             "owner": "jesperhh",
             "repo": "qmlfmt",
-            "stars": 105
+            "stars": 105,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -536,12 +783,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Doxyqml turns .qml into pseudo-C++ which Doxygen can then use to generate documentation.",
+            "homepage": null,
             "id": 10937940,
             "language": "Python",
+            "license": "BSD-2-Clause",
             "last_commit": "2020-09-20T19:24:47Z",
+            "open_issues": 0,
             "owner": "agateau",
             "repo": "doxyqml",
-            "stars": 65
+            "stars": 65,
+            "topics": [
+              "doxygen",
+              "python",
+              "qml"
+            ]
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -552,12 +808,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Convert an NPM package into a QML friendly JavaScript file",
+            "homepage": null,
             "id": 91685417,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2023-01-01T11:47:26Z",
+            "open_issues": 13,
             "owner": "e-fever",
             "repo": "qmljsify",
-            "stars": 60
+            "stars": 60,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -568,12 +829,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "QML kickstart boilerplate with live reload and HTTP caching",
+            "homepage": null,
             "id": 69791938,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2017-08-07T11:22:33Z",
+            "open_issues": 1,
             "owner": "pkoretic",
             "repo": "qml-kickstart",
-            "stars": 32
+            "stars": 32,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -584,12 +850,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The QML Script Console",
+            "homepage": null,
             "id": 11919461,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2013-08-06T09:10:20Z",
+            "open_issues": 0,
             "owner": "frankencode",
             "repo": "qmlscriptconsole",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -600,12 +871,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Hot Reload QML Files",
+            "homepage": null,
             "id": 80335516,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2017-07-13T04:12:39Z",
+            "open_issues": 0,
             "owner": "benlau",
             "repo": "hotloader.pri",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         }
@@ -622,12 +898,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "QodeAssist is an AI-powered coding assistant plugin for Qt Creator",
+            "homepage": null,
             "id": 848182195,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-03T15:06:17Z",
+            "open_issues": 27,
             "owner": "Palm1r",
             "repo": "QodeAssist",
-            "stars": 439
+            "stars": 439,
+            "topics": [
+              "ai",
+              "ai-agent",
+              "ai-chat",
+              "autocomplete",
+              "claude",
+              "claude-ai",
+              "codeassist",
+              "google-ai",
+              "llm",
+              "lmstudio",
+              "local",
+              "ollama",
+              "openai",
+              "private",
+              "qtcreator"
+            ]
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -638,12 +935,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "QML syntax highlighting for VIM",
+            "homepage": null,
             "id": 2271993,
             "language": "Vim Script",
+            "license": null,
             "last_commit": "2023-09-11T07:45:37Z",
+            "open_issues": 0,
             "owner": "peterhoeg",
             "repo": "vim-qml",
-            "stars": 155
+            "stars": 155,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -654,12 +956,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "QML support for IntelliJ-based IDEs",
+            "homepage": null,
             "id": 83246591,
             "language": "Kotlin",
+            "license": "MIT",
             "last_commit": "2020-06-13T16:20:41Z",
+            "open_issues": 10,
             "owner": "kropp",
             "repo": "intellij-qml",
-            "stars": 56
+            "stars": 56,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -670,12 +977,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "QML support for Sublime Text and Sublime Merge",
+            "homepage": null,
             "id": 12356737,
             "language": "QML",
+            "license": "MIT",
             "last_commit": "2023-11-22T16:31:24Z",
+            "open_issues": 3,
             "owner": "SublimeText",
             "repo": "QML",
-            "stars": 29
+            "stars": 29,
+            "topics": [
+              "qml",
+              "sublime-snippets",
+              "sublime-text",
+              "sublime-text-package",
+              "syntax-highlighting"
+            ]
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -686,12 +1004,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Qt Declarative UI (QML) mode for Emacs",
+            "homepage": null,
             "id": 621180,
             "language": "Emacs Lisp",
+            "license": null,
             "last_commit": "2014-08-12T04:33:07Z",
+            "open_issues": 0,
             "owner": "cataska",
             "repo": "qml-mode",
-            "stars": 16
+            "stars": 16,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -702,12 +1025,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "QML language support for Atom",
+            "homepage": null,
             "id": 18549330,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2020-03-05T02:02:09Z",
+            "open_issues": 1,
             "owner": "rschiang",
             "repo": "atom-language-qml",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         }
@@ -724,12 +1052,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Bacon2D is a framework to ease 2D game development, providing ready-to-use QML elements representing basic game entities needed by most of games.",
+            "homepage": null,
             "id": 18375938,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2019-12-16T14:18:52Z",
+            "open_issues": 39,
             "owner": "Bacon2D",
             "repo": "Bacon2D",
-            "stars": 215
+            "stars": 215,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -740,12 +1073,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Integrates Ogre3D into Qt QML scenes by rendering Ogre to FBOs.",
+            "homepage": null,
             "id": 9125504,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2013-10-05T06:35:50Z",
+            "open_issues": 1,
             "owner": "advancingu",
             "repo": "QmlOgre",
-            "stars": 88
+            "stars": 88,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         }
@@ -762,12 +1100,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Box2D QML plugin",
+            "homepage": null,
             "id": 1518671,
             "language": "C++",
+            "license": "Zlib",
             "last_commit": "2025-09-30T19:37:09Z",
+            "open_issues": 28,
             "owner": "qml-box2d",
             "repo": "qml-box2d",
-            "stars": 284
+            "stars": 284,
+            "topics": [
+              "c-plus-plus",
+              "qml",
+              "qt",
+              "qt5",
+              "qtquick",
+              "qtquick-plugins"
+            ]
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -778,12 +1128,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Chart.qml like Chart.js",
+            "homepage": null,
             "id": 35483880,
             "language": "QML",
+            "license": "MIT",
             "last_commit": "2015-05-12T11:38:25Z",
+            "open_issues": 4,
             "owner": "qyvlik",
             "repo": "Chart.qml",
-            "stars": 151
+            "stars": 151,
+            "topics": [
+              "canvas",
+              "chart",
+              "chartjs",
+              "qml",
+              "qtquick"
+            ]
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -794,12 +1155,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A QML extension plug-in to provide a binding of OGDF to QtQML.",
+            "homepage": null,
             "id": 8955337,
             "language": "C++",
+            "license": null,
             "last_commit": "2013-08-27T19:18:48Z",
+            "open_issues": 3,
             "owner": "schulzch",
             "repo": "qml-ogdf",
-            "stars": 55
+            "stars": 55,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -810,12 +1176,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Display QML Window frame rate (FPS)",
+            "homepage": null,
             "id": 85758393,
             "language": "C++",
+            "license": null,
             "last_commit": "2017-03-21T22:26:17Z",
+            "open_issues": 0,
             "owner": "vannell",
             "repo": "qml_framerate",
-            "stars": 12
+            "stars": 12,
+            "topics": [
+              "framerate",
+              "qml"
+            ]
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         }
@@ -832,12 +1206,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Raspberry Pi accelerated video/image rendering with Qt: custom QML components and QtMultimedia backend.",
+            "homepage": "https://bugfreeblog.duckdns.org",
             "id": 8376115,
             "language": "C++",
+            "license": "GPL-2.0",
             "last_commit": "2022-07-26T12:03:04Z",
+            "open_issues": 10,
             "owner": "carlonluca",
             "repo": "pot",
-            "stars": 179
+            "stars": 179,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -848,12 +1227,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Joystick input library for Qt",
+            "homepage": null,
             "id": 60373832,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2026-06-13T17:11:13Z",
+            "open_issues": 7,
             "owner": "alex-spataru",
             "repo": "QJoysticks",
-            "stars": 106
+            "stars": 106,
+            "topics": [
+              "cpp",
+              "cross-platform",
+              "joystick",
+              "keyboard",
+              "qml",
+              "sdl"
+            ]
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -864,12 +1255,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "QML plugin wrapper for fast OpenCV camera access on desktop & Android",
+            "homepage": null,
             "id": 24983502,
             "language": "C++",
+            "license": null,
             "last_commit": "2019-05-24T06:34:37Z",
+            "open_issues": 7,
             "owner": "chili-epfl",
             "repo": "qml-cvcamera",
-            "stars": 58
+            "stars": 58,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -880,12 +1276,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Qt and the macOS touch bar",
+            "homepage": null,
             "id": 104219502,
             "language": "Objective-C++",
+            "license": null,
             "last_commit": "2017-09-20T15:52:07Z",
+            "open_issues": 0,
             "owner": "andeplane",
             "repo": "qt-touchbar",
-            "stars": 14
+            "stars": 14,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -896,12 +1297,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Example of Bluetooth low energy usage in Qt and ESP32. Parking sensor for green lamborghini. ",
+            "homepage": null,
             "id": 841350211,
             "language": "C++",
+            "license": null,
             "last_commit": "2025-08-05T07:42:09Z",
+            "open_issues": 0,
             "owner": "somcosoftware",
             "repo": "Qt-BLE-Example",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         }
@@ -918,12 +1324,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Loading animation implementations in QML",
+            "homepage": null,
             "id": 82279869,
             "language": "QML",
+            "license": null,
             "last_commit": "2021-04-06T13:15:35Z",
+            "open_issues": 1,
             "owner": "Furkanzmc",
             "repo": "QML-Loaders",
-            "stars": 289
+            "stars": 289,
+            "topics": [
+              "animation",
+              "design",
+              "loading-animations",
+              "qml",
+              "qt"
+            ]
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -934,12 +1351,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This project is Qt & Qml wrapper for ZXing-C++ Library that is used for decoding 1D and 2D barcodes.",
+            "homepage": "https://somcosoftware.com",
             "id": 288114834,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2026-04-20T12:35:54Z",
+            "open_issues": 15,
             "owner": "somcosoftware",
             "repo": "SCodes",
-            "stars": 141
+            "stars": 141,
+            "topics": [
+              "qml",
+              "qt",
+              "zxing",
+              "zxing-cpp"
+            ]
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -950,12 +1377,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "QML bindings for qr.js",
+            "homepage": null,
             "id": 31234420,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2015-02-24T23:41:10Z",
+            "open_issues": 2,
             "owner": "M4rtinK",
             "repo": "qqr.js",
-            "stars": 40
+            "stars": 40,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -966,12 +1398,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple image browser written in QML",
+            "homepage": null,
             "id": 3225165,
             "language": "C++",
+            "license": null,
             "last_commit": "2014-07-09T18:55:26Z",
+            "open_issues": 0,
             "owner": "hluk",
             "repo": "imagequick",
-            "stars": 18
+            "stars": 18,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -982,12 +1419,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Demonstrate how to use QQuickImageProvider to provide a stream of image to QML",
+            "homepage": null,
             "id": 300621205,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2021-03-09T09:20:37Z",
+            "open_issues": 0,
             "owner": "Daguerreo",
             "repo": "QML-ImageProvider",
-            "stars": 15
+            "stars": 15,
+            "topics": [
+              "qml",
+              "qquickimageprovider",
+              "qt"
+            ]
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -998,12 +1444,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Access libexif from QML",
+            "homepage": null,
             "id": 78939038,
             "language": "C++",
+            "license": "LGPL-3.0",
             "last_commit": "2017-01-14T13:40:47Z",
+            "open_issues": 1,
             "owner": "Match-Yang",
             "repo": "QMLExif",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         }
@@ -1020,12 +1471,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Flux implementation for QML",
+            "homepage": null,
             "id": 36614922,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2024-04-10T21:32:21Z",
+            "open_issues": 13,
             "owner": "benlau",
             "repo": "quickflux",
-            "stars": 340
+            "stars": 340,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -1036,12 +1492,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":book: ES6 and Node.js-like environment for QML",
+            "homepage": "http://ibeliever.github.io/quickly",
             "id": 53751365,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2017-04-21T21:39:50Z",
+            "open_issues": 115,
             "owner": "quickly",
             "repo": "quickly",
-            "stars": 222
+            "stars": 222,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -1052,12 +1513,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A bridge library that allows to use React.js with QML",
+            "homepage": null,
             "id": 33422738,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2017-12-15T17:48:21Z",
+            "open_issues": 0,
             "owner": "grassator",
             "repo": "react-qml",
-            "stars": 113
+            "stars": 113,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -1068,12 +1534,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A port of Node.js to QML",
+            "homepage": null,
             "id": 24551270,
             "language": "C++",
+            "license": "LGPL-3.0",
             "last_commit": "2015-05-26T07:25:24Z",
+            "open_issues": 1,
             "owner": "trollixx",
             "repo": "node.qml",
-            "stars": 75
+            "stars": 75,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -1084,12 +1555,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "QML wrapper for Asteroid, a Javascript Meteor client library",
+            "homepage": null,
             "id": 28343688,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2015-05-04T20:06:13Z",
+            "open_issues": 3,
             "owner": "achipa",
             "repo": "Qondrite",
-            "stars": 51
+            "stars": 51,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -1100,12 +1576,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Native components for QML",
+            "homepage": null,
             "id": 66487353,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2018-07-03T23:37:53Z",
+            "open_issues": 1,
             "owner": "paulondc",
             "repo": "quicknative",
-            "stars": 46
+            "stars": 46,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -1116,12 +1597,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Redux for QML",
+            "homepage": null,
             "id": 75308458,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2019-02-10T12:01:31Z",
+            "open_issues": 1,
             "owner": "benlau",
             "repo": "qredux",
-            "stars": 26
+            "stars": 26,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -1132,12 +1618,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple Lodash wrapper to ease usage in QML",
+            "homepage": null,
             "id": 127801159,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-11-05T21:13:51Z",
+            "open_issues": 0,
             "owner": "easyQML",
             "repo": "lodash.qml",
-            "stars": 10
+            "stars": 10,
+            "topics": [
+              "javascript",
+              "lodash",
+              "qml",
+              "wrapper"
+            ]
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -1148,12 +1644,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Underscore.js for QML",
+            "homepage": null,
             "id": 45015075,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2015-10-28T03:25:20Z",
+            "open_issues": 0,
             "owner": "diro",
             "repo": "qml_underscorejs",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -1164,12 +1665,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Moved to GitLab",
+            "homepage": "https://gitlab.com/bhdouglass/qml-browserify",
             "id": 47485051,
             "language": "JavaScript",
+            "license": "GPL-3.0",
             "last_commit": "2016-01-16T05:08:20Z",
+            "open_issues": 0,
             "owner": "bhdouglass",
             "repo": "qml-browserify",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         }
@@ -1186,12 +1692,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A solution of nested Json List Model",
+            "homepage": null,
             "id": 49656954,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2022-09-28T10:00:12Z",
+            "open_issues": 9,
             "owner": "benlau",
             "repo": "qsyncable",
-            "stars": 121
+            "stars": 121,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -1202,12 +1713,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Converts Spine by Esoteric Software export json format into native QML items and animations.",
+            "homepage": null,
             "id": 24219855,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2015-08-25T21:32:41Z",
+            "open_issues": 2,
             "owner": "vmatikainen",
             "repo": "spine-qml-converter",
-            "stars": 16
+            "stars": 16,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         }
@@ -1224,12 +1740,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Lightweight advanced QML Logging (unmaintained)",
+            "homepage": null,
             "id": 18024689,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2019-10-25T07:26:14Z",
+            "open_issues": 3,
             "owner": "abumq",
             "repo": "qmllogging",
-            "stars": 23
+            "stars": 23,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -1240,12 +1761,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple Javascript Based Logger For QML",
+            "homepage": null,
             "id": 12261396,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2022-02-19T21:13:43Z",
+            "open_issues": 1,
             "owner": "dpeytonX",
             "repo": "QmlLogger",
-            "stars": 18
+            "stars": 18,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         }
@@ -1262,12 +1788,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Qt Node Editor. Dataflow programming framework",
+            "homepage": null,
             "id": 55835846,
             "language": "C++",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-07-31T16:56:51Z",
+            "open_issues": 85,
             "owner": "paceholder",
             "repo": "nodeeditor",
-            "stars": 3686
+            "stars": 3686,
+            "topics": [
+              "cpp",
+              "dataflow-programming",
+              "graph",
+              "model-view",
+              "qt5",
+              "qt6"
+            ]
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -1278,12 +1816,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Advanced Docking System for Qt",
+            "homepage": null,
             "id": 47689142,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2024-08-19T05:37:55Z",
+            "open_issues": 29,
             "owner": "mfreiholz",
             "repo": "Qt-Advanced-Docking-System",
-            "stars": 829
+            "stars": 829,
+            "topics": [
+              "cpp",
+              "docking",
+              "qt",
+              "qt4",
+              "qt5",
+              "widget",
+              "window",
+              "wtfpl"
+            ]
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -1294,12 +1846,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Qt library to automatically check for updates and install them",
+            "homepage": "https://skycoder42.github.io/QtAutoUpdater/",
             "id": 48326244,
             "language": "C++",
+            "license": "BSD-3-Clause",
             "last_commit": "2023-03-04T10:55:51Z",
+            "open_issues": 10,
             "owner": "Skycoder42",
             "repo": "QtAutoUpdater",
-            "stars": 813
+            "stars": 813,
+            "topics": [
+              "automatic",
+              "gui-library",
+              "module",
+              "qt",
+              "updater"
+            ]
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -1310,12 +1873,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A QML engine in a web browser. Current state: fixing things…",
+            "homepage": "https://qmlweb.github.io/",
             "id": 51682254,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2022-04-11T15:07:47Z",
+            "open_issues": 80,
             "owner": "qmlweb",
             "repo": "qmlweb",
-            "stars": 793
+            "stars": 793,
+            "topics": [
+              "declarative",
+              "declarative-ui",
+              "html",
+              "html5",
+              "javascript",
+              "qml",
+              "qmlweb"
+            ]
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -1326,12 +1902,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The terminal widget for QTerminal",
+            "homepage": "https://lxqt.github.io",
             "id": 3504505,
             "language": "C++",
+            "license": "GPL-2.0",
             "last_commit": "2026-08-28T21:00:13Z",
+            "open_issues": 61,
             "owner": "lxqt",
             "repo": "qtermwidget",
-            "stars": 600
+            "stars": 600,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -1342,12 +1923,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A C++ Qt QPlainTextEdit widget with markdown highlighting support and a lot of other extras",
+            "homepage": "http://www.qownnotes.org",
             "id": 49439186,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2026-08-28T19:39:20Z",
+            "open_issues": 0,
             "owner": "pbek",
             "repo": "qmarkdowntextedit",
-            "stars": 497
+            "stars": 497,
+            "topics": [
+              "cpp",
+              "highlighting",
+              "markdown",
+              "qt",
+              "qt5",
+              "text-editor",
+              "widget"
+            ]
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -1358,12 +1952,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "QML implementations of various UI concepts by various artists",
+            "homepage": null,
             "id": 61654663,
             "language": "QML",
+            "license": "Unlicense",
             "last_commit": "2024-12-11T23:27:25Z",
+            "open_issues": 0,
             "owner": "Furkanzmc",
             "repo": "QML-UI-Animations",
-            "stars": 367
+            "stars": 367,
+            "topics": [
+              "qml",
+              "qml-implementations",
+              "qml-ui-animations",
+              "ui-concept"
+            ]
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -1374,12 +1978,26 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A mvvm oriented library for Qt, to create Projects for Widgets and Quick in parallel",
+            "homepage": "https://skycoder42.github.io/QtMvvm/",
             "id": 80766100,
             "language": "C++",
+            "license": "BSD-3-Clause",
             "last_commit": "2019-12-01T14:15:13Z",
+            "open_issues": 3,
             "owner": "Skycoder42",
             "repo": "QtMvvm",
-            "stars": 360
+            "stars": 360,
+            "topics": [
+              "mvvm",
+              "mvvm-pattern",
+              "qml",
+              "qpm",
+              "qt",
+              "settings",
+              "viewmodel",
+              "widget"
+            ]
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -1390,12 +2008,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "QML to Javascript/HTML5 translator. Ready for Mobile, Desktop and SmartTV platforms.",
+            "homepage": null,
             "id": 70241809,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-12T12:22:38Z",
+            "open_issues": 26,
             "owner": "pureqml",
             "repo": "qmlcore",
-            "stars": 337
+            "stars": 337,
+            "topics": [
+              "declarative-language",
+              "declarative-ui",
+              "embedded",
+              "frontend",
+              "frontend-app",
+              "frontend-application",
+              "frontend-framework",
+              "html",
+              "html5",
+              "js-template",
+              "mobile-web",
+              "qml",
+              "smart-tv",
+              "smarttv",
+              "tv-applications",
+              "tv-apps",
+              "ui",
+              "web",
+              "web-template",
+              "web-ui"
+            ]
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -1406,12 +2050,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A nicely exposed QSortFilterProxyModel for QML",
+            "homepage": null,
             "id": 52406733,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2023-07-18T14:31:39Z",
+            "open_issues": 37,
             "owner": "oKcerG",
             "repo": "SortFilterProxyModel",
-            "stars": 322
+            "stars": 322,
+            "topics": [
+              "filter",
+              "proxy-model",
+              "qml",
+              "qpm",
+              "qt",
+              "sort"
+            ]
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -1422,12 +2078,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "QML controls for creative applications and creative coding",
+            "homepage": null,
             "id": 86943296,
             "language": "QML",
+            "license": "AGPL-3.0",
             "last_commit": "2021-10-26T17:27:04Z",
+            "open_issues": 8,
             "owner": "jcelerier",
             "repo": "qml-creative-controls",
-            "stars": 278
+            "stars": 278,
+            "topics": [
+              "creative-coding",
+              "gallery",
+              "gui",
+              "qml",
+              "qml-controls",
+              "qt",
+              "qt5",
+              "widgets"
+            ]
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -1438,12 +2108,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A QML based on screen virtual keyboard for embedded QML applications",
+            "homepage": null,
             "id": 29530349,
             "language": "Makefile",
+            "license": "NOASSERTION",
             "last_commit": "2022-02-22T22:01:20Z",
+            "open_issues": 8,
             "owner": "githubuser0xFFFF",
             "repo": "QtFreeVirtualKeyboard",
-            "stars": 272
+            "stars": 272,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -1454,12 +2129,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "WebDriver implementation for Qt",
+            "homepage": "https://github.com/cisco-open-source/qtwebdriver/wiki",
             "id": 25865920,
             "language": "C++",
+            "license": null,
             "last_commit": "2022-07-06T12:17:41Z",
+            "open_issues": 27,
             "owner": "cisco-open-source",
             "repo": "qtwebdriver",
-            "stars": 200
+            "stars": 200,
+            "topics": [
+              "docker",
+              "qml",
+              "qt",
+              "qtwebkit",
+              "qtwidget",
+              "selenium",
+              "webdriver"
+            ]
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -1470,12 +2158,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Collection of scripts to build Qt application in command line environment",
+            "homepage": null,
             "id": 51194451,
             "language": "Shell",
+            "license": "Apache-2.0",
             "last_commit": "2021-04-07T07:15:35Z",
+            "open_issues": 15,
             "owner": "benlau",
             "repo": "qtci",
-            "stars": 161
+            "stars": 161,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -1486,12 +2179,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Awesome notification server in QML",
+            "homepage": null,
             "id": 83843703,
             "language": "QML",
+            "license": null,
             "last_commit": "2018-07-10T15:47:41Z",
+            "open_issues": 0,
             "owner": "alamminsalo",
             "repo": "qmlnotify",
-            "stars": 157
+            "stars": 157,
+            "topics": [
+              "dbus",
+              "notification",
+              "notification-server",
+              "qml",
+              "qt5"
+            ]
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -1502,12 +2206,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Virtual Control Panel for Machinekit written in Qt/C++/QML",
+            "homepage": null,
             "id": 17676388,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2022-02-27T15:54:08Z",
+            "open_issues": 27,
             "owner": "machinekit",
             "repo": "QtQuickVcp",
-            "stars": 138
+            "stars": 138,
+            "topics": [
+              "3d-printing",
+              "cnc",
+              "gui",
+              "linuxcnc",
+              "machinekit",
+              "qml",
+              "qtquick"
+            ]
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -1518,12 +2235,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Terminal Emulator written in C++ and qml",
+            "homepage": null,
             "id": 67211,
             "language": "C++",
+            "license": null,
             "last_commit": "2017-09-12T13:22:14Z",
+            "open_issues": 1,
             "owner": "jorgen",
             "repo": "yat",
-            "stars": 119
+            "stars": 119,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -1534,12 +2256,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SparkQML - A QML Document Viewer for State and Transition Preview",
+            "homepage": null,
             "id": 72558052,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2019-06-01T20:37:37Z",
+            "open_issues": 1,
             "owner": "benlau",
             "repo": "sparkqml",
-            "stars": 102
+            "stars": 102,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -1550,12 +2277,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Qt/QML charting library",
+            "homepage": null,
             "id": 33730231,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2022-02-04T07:29:02Z",
+            "open_issues": 3,
             "owner": "evonove",
             "repo": "qnite",
-            "stars": 102
+            "stars": 102,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -1566,12 +2298,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Lightweight syntax highlighter written in Qt",
+            "homepage": null,
             "id": 230216969,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2025-01-15T05:54:18Z",
+            "open_issues": 0,
             "owner": "Waqar144",
             "repo": "QSourceHighlite",
-            "stars": 98
+            "stars": 98,
+            "topics": [
+              "cplusplus",
+              "cpp",
+              "cxx",
+              "parser",
+              "qt",
+              "qt-libraries",
+              "qt-libs",
+              "qt5",
+              "qt5-applications",
+              "qt5-gui",
+              "syntax-highlighter",
+              "syntax-highlighting"
+            ]
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -1582,12 +2332,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A library for generic JSON-based REST-APIs, with a mechanism to map JSON to Qt objects",
+            "homepage": "https://skycoder42.github.io/QtRestClient/",
             "id": 77643340,
             "language": "C++",
+            "license": "BSD-3-Clause",
             "last_commit": "2022-05-27T19:53:03Z",
+            "open_issues": 1,
             "owner": "Skycoder42",
             "repo": "QtRestClient",
-            "stars": 91
+            "stars": 91,
+            "topics": [
+              "generic",
+              "json",
+              "module",
+              "qt",
+              "rest"
+            ]
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -1598,12 +2359,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open source handwriting recognition keyboard written in QML/JavaScript",
+            "homepage": "http://penkia.blogspot.com/2012/02/qml-handwriting.html",
             "id": 3370399,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2015-08-29T11:00:50Z",
+            "open_issues": 1,
             "owner": "penk",
             "repo": "qml-handwriting",
-            "stars": 88
+            "stars": 88,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -1614,12 +2380,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Use the Cassowary constraint solver in QML applications ",
+            "homepage": "http://ableton.github.io/aqt-cassowary",
             "id": 29141268,
             "language": "QML",
+            "license": "MIT",
             "last_commit": "2024-01-16T10:36:54Z",
+            "open_issues": 7,
             "owner": "Ableton",
             "repo": "aqt-cassowary",
-            "stars": 55
+            "stars": 55,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -1630,12 +2401,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "QML Gantt - An efficient implementation of a gantt chart library for qml.",
+            "homepage": null,
             "id": 44064238,
             "language": "C++",
+            "license": "LGPL-3.0",
             "last_commit": "2020-09-29T19:01:18Z",
+            "open_issues": 1,
             "owner": "dinusv",
             "repo": "qml-gantt",
-            "stars": 50
+            "stars": 50,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -1646,12 +2422,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 10188605,
             "language": "QML",
+            "license": null,
             "last_commit": "2026-08-25T16:15:14Z",
+            "open_issues": 1,
             "owner": "qt-labs",
             "repo": "qml-presentation-system",
-            "stars": 49
+            "stars": 49,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -1662,12 +2443,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Qt/QML code snippets",
+            "homepage": null,
             "id": 1133474,
             "language": "QML",
+            "license": "MIT",
             "last_commit": "2023-09-24T02:55:48Z",
+            "open_issues": 3,
             "owner": "rshest",
             "repo": "qml-colorpicker",
-            "stars": 49
+            "stars": 49,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -1678,12 +2464,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TextSecure UI in Go and QML",
+            "homepage": null,
             "id": 40628892,
             "language": "QML",
+            "license": "GPL-3.0",
             "last_commit": "2019-10-19T13:46:32Z",
+            "open_issues": 15,
             "owner": "janimo",
             "repo": "textsecure-qml",
-            "stars": 45
+            "stars": 45,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -1694,12 +2485,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Maps and navigation for Sailfish OS",
+            "homepage": "https://openrepos.net/content/otsaloma/poor-maps",
             "id": 16673877,
             "language": "QML",
+            "license": "GPL-3.0",
             "last_commit": "2018-12-03T21:13:46Z",
+            "open_issues": 0,
             "owner": "otsaloma",
             "repo": "poor-maps",
-            "stars": 44
+            "stars": 44,
+            "topics": [
+              "maps",
+              "navigation",
+              "python",
+              "qml",
+              "sailfishos"
+            ]
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -1710,12 +2512,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Solar system model based on Qt3D framework",
+            "homepage": null,
             "id": 64304043,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2026-06-27T19:18:28Z",
+            "open_issues": 0,
             "owner": "Instand",
             "repo": "SolarSystem",
-            "stars": 44
+            "stars": 44,
+            "topics": [
+              "3d",
+              "qml",
+              "qt",
+              "qt3d",
+              "solarsystem"
+            ]
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -1726,12 +2539,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pure QML in-app virtual key/keyboard/pad",
+            "homepage": null,
             "id": 67616183,
             "language": "QML",
+            "license": "MIT",
             "last_commit": "2018-06-14T15:10:03Z",
+            "open_issues": 0,
             "owner": "MidoriYakumo",
             "repo": "qml-virtualkey",
-            "stars": 42
+            "stars": 42,
+            "topics": [
+              "qml"
+            ]
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -1742,12 +2562,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is a QML Data grid using Qt Quick Controls 2",
+            "homepage": null,
             "id": 81609691,
             "language": "QML",
+            "license": "MIT",
             "last_commit": "2026-02-28T05:14:01Z",
+            "open_issues": 4,
             "owner": "hahn-kev",
             "repo": "QmlGrid",
-            "stars": 42
+            "stars": 42,
+            "topics": [
+              "qml",
+              "qt",
+              "qtquick-controls"
+            ]
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -1758,12 +2587,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "I create this application to show up the demonstration for the collection of progress bars",
+            "homepage": "https://www.youtube.com/watch?v=axO0TAELDoE",
             "id": 90104688,
             "language": "QML",
+            "license": null,
             "last_commit": "2017-10-04T04:56:42Z",
+            "open_issues": 1,
             "owner": "KhoaTranProgrammer",
             "repo": "ProgressBarCollection",
-            "stars": 40
+            "stars": 40,
+            "topics": [
+              "qml",
+              "qt5"
+            ]
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -1774,12 +2611,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Car computer software written in Qt/QML & C++",
+            "homepage": null,
             "id": 10797177,
             "language": "C++",
+            "license": null,
             "last_commit": "2013-08-06T09:56:08Z",
+            "open_issues": 1,
             "owner": "damian0",
             "repo": "QCar",
-            "stars": 36
+            "stars": 36,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -1790,12 +2632,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Manipulate files by a shell command style API",
+            "homepage": null,
             "id": 64820545,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2019-11-19T14:02:49Z",
+            "open_issues": 1,
             "owner": "benlau",
             "repo": "qtshell",
-            "stars": 31
+            "stars": 31,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -1806,12 +2653,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A QML parser in JavaScript",
+            "homepage": null,
             "id": 55592021,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2022-04-14T17:51:10Z",
+            "open_issues": 10,
             "owner": "qmlweb",
             "repo": "qmlweb-parser",
-            "stars": 28
+            "stars": 28,
+            "topics": [
+              "javascript",
+              "parser",
+              "qml",
+              "qmlweb"
+            ]
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -1822,12 +2679,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple code editor using QML and c++",
+            "homepage": null,
             "id": 62549629,
             "language": "QML",
+            "license": "GPL-3.0",
             "last_commit": "2016-07-10T20:41:53Z",
+            "open_issues": 1,
             "owner": "andeplane",
             "repo": "QML-Code-editor",
-            "stars": 25
+            "stars": 25,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -1838,12 +2700,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "QML TreeView with custom folder list model in C++",
+            "homepage": null,
             "id": 79081593,
             "language": "C++",
+            "license": "GPL-3.0",
             "last_commit": "2017-01-16T04:11:15Z",
+            "open_issues": 1,
             "owner": "arunpkio",
             "repo": "QMLTreeView",
-            "stars": 25
+            "stars": 25,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -1854,12 +2721,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple tooltip system for QML",
+            "homepage": null,
             "id": 16727222,
             "language": null,
+            "license": null,
             "last_commit": "2014-04-14T16:47:11Z",
+            "open_issues": 0,
             "owner": "bobbaluba",
             "repo": "qmltooltip",
-            "stars": 21
+            "stars": 21,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -1870,12 +2742,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "QML Component for printing (or saving images of) components.",
+            "homepage": null,
             "id": 37730614,
             "language": "C++",
+            "license": "GPL-2.0",
             "last_commit": "2024-03-26T07:11:42Z",
+            "open_issues": 1,
             "owner": "danieloneill",
             "repo": "ComponentPrinter",
-            "stars": 21
+            "stars": 21,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -1886,12 +2763,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Implementation of a slide menu in QML",
+            "homepage": null,
             "id": 43917698,
             "language": "QML",
+            "license": null,
             "last_commit": "2016-01-29T13:21:44Z",
+            "open_issues": 2,
             "owner": "anatolyk82",
             "repo": "SlideMenu",
-            "stars": 20
+            "stars": 20,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -1902,12 +2784,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ubuntu Touch Version of KeePass (QML & C++)",
+            "homepage": null,
             "id": 47927361,
             "language": "C++",
+            "license": "GPL-3.0",
             "last_commit": "2020-07-18T11:35:12Z",
+            "open_issues": 20,
             "owner": "DannyGB",
             "repo": "KeePassTouch",
-            "stars": 19
+            "stars": 19,
+            "topics": [
+              "keepass",
+              "password-manager",
+              "ubuntu-touch"
+            ]
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -1918,12 +2809,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Table implementation for Qt 5 with QtQuick Components 2",
+            "homepage": null,
             "id": 61425779,
             "language": "QML",
+            "license": "BSD-3-Clause",
             "last_commit": "2018-02-14T11:13:15Z",
+            "open_issues": 2,
             "owner": "spuschhof",
             "repo": "QMLTable",
-            "stars": 18
+            "stars": 18,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -1934,12 +2830,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Docking window for Qt Quick",
+            "homepage": null,
             "id": 62277543,
             "language": "QML",
+            "license": null,
             "last_commit": "2016-07-04T09:27:32Z",
+            "open_issues": 0,
             "owner": "unseon",
             "repo": "QQuickDock",
-            "stars": 18
+            "stars": 18,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -1950,12 +2851,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Here is an example of how a tree might look in QML",
+            "homepage": null,
             "id": 263978495,
             "language": "C++",
+            "license": null,
             "last_commit": "2023-06-01T21:24:08Z",
+            "open_issues": 0,
             "owner": "Palm1r",
             "repo": "AQmlTreePlugin",
-            "stars": 18
+            "stars": 18,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -1966,12 +2872,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A list-based TreeView that can be rearranged with a mouse or touch device.",
+            "homepage": null,
             "id": 30137443,
             "language": "QML",
+            "license": "MIT",
             "last_commit": "2026-04-13T01:28:23Z",
+            "open_issues": 2,
             "owner": "MrEricSir",
             "repo": "QMLRearrangeableTreeView",
-            "stars": 14
+            "stars": 14,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -1982,12 +2893,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Persistent app-specific key-value store accessible from QML",
+            "homepage": null,
             "id": 65476873,
             "language": "C++",
+            "license": null,
             "last_commit": "2018-04-27T11:44:47Z",
+            "open_issues": 0,
             "owner": "chili-epfl",
             "repo": "qml-cache",
-            "stars": 14
+            "stars": 14,
+            "topics": [
+              "cache",
+              "qml",
+              "qml-cache",
+              "qtquick",
+              "qtquick-plugins"
+            ]
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -1998,12 +2920,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Sample Qt project to show how to use a C++ state machine with QML for UI",
+            "homepage": null,
             "id": 21655053,
             "language": "C++",
+            "license": null,
             "last_commit": "2016-01-20T19:38:46Z",
+            "open_issues": 0,
             "owner": "rchamberlin",
             "repo": "QmlStateMachine",
-            "stars": 14
+            "stars": 14,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -2014,12 +2941,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Just an example of completion box in Qt with QtQuick",
+            "homepage": null,
             "id": 84191812,
             "language": "QML",
+            "license": null,
             "last_commit": "2017-03-07T11:33:15Z",
+            "open_issues": 0,
             "owner": "dant3",
             "repo": "qmlcompletionbox",
-            "stars": 12
+            "stars": 12,
+            "topics": [
+              "example",
+              "qml",
+              "qt"
+            ]
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -2030,12 +2966,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This Project create images in a OpenGLFramebuffer, this is to grab images from qml file without actual viewer",
+            "homepage": null,
             "id": 87026899,
             "language": "C++",
+            "license": "GPL-3.0",
             "last_commit": "2017-04-03T01:30:19Z",
+            "open_issues": 0,
             "owner": "Ashifta",
             "repo": "qmlofflinesceen",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -2046,12 +2987,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "QML Slideshow: the Declarative Hierarchical Finite Slide Machine & Toolkit",
+            "homepage": null,
             "id": 33633518,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2015-06-05T02:02:56Z",
+            "open_issues": 3,
             "owner": "pkobrien",
             "repo": "qml-slideshow",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -2062,12 +3008,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Matrix animation on QT5 QML",
+            "homepage": null,
             "id": 92662088,
             "language": "QML",
+            "license": "GPL-3.0",
             "last_commit": "2017-06-10T21:38:13Z",
+            "open_issues": 0,
             "owner": "skarbat",
             "repo": "qmlmatrix",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -2078,12 +3029,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "QML plugin wrapper for Chilitags, a fiducial marker tracker, on desktop & Android",
+            "homepage": null,
             "id": 25130011,
             "language": "C++",
+            "license": null,
             "last_commit": "2015-10-22T13:53:17Z",
+            "open_issues": 4,
             "owner": "chili-epfl",
             "repo": "qml-chilitags",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -2094,12 +3050,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "QML interface for phoneME, which allows you to run Java MIDlets (JaveME, MIDP)",
+            "homepage": "https://github.com/QKit/phoneME-QML/wiki",
             "id": 3613880,
             "language": "C++",
+            "license": null,
             "last_commit": "2012-03-24T20:34:13Z",
+            "open_issues": 0,
             "owner": "QKit",
             "repo": "phoneme-qml",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -2110,12 +3071,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Screensaver written in Qt4/QML",
+            "homepage": null,
             "id": 889768,
             "language": "C++",
+            "license": null,
             "last_commit": "2010-09-05T17:43:43Z",
+            "open_issues": 0,
             "owner": "proDOOMman",
             "repo": "qmlsaver",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -2126,12 +3092,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "DateSelector. date select by qml",
+            "homepage": null,
             "id": 39610034,
             "language": "QML",
+            "license": "GPL-2.0",
             "last_commit": "2015-07-31T07:28:45Z",
+            "open_issues": 0,
             "owner": "qyvlik",
             "repo": "DateSelector",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "dateselector",
+              "qml"
+            ]
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -2142,12 +3116,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "time supporting app for traing purposes (bodyweight-training) on Jolla Sailfish OS",
+            "homepage": null,
             "id": 30708388,
             "language": "QML",
+            "license": "MIT",
             "last_commit": "2023-07-27T15:14:55Z",
+            "open_issues": 2,
             "owner": "neversun",
             "repo": "bodyweight-timer",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "bodyweight",
+              "jolla",
+              "qml",
+              "sailfishos",
+              "timer"
+            ]
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -2158,12 +3143,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Class for translations strings in C++/Qml code.",
+            "homepage": null,
             "id": 61130403,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2016-06-15T06:22:18Z",
+            "open_issues": 0,
             "owner": "uralbash",
             "repo": "qmltranslator",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -2174,12 +3164,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Collection of Qt proxy models and other models-related utilities.",
+            "homepage": null,
             "id": 999523866,
             "language": "C++",
+            "license": "MPL-2.0",
             "last_commit": "2026-07-27T11:02:32Z",
+            "open_issues": 1,
             "owner": "status-im",
             "repo": "QtModelsToolkit",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         }
@@ -2196,12 +3191,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A cross-platform multimedia framework based on Qt and FFmpeg. 基于Qt和FFmpeg的跨平台高性能音视频播放框架. Recommand to use new sdk https://github.com/wang-bin/mdk-sdk",
+            "homepage": "http://qtav.org",
             "id": 6435042,
             "language": "C++",
+            "license": null,
             "last_commit": "2025-08-15T16:20:01Z",
+            "open_issues": 523,
             "owner": "wang-bin",
             "repo": "QtAV",
-            "stars": 4257
+            "stars": 4257,
+            "topics": [
+              "c-plus-plus",
+              "ffmpeg",
+              "multimedia",
+              "player",
+              "qtav",
+              "video"
+            ]
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -2212,12 +3219,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Application to take pictures and videos with your webcam",
+            "homepage": "https://invent.kde.org/multimedia/kamoso",
             "id": 42736918,
             "language": "C++",
+            "license": null,
             "last_commit": "2026-08-27T11:18:26Z",
+            "open_issues": 0,
             "owner": "KDE",
             "repo": "kamoso",
-            "stars": 50
+            "stars": 50,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -2228,12 +3240,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "[ABANDONED] Simple demo app for QmlVlc lib",
+            "homepage": null,
             "id": 17293112,
             "language": "QML",
+            "license": "NOASSERTION",
             "last_commit": "2016-02-20T08:16:10Z",
+            "open_issues": 0,
             "owner": "RSATom",
             "repo": "QmlVlcDemo",
-            "stars": 42
+            "stars": 42,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -2244,12 +3261,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "QML video element backend by libVLC, rendered on gl texture",
+            "homepage": null,
             "id": 6604771,
             "language": "C++",
+            "license": null,
             "last_commit": "2012-11-08T22:24:28Z",
+            "open_issues": 0,
             "owner": "longwei",
             "repo": "qmlvideo",
-            "stars": 33
+            "stars": 33,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -2260,12 +3282,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MIDI plugin for Qt Quick.  Enables using MIDI input or output devices from declarative QML.",
+            "homepage": null,
             "id": 2949675,
             "language": "C++",
+            "license": null,
             "last_commit": "2018-08-30T22:17:21Z",
+            "open_issues": 3,
             "owner": "jarnoh",
             "repo": "qmlmidi",
-            "stars": 14
+            "stars": 14,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -2276,12 +3303,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A QML plugin for audio recording",
+            "homepage": null,
             "id": 15425133,
             "language": "C++",
+            "license": "GPL-3.0",
             "last_commit": "2014-03-25T16:39:36Z",
+            "open_issues": 1,
             "owner": "sverzegnassi",
             "repo": "qml-recorder",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         }
@@ -2298,12 +3330,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Multi-platform app that allows your devices to communicate",
+            "homepage": "https://invent.kde.org/network/kdeconnect-kde",
             "id": 42725503,
             "language": "C++",
+            "license": null,
             "last_commit": "2026-08-27T11:20:36Z",
+            "open_issues": 0,
             "owner": "KDE",
             "repo": "kdeconnect-kde",
-            "stars": 3957
+            "stars": 3957,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -2314,12 +3351,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Moved to KDE: https://invent.kde.org/libraries/qxmpp | Cross-platform C++ XMPP client and server library",
+            "homepage": "https://invent.kde.org/libraries/qxmpp",
             "id": 18179320,
             "language": "C++",
+            "license": null,
             "last_commit": "2025-03-20T21:41:54Z",
+            "open_issues": 41,
             "owner": "qxmpp-project",
             "repo": "qxmpp",
-            "stars": 424
+            "stars": 424,
+            "topics": [
+              "c-plus-plus",
+              "cmake",
+              "qt",
+              "xmpp",
+              "xmpp-library"
+            ]
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -2330,12 +3378,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SSH and SFTP support for Qt. This project is based on Qt Creator's libQtcSsh.so",
+            "homepage": null,
             "id": 6815113,
             "language": "C++",
+            "license": "LGPL-2.1",
             "last_commit": "2019-11-30T17:33:51Z",
+            "open_issues": 19,
             "owner": "lvklabs",
             "repo": "QSsh",
-            "stars": 230
+            "stars": 230,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -2346,12 +3399,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Qt REST Client",
+            "homepage": null,
             "id": 52100641,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2026-05-27T07:29:47Z",
+            "open_issues": 2,
             "owner": "qtrest",
             "repo": "qtrest",
-            "stars": 223
+            "stars": 223,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -2362,12 +3420,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Protobuf generator and bindings for Qt framework",
+            "homepage": "https://semlanik.github.io/qtprotobuf",
             "id": 194254343,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2024-09-03T21:27:58Z",
+            "open_issues": 46,
             "owner": "semlanik",
             "repo": "qtprotobuf",
-            "stars": 177
+            "stars": 177,
+            "topics": [
+              "grpc",
+              "grpc-client",
+              "json",
+              "json-parser",
+              "protobuf",
+              "protobuf-generator",
+              "qml",
+              "qt",
+              "qt-framework",
+              "qt-protobuf",
+              "qt5",
+              "qtprotbuf"
+            ]
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -2378,12 +3454,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Easy way to download files with Qt QML and C++",
+            "homepage": null,
             "id": 79821213,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2023-06-11T11:22:23Z",
+            "open_issues": 2,
             "owner": "larpon",
             "repo": "QuickDownload",
-            "stars": 92
+            "stars": 92,
+            "topics": [
+              "download",
+              "qml",
+              "qpm",
+              "qt",
+              "qt-plugin",
+              "qt5"
+            ]
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -2394,12 +3482,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A cross-platform IRC framework for Qt",
+            "homepage": "https://communi.github.io",
             "id": 10317867,
             "language": "C++",
+            "license": "BSD-3-Clause",
             "last_commit": "2024-05-04T12:52:43Z",
+            "open_issues": 20,
             "owner": "communi",
             "repo": "libcommuni",
-            "stars": 89
+            "stars": 89,
+            "topics": [
+              "cross-platform",
+              "irc",
+              "irc-framework",
+              "qml",
+              "qt"
+            ]
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -2410,12 +3509,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "XML-RPC lib for Qt",
+            "homepage": null,
             "id": 456367,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2023-06-23T09:05:04Z",
+            "open_issues": 3,
             "owner": "wiedi",
             "repo": "libmaia",
-            "stars": 65
+            "stars": 65,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -2426,12 +3530,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Protocol Buffers and gRPC binding for QML (QtQuick2)",
+            "homepage": null,
             "id": 27006622,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2016-11-06T09:40:13Z",
+            "open_issues": 4,
             "owner": "nsuke",
             "repo": "protobuf-qml",
-            "stars": 54
+            "stars": 54,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -2442,12 +3551,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Exposing Qt's C++ socket objects to QML for declarative use.",
+            "homepage": null,
             "id": 15698426,
             "language": "QML",
+            "license": "MIT",
             "last_commit": "2016-03-04T15:00:20Z",
+            "open_issues": 2,
             "owner": "jemc",
             "repo": "qml-sockets",
-            "stars": 51
+            "stars": 51,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -2458,12 +3572,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Qt and QML Mqtt Library",
+            "homepage": null,
             "id": 44820915,
             "language": "C++",
+            "license": null,
             "last_commit": "2017-07-25T15:44:14Z",
+            "open_issues": 1,
             "owner": "toni1991",
             "repo": "QtMqtt",
-            "stars": 27
+            "stars": 27,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -2474,12 +3593,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "HttpRequest such as XMLHttpRequest, but more powerful.",
+            "homepage": null,
             "id": 46064173,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2016-11-20T15:14:43Z",
+            "open_issues": 0,
             "owner": "qyvlik",
             "repo": "HttpRequest",
-            "stars": 26
+            "stars": 26,
+            "topics": [
+              "httprequest",
+              "qml"
+            ]
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -2490,12 +3617,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 6367522,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2013-10-04T18:03:16Z",
+            "open_issues": 2,
             "owner": "misterion",
             "repo": "QML-WebSocket",
-            "stars": 25
+            "stars": 25,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -2506,12 +3638,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open-source XMPP client for Symbian, written using QML and QtQuick libraries.",
+            "homepage": null,
             "id": 12195643,
             "language": "C++",
+            "license": "GPL-3.0",
             "last_commit": "2016-08-16T14:48:41Z",
+            "open_issues": 16,
             "owner": "ksiazkowicz",
             "repo": "lightbulb",
-            "stars": 20
+            "stars": 20,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -2522,12 +3659,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "QML wrappers for QTcpServer and QTcpSocket",
+            "homepage": null,
             "id": 73364382,
             "language": "C++",
+            "license": null,
             "last_commit": "2018-04-27T11:29:47Z",
+            "open_issues": 1,
             "owner": "chili-epfl",
             "repo": "qml-tcpsockets",
-            "stars": 14
+            "stars": 14,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -2538,12 +3680,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple SOAP client for QML",
+            "homepage": null,
             "id": 51564662,
             "language": "C++",
+            "license": null,
             "last_commit": "2016-02-12T04:23:32Z",
+            "open_issues": 0,
             "owner": "folibis",
             "repo": "qml-soap",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         }
@@ -2560,12 +3707,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Qml Compiler",
+            "homepage": null,
             "id": 22053374,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2017-03-05T20:12:24Z",
+            "open_issues": 14,
             "owner": "qmlc",
             "repo": "qmlc",
-            "stars": 140
+            "stars": 140,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -2576,12 +3728,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "QML Cross Platform Utility Library",
+            "homepage": null,
             "id": 48244874,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2017-03-13T07:32:17Z",
+            "open_issues": 0,
             "owner": "benlau",
             "repo": "quickcross",
-            "stars": 49
+            "stars": 49,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -2592,12 +3749,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Frida Qml plugin",
+            "homepage": null,
             "id": 20378353,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-27T16:26:17Z",
+            "open_issues": 2,
             "owner": "frida",
             "repo": "frida-qml",
-            "stars": 47
+            "stars": 47,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -2608,12 +3770,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ViewStack.pri - A stateless StackView ",
+            "homepage": null,
             "id": 78744669,
             "language": "QML",
+            "license": "Apache-2.0",
             "last_commit": "2018-08-17T14:47:32Z",
+            "open_issues": 0,
             "owner": "benlau",
             "repo": "viewstack.pri",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         }
@@ -2630,12 +3797,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An effort to bring Google's Firebase C++ API to Qt + QML",
+            "homepage": null,
             "id": 77058582,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2022-11-28T16:12:34Z",
+            "open_issues": 25,
             "owner": "larpon",
             "repo": "QtFirebase",
-            "stars": 291
+            "stars": 291,
+            "topics": [
+              "admob",
+              "analytics",
+              "android",
+              "auth",
+              "authentication",
+              "cloud-messaging",
+              "firebase",
+              "ios",
+              "messaging",
+              "plugin",
+              "qml",
+              "qt",
+              "qtfirebase",
+              "realtime-database",
+              "remote-config"
+            ]
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -2646,12 +3834,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ArcGIS Maps SDK for Qt Toolkit",
+            "homepage": null,
             "id": 23629913,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T19:01:55Z",
+            "open_issues": 1,
             "owner": "Esri",
             "repo": "arcgis-maps-sdk-toolkit-qt",
-            "stars": 146
+            "stars": 146,
+            "topics": [
+              "arcgis-maps-sdk-qt",
+              "arcgis-runtime-sdk",
+              "arcgis-runtime-sdk-arcgis-qt-sdk",
+              "native-development",
+              "qml",
+              "qml-toolkit",
+              "qt",
+              "qt-toolkit"
+            ]
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -2662,12 +3864,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "QtAdMob is a C++ lib for Qt with QML support, which allows to show ads from AdMob on Android and iOS platforms",
+            "homepage": null,
             "id": 37615658,
             "language": "Objective-C",
+            "license": "MIT",
             "last_commit": "2021-03-14T18:52:12Z",
+            "open_issues": 8,
             "owner": "nextgeniuspro",
             "repo": "QtAdMob",
-            "stars": 101
+            "stars": 101,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -2678,12 +3885,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple integration of Google Analytics with Qt Quick for iOS and Android",
+            "homepage": null,
             "id": 23988458,
             "language": "Objective-C",
+            "license": null,
             "last_commit": "2014-09-30T12:53:54Z",
+            "open_issues": 0,
             "owner": "lasconic",
             "repo": "GATutorial-QML",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         }
@@ -2700,12 +3912,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":book: Material Design implemented in QtQuick",
+            "homepage": null,
             "id": 25996549,
             "language": "QML",
+            "license": "LGPL-2.1",
             "last_commit": "2018-01-31T21:14:14Z",
+            "open_issues": 143,
             "owner": "papyros",
             "repo": "qml-material",
-            "stars": 2630
+            "stars": 2630,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -2716,12 +3933,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Material Design for QtQuick and Qml",
+            "homepage": "https://docs.liri.io/sdk/fluid/develop/",
             "id": 63346224,
             "language": "QML",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T14:43:16Z",
+            "open_issues": 61,
             "owner": "lirios",
             "repo": "fluid",
-            "stars": 888
+            "stars": 888,
+            "topics": [
+              "android",
+              "controls",
+              "convergence",
+              "hacktoberfest",
+              "linux",
+              "macos",
+              "material",
+              "material-components",
+              "material-design",
+              "qml",
+              "qt",
+              "qt-quick",
+              "wayland",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -2732,12 +3969,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🎉 Ant-d UI-Kit for Qml",
+            "homepage": null,
             "id": 879336028,
             "language": "QML",
+            "license": "MIT",
             "last_commit": "2026-08-24T15:15:33Z",
+            "open_issues": 10,
             "owner": "mengps",
             "repo": "HuskarUI",
-            "stars": 582
+            "stars": 582,
+            "topics": [
+              "ant-design",
+              "controls",
+              "cpp17",
+              "qml",
+              "qt6",
+              "ui-kit"
+            ]
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -2748,12 +3997,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Sweet Qml components inspired from Ionic framework style for mobile and desktop Qt/Qml projects",
+            "homepage": null,
             "id": 25746907,
             "language": "QML",
+            "license": null,
             "last_commit": "2017-07-24T11:41:08Z",
+            "open_issues": 11,
             "owner": "brexis",
             "repo": "qml-bootstrap",
-            "stars": 412
+            "stars": 412,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -2764,12 +4018,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Stratify Labs UI QML framework inspired by Twitter Bootstrap",
+            "homepage": "https://stratifylabs.co",
             "id": 55869190,
             "language": "QML",
+            "license": "Apache-2.0",
             "last_commit": "2018-03-24T22:26:45Z",
+            "open_issues": 11,
             "owner": "StratifyLabs",
             "repo": "StratifyQML",
-            "stars": 231
+            "stars": 231,
+            "topics": [
+              "qml",
+              "twitter-bootstrap"
+            ]
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -2780,12 +4042,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Apply CSS style sheets to QML applications",
+            "homepage": null,
             "id": 26809156,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2026-04-07T09:45:35Z",
+            "open_issues": 15,
             "owner": "Ableton",
             "repo": "aqt-stylesheets",
-            "stars": 229
+            "stars": 229,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -2796,12 +4063,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Fluent Design UI library for Qt Quick (QML)",
+            "homepage": "https://ui.rinlit.cn",
             "id": 945324197,
             "language": "QML",
+            "license": "MIT",
             "last_commit": "2026-08-27T20:27:07Z",
+            "open_issues": 11,
             "owner": "RinLit-233-shiroko",
             "repo": "Rin-UI",
-            "stars": 165
+            "stars": 165,
+            "topics": [
+              "fluent",
+              "fluent-design",
+              "fluent-ui",
+              "fluentui",
+              "pyqt",
+              "pyside6",
+              "python",
+              "qml",
+              "qt",
+              "qtquick",
+              "rinui",
+              "ui",
+              "ui-library"
+            ]
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -2812,12 +4098,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Font Awesome in QML (Qt Quick)",
+            "homepage": null,
             "id": 21114441,
             "language": "QML",
+            "license": "MIT",
             "last_commit": "2021-05-25T19:41:32Z",
+            "open_issues": 0,
             "owner": "QMLCommunity",
             "repo": "font-awesome-qml",
-            "stars": 120
+            "stars": 120,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -2828,12 +4119,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is custom made and themed QML controls. The controls are made to look and behave just like Flat UI Toolkit.",
+            "homepage": null,
             "id": 27752866,
             "language": null,
+            "license": "MIT",
             "last_commit": "2015-02-02T02:44:51Z",
+            "open_issues": 1,
             "owner": "Druage",
             "repo": "FlatUI-Controls-QML",
-            "stars": 93
+            "stars": 93,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -2844,12 +4140,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 938985333,
             "language": "QML",
+            "license": null,
             "last_commit": "2026-08-20T16:01:01Z",
+            "open_issues": 3,
             "owner": "MarkoStanojevic12",
             "repo": "MMaterial",
-            "stars": 68
+            "stars": 68,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -2860,12 +4161,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Using FontAwesome in QML",
+            "homepage": null,
             "id": 72390826,
             "language": "QML",
+            "license": "Apache-2.0",
             "last_commit": "2020-06-09T09:19:28Z",
+            "open_issues": 1,
             "owner": "benlau",
             "repo": "fontawesome.pri",
-            "stars": 53
+            "stars": 53,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -2876,12 +4182,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "FontAwesome for QML",
+            "homepage": null,
             "id": 79438630,
             "language": "JavaScript",
+            "license": "BSD-3-Clause",
             "last_commit": "2017-03-16T11:22:16Z",
+            "open_issues": 0,
             "owner": "qCring",
             "repo": "QMLFontAwesome",
-            "stars": 14
+            "stars": 14,
+            "topics": [
+              "fontawesome",
+              "icons",
+              "qml"
+            ]
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -2892,12 +4207,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Moved to https://gitlab.com/advanced-effects/muse-qml-app-template",
+            "homepage": null,
             "id": 1023149071,
             "language": "C++",
+            "license": null,
             "last_commit": "2025-10-15T07:42:21Z",
+            "open_issues": 0,
             "owner": "Advanced-Effects",
             "repo": "Muse-Qml-App-Template",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "qml",
+              "qt",
+              "qt-gui",
+              "qtquick",
+              "qtquick2"
+            ]
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         }
@@ -2914,12 +4240,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Minimal Qt deployment for Linux, Windows, macOS and WebAssembly.",
+            "homepage": null,
             "id": 124771839,
             "language": "QML",
+            "license": null,
             "last_commit": "2020-08-08T15:30:24Z",
+            "open_issues": 4,
             "owner": "patrickelectric",
             "repo": "mini-qml",
-            "stars": 46
+            "stars": 46,
+            "topics": [
+              "appveyor",
+              "deployment",
+              "linux",
+              "mac",
+              "mini-qml",
+              "qml",
+              "qt",
+              "qt5",
+              "travis",
+              "webasm",
+              "webassembly",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -2930,12 +4274,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CMake project template for a simple QML application",
+            "homepage": null,
             "id": 38335492,
             "language": "CMake",
+            "license": null,
             "last_commit": "2017-07-21T07:13:18Z",
+            "open_issues": 0,
             "owner": "qCring",
             "repo": "QMLApplicationTemplate",
-            "stars": 45
+            "stars": 45,
+            "topics": [
+              "cmake",
+              "qml",
+              "template"
+            ]
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -2946,12 +4299,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Project template using QuickFlux with unit tests",
+            "homepage": null,
             "id": 63355535,
             "language": "C++",
+            "license": null,
             "last_commit": "2016-09-28T07:29:18Z",
+            "open_issues": 0,
             "owner": "benlau",
             "repo": "quickflux-project-template",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -2962,12 +4320,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Qt Creator Project Templates with qpm",
+            "homepage": null,
             "id": 65550658,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2017-12-08T18:46:37Z",
+            "open_issues": 0,
             "owner": "benlau",
             "repo": "qpm-qt-creator-project-template",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         }
@@ -2984,12 +4347,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "QT/QML Test Runner and Utilities",
+            "homepage": null,
             "id": 48814653,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2024-08-02T10:27:17Z",
+            "open_issues": 3,
             "owner": "benlau",
             "repo": "testable",
-            "stars": 64
+            "stars": 64,
+            "topics": [
+              "qml",
+              "tests"
+            ]
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -3000,12 +4371,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An easy-to-use Unit Testing framework for Qt Declarative UI - QML [unmaintained]",
+            "homepage": null,
             "id": 691645,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2010-07-07T15:21:52Z",
+            "open_issues": 1,
             "owner": "fgrehm",
             "repo": "qmlunit",
-            "stars": 29
+            "stars": 29,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -3016,12 +4392,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The integrated and extensible QML testing framework.",
+            "homepage": null,
             "id": 21186080,
             "language": "QML",
+            "license": null,
             "last_commit": "2015-09-30T19:32:12Z",
+            "open_issues": 0,
             "owner": "jemc",
             "repo": "QmlSpec",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -3032,12 +4413,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Qt Test Runner - A tiny tool to execute multiple QTestLib application and combine the testing result into a summary report.",
+            "homepage": null,
             "id": 1535510,
             "language": "C++",
+            "license": null,
             "last_commit": "2016-05-11T17:11:37Z",
+            "open_issues": 0,
             "owner": "benlau",
             "repo": "testrunner",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         }
@@ -3054,12 +4440,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":link: C++17 network / graph visualization library - Qt6 / QML node editor.",
+            "homepage": "http://cneben.github.io/QuickQanava/index.html",
             "id": 39349320,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-12T08:05:15Z",
+            "open_issues": 31,
             "owner": "cneben",
             "repo": "QuickQanava",
-            "stars": 1374
+            "stars": 1374,
+            "topics": [
+              "complex-networks",
+              "cpp",
+              "cpp-library",
+              "dataflow-programming",
+              "graph",
+              "graph-theory",
+              "graph-visualization",
+              "graphs",
+              "qml",
+              "qt",
+              "qt-containers",
+              "visualization"
+            ]
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -3070,12 +4474,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A VTK prototyping application based on QtQuick/QML",
+            "homepage": null,
             "id": 59888953,
             "language": "C++",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-06-23T18:18:37Z",
+            "open_issues": 17,
             "owner": "qCring",
             "repo": "QuickVtk",
-            "stars": 376
+            "stars": 376,
+            "topics": [
+              "qml",
+              "qt",
+              "visualization",
+              "vtk"
+            ]
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         }
@@ -3092,12 +4506,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Flexible toolkit for making desktop shells with QtQuick, for Wayland and X11",
+            "homepage": "https://quickshell.org",
             "id": 766993934,
             "language": "C++",
-            "last_commit": "2026-08-28T07:48:28Z",
+            "license": "LGPL-3.0",
+            "last_commit": "2026-08-29T02:27:21Z",
+            "open_issues": 468,
             "owner": "quickshell-mirror",
             "repo": "quickshell",
-            "stars": 2897
+            "stars": 2897,
+            "topics": [
+              "audio-mixer",
+              "bar",
+              "desktop-widgets",
+              "linux",
+              "mixer",
+              "pipewire",
+              "qml",
+              "qt",
+              "qtquick",
+              "status-bar",
+              "statusbar",
+              "statusnotifieritem",
+              "system-tray",
+              "wayland",
+              "wayland-bar",
+              "wayland-compatibility",
+              "widget",
+              "widgets",
+              "x11",
+              "xorg"
+            ]
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -3108,12 +4548,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "QML based X11 and Wayland display manager",
+            "homepage": null,
             "id": 7675929,
             "language": "C++",
+            "license": "GPL-2.0",
             "last_commit": "2026-08-19T10:45:49Z",
+            "open_issues": 752,
             "owner": "sddm",
             "repo": "sddm",
-            "stars": 2335
+            "stars": 2335,
+            "topics": [
+              "qml",
+              "qtquick",
+              "wayland",
+              "xorg"
+            ]
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -3124,12 +4574,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":shell: Convergent shell for desktops, phones and tables built with QtQuick, Wayland and Material Design",
+            "homepage": null,
             "id": 63376422,
             "language": "C++",
+            "license": "GPL-3.0",
             "last_commit": "2024-02-11T14:16:13Z",
+            "open_issues": 35,
             "owner": "lirios",
             "repo": "shell",
-            "stars": 248
+            "stars": 248,
+            "topics": [
+              "compositor",
+              "convergence",
+              "desktop",
+              "hacktoberfest",
+              "material-design",
+              "mobile",
+              "phone",
+              "qml",
+              "qt",
+              "qt-quick",
+              "tablet",
+              "wayland"
+            ]
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -3140,12 +4608,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A prototype of QtQuick/QML compositing manager for X11. Abandoned",
+            "homepage": "http://amezin.github.io/2015/06/20/qmlcompmgr.html",
             "id": 35898637,
             "language": "C++",
+            "license": "Zlib",
             "last_commit": "2015-07-20T18:05:20Z",
+            "open_issues": 1,
             "owner": "amezin",
             "repo": "qmlcompmgr",
-            "stars": 15
+            "stars": 15,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         }
@@ -3162,12 +4635,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The source code for the upcoming qml book",
+            "homepage": "http://qmlbook.github.io/",
             "id": 11542228,
             "language": "Batchfile",
+            "license": "BSD-3-Clause",
             "last_commit": "2023-06-02T17:07:28Z",
+            "open_issues": 91,
             "owner": "qmlbook",
             "repo": "qmlbook",
-            "stars": 2583
+            "stars": 2583,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -3178,12 +4656,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of good practices when writing QML code - https://doc.qt.io/qt/qtqml-index.html",
+            "homepage": null,
             "id": 146772699,
             "language": null,
+            "license": "Unlicense",
             "last_commit": "2022-04-18T21:23:53Z",
+            "open_issues": 4,
             "owner": "Furkanzmc",
             "repo": "QML-Coding-Guide",
-            "stars": 609
+            "stars": 609,
+            "topics": [
+              "qml",
+              "qt"
+            ]
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -3194,12 +4680,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "RCSE is a powerful tool to design your own charactersheet for rolisteam.",
+            "homepage": "http://www.rolisteam.org",
             "id": 56432556,
             "language": "C++",
+            "license": "GPL-2.0",
             "last_commit": "2020-12-11T13:26:37Z",
+            "open_issues": 2,
             "owner": "Rolisteam",
             "repo": "rcse",
-            "stars": 10
+            "stars": 10,
+            "topics": [
+              "charactersheet",
+              "editor",
+              "jdr",
+              "penandpaper",
+              "rolisteam",
+              "rolisteam-character-sheet",
+              "rpg"
+            ]
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         }
@@ -3216,12 +4715,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Telegram Desktop messaging app",
+            "homepage": "https://desktop.telegram.org/",
             "id": 19374812,
             "language": "C++",
-            "last_commit": "2026-08-28T19:17:56Z",
+            "license": "GPL-3.0",
+            "last_commit": "2026-08-29T02:15:10Z",
+            "open_issues": 1014,
             "owner": "telegramdesktop",
             "repo": "tdesktop",
-            "stars": 32759
+            "stars": 32759,
+            "topics": [
+              "messenger",
+              "multi-platform",
+              "telegram",
+              "telegram-desktop",
+              "telegram-solution"
+            ]
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -3232,12 +4742,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A good looking terminal emulator which mimics the old cathode display...",
+            "homepage": null,
             "id": 14614344,
             "language": "QML",
+            "license": null,
             "last_commit": "2026-05-31T10:12:54Z",
+            "open_issues": 561,
             "owner": "Swordfish90",
             "repo": "cool-retro-term",
-            "stars": 25964
+            "stars": 25966,
+            "topics": [
+              "linux",
+              "macos",
+              "qml",
+              "qt",
+              "retro",
+              "terminal"
+            ]
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -3248,12 +4770,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "QOwnNotes is a plain-text file notepad and todo-list manager with Markdown support and Nextcloud / ownCloud integration.",
+            "homepage": "https://www.qownnotes.org/",
             "id": 27436491,
             "language": "C++",
+            "license": "GPL-2.0",
             "last_commit": "2026-08-28T20:06:09Z",
+            "open_issues": 59,
             "owner": "pbek",
             "repo": "QOwnNotes",
-            "stars": 5855
+            "stars": 5855,
+            "topics": [
+              "bookmark",
+              "c-plus-plus",
+              "caldav",
+              "chrome-extension",
+              "dropbox",
+              "firefox-extension",
+              "llm",
+              "local-first",
+              "markdown",
+              "nextcloud",
+              "nextcloud-notes",
+              "note-taking",
+              "notebook",
+              "notes",
+              "owncloud",
+              "pim",
+              "pkm",
+              "qownnotes",
+              "qt",
+              "second-brain"
+            ]
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -3264,12 +4812,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cross-platform ground control station for drones (Android, iOS, Mac OS, Linux, Windows)",
+            "homepage": "http://qgroundcontrol.io",
             "id": 2567844,
             "language": "C++",
-            "last_commit": "2026-08-28T23:37:37Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T23:44:39Z",
+            "open_issues": 1000,
             "owner": "mavlink",
             "repo": "qgroundcontrol",
-            "stars": 4876
+            "stars": 4876,
+            "topics": [
+              "ardupilot",
+              "drone",
+              "hacktoberfest",
+              "mavlink",
+              "pixhawk",
+              "px4",
+              "qt",
+              "uas",
+              "uav"
+            ]
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -3280,12 +4843,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A cross platform, customizable graphical frontend for launching emulators and managing your game collection.",
+            "homepage": "http://pegasus-frontend.org",
             "id": 89860403,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-24T17:43:32Z",
+            "open_issues": 152,
             "owner": "mmatyas",
             "repo": "pegasus-frontend",
-            "stars": 1881
+            "stars": 1881,
+            "topics": [
+              "cross-platform",
+              "customizable",
+              "emulator",
+              "frontend",
+              "games",
+              "hacktoberfest",
+              "qml",
+              "qt5",
+              "raspberry-pi",
+              "retrogaming"
+            ]
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -3296,12 +4875,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Data transceiver(monitor)/realtime plotter/shortcut/file transceiver over serial port/Bluetooth/network on Windows/Linux/Android/macOS | 跨平台串口/蓝牙/网络调试助手，带数据收发/实时绘图/快捷发送/文件收发面板，可在PC和Android设备上使用",
+            "homepage": null,
             "id": 274386713,
             "language": "C++",
+            "license": "GPL-3.0",
             "last_commit": "2024-06-17T11:33:30Z",
+            "open_issues": 27,
             "owner": "wh201906",
             "repo": "SerialTest",
-            "stars": 1646
+            "stars": 1646,
+            "topics": [
+              "android",
+              "bluetooth",
+              "bluetooth-le",
+              "f-droid",
+              "linux",
+              "macos",
+              "network",
+              "plot",
+              "qcustomplot",
+              "qt",
+              "qt5",
+              "serial",
+              "serial-monitor",
+              "serialport",
+              "tcp",
+              "udp",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -3312,12 +4914,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A feature-rich screen capture software with just a single executable file",
+            "homepage": null,
             "id": 625084443,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2026-08-25T01:29:36Z",
+            "open_issues": 32,
             "owner": "xland",
             "repo": "ScreenCapture",
-            "stars": 1479
+            "stars": 1479,
+            "topics": [
+              "canvas",
+              "draw",
+              "paint",
+              "screen-capture",
+              "scroll-capture",
+              "video"
+            ]
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -3328,12 +4942,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A libre cross-platform disassembler.",
+            "homepage": "https://panopticon.re",
             "id": 16771027,
             "language": "Rust",
+            "license": "GPL-3.0",
             "last_commit": "2019-01-03T23:20:27Z",
+            "open_issues": 55,
             "owner": "das-labor",
             "repo": "panopticon",
-            "stars": 1445
+            "stars": 1445,
+            "topics": [
+              "disassembler",
+              "qml",
+              "reverse-engineering",
+              "rust",
+              "security",
+              "static-analysis"
+            ]
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -3344,12 +4970,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Yubico Authenticator for Desktop (Windows, macOS and Linux) and Android",
+            "homepage": "https://developers.yubico.com/yubioath-flutter/",
             "id": 16949032,
             "language": "Dart",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-24T12:33:16Z",
+            "open_issues": 107,
             "owner": "Yubico",
             "repo": "yubioath-flutter",
-            "stars": 1369
+            "stars": 1369,
+            "topics": [
+              "fido",
+              "flutter",
+              "oath",
+              "totp",
+              "yubikey"
+            ]
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -3360,12 +4997,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Qt Visual Graph Editor",
+            "homepage": null,
             "id": 116423899,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2025-07-01T16:36:02Z",
+            "open_issues": 40,
             "owner": "ArsMasiuk",
             "repo": "qvge",
-            "stars": 670
+            "stars": 670,
+            "topics": [
+              "education",
+              "graph-editor",
+              "qt",
+              "science",
+              "visualization"
+            ]
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -3376,12 +5024,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": "https://apps.microsoft.com/store/detail/XP9CJLHWVXS49P",
             "id": 744848058,
             "language": "C++",
+            "license": "GPL-3.0",
             "last_commit": "2026-07-13T05:58:53Z",
+            "open_issues": 0,
             "owner": "AmirHammouteneEI",
             "repo": "ScheduledPasteAndKeys",
-            "stars": 195
+            "stars": 195,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -3392,12 +5045,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Rolisteam is a virtual tabletop. It helps you to manage tabletop role playing games with remote friends/players. It provides many features to share maps, pictures, dice roller, manage background music and much more. The main git repository is available here: [https://invent.kde.org/kde/rolisteam].",
+            "homepage": "http://www.rolisteam.org/",
             "id": 30956152,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2026-06-21T05:25:42Z",
+            "open_issues": 15,
             "owner": "Rolisteam",
             "repo": "rolisteam",
-            "stars": 194
+            "stars": 194,
+            "topics": [
+              "c-plus-plus",
+              "client",
+              "dice-roller",
+              "jdr",
+              "qt5",
+              "qt5-gui",
+              "rolisteam",
+              "rpg",
+              "rpg-maps",
+              "rpg-tool",
+              "server",
+              "sharing",
+              "tabletop",
+              "tabletop-gaming",
+              "tabletoprpg",
+              "translation",
+              "virtualtabletop"
+            ]
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -3408,12 +5084,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cross-platform Qt5/QML-based Matrix client",
+            "homepage": "https://matrix.org",
             "id": 45385708,
             "language": "C++",
+            "license": "GPL-3.0",
             "last_commit": "2017-02-21T09:03:01Z",
+            "open_issues": 5,
             "owner": "davidar",
             "repo": "tensor",
-            "stars": 172
+            "stars": 172,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -3424,12 +5105,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Terminal Emulator written in C++ and qml",
+            "homepage": null,
             "id": 67211,
             "language": "C++",
+            "license": null,
             "last_commit": "2017-09-12T13:22:14Z",
+            "open_issues": 1,
             "owner": "jorgen",
             "repo": "yat",
-            "stars": 119
+            "stars": 119,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -3440,12 +5126,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "P2P Chat and File Transfer Desktop Application",
+            "homepage": "https://ipconnect.sourceforge.io",
             "id": 70985348,
             "language": "C++",
+            "license": "GPL-3.0",
             "last_commit": "2017-10-30T20:42:47Z",
+            "open_issues": 1,
             "owner": "shashwatdixit124",
             "repo": "IPConnect",
-            "stars": 90
+            "stars": 90,
+            "topics": [
+              "cpp",
+              "p2p",
+              "qml",
+              "qt5",
+              "sockets"
+            ]
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -3456,12 +5153,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":rocket: File manager",
+            "homepage": null,
             "id": 63345136,
             "language": "C++",
+            "license": "GPL-3.0",
             "last_commit": "2022-10-21T21:52:34Z",
+            "open_issues": 6,
             "owner": "lirios",
             "repo": "files",
-            "stars": 89
+            "stars": 89,
+            "topics": [
+              "file-manager",
+              "hacktoberfest",
+              "material-design",
+              "qml",
+              "qt",
+              "qt-quick"
+            ]
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -3472,12 +5181,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "VNC viewer component by qt quick",
+            "homepage": null,
             "id": 62862974,
             "language": "C",
+            "license": "Apache-2.0",
             "last_commit": "2017-06-15T02:58:54Z",
+            "open_issues": 0,
             "owner": "heroyin",
             "repo": "qmlvncviewer",
-            "stars": 65
+            "stars": 65,
+            "topics": [
+              "qml",
+              "qt",
+              "vnc"
+            ]
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -3488,12 +5206,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Telegram API tools for QtQml and Qml. It's based on Cutegram-Core and libqtelegram.",
+            "homepage": null,
             "id": 37739113,
             "language": "C++",
+            "license": "GPL-3.0",
             "last_commit": "2018-05-03T12:55:42Z",
+            "open_issues": 10,
             "owner": "Aseman-Land",
             "repo": "TelegramQML",
-            "stars": 59
+            "stars": 59,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -3504,12 +5227,31 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Sailfinder, the unofficial Tinder client for Jolla's Sailfish OS",
+            "homepage": "https://sailfinder.dylanvanassche.be",
             "id": 56079217,
             "language": "C++",
+            "license": "GPL-3.0",
             "last_commit": "2021-08-23T16:07:29Z",
+            "open_issues": 14,
             "owner": "DylanVanAssche",
             "repo": "harbour-sailfinder",
-            "stars": 18
+            "stars": 18,
+            "topics": [
+              "c-plus-plus",
+              "dating",
+              "dating-app",
+              "jolla",
+              "qml",
+              "qt",
+              "qt5",
+              "sailfishos",
+              "social",
+              "social-media",
+              "social-network",
+              "tinder",
+              "unofficial"
+            ]
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         }
@@ -3518,15 +5260,35 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T23:39:15.877Z",
+    "last_updated": "2026-08-29T04:22:33.570Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome Qt and QML libraries, resources, projects, and shiny things.",
+      "homepage": null,
       "id": 95331210,
       "language": null,
+      "license": null,
       "last_commit": "2026-01-06T01:02:04Z",
+      "open_issues": 5,
       "owner": "mikalv",
       "repo": "awesome-qt-qml",
-      "stars": 2605
+      "stars": 2605,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "cpp",
+        "javascript",
+        "qml",
+        "qml-bindings",
+        "qpm",
+        "qt",
+        "qt-quick",
+        "qt4",
+        "qt5",
+        "qtcreator",
+        "qtquick",
+        "qtquick-controls"
+      ]
     },
     "original_repository_sha": "dbeebe15890cdfebe5deda640ae7ddd495983ceb",
     "enhanced_repository": "enhansome/enhansome-qt-qml",
