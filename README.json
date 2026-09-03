@@ -1215,7 +1215,7 @@
             "open_issues": 10,
             "owner": "carlonluca",
             "repo": "pot",
-            "stars": 179,
+            "stars": 178,
             "topics": []
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
@@ -1846,7 +1846,7 @@
             "open_issues": 29,
             "owner": "mfreiholz",
             "repo": "Qt-Advanced-Docking-System",
-            "stars": 829,
+            "stars": 830,
             "topics": [
               "cpp",
               "docking",
@@ -3221,7 +3221,7 @@
             "open_issues": 523,
             "owner": "wang-bin",
             "repo": "QtAV",
-            "stars": 4256,
+            "stars": 4255,
             "topics": [
               "c-plus-plus",
               "ffmpeg",
@@ -3245,7 +3245,7 @@
             "id": 42736918,
             "language": "C++",
             "license": null,
-            "last_commit": "2026-08-27T11:18:26Z",
+            "last_commit": "2026-09-03T04:22:07Z",
             "open_issues": 0,
             "owner": "KDE",
             "repo": "kamoso",
@@ -3354,7 +3354,7 @@
             "open_issues": 0,
             "owner": "tadas-subonis",
             "repo": "webcam-settings",
-            "stars": 4,
+            "stars": 7,
             "topics": [
               "camera",
               "cmake",
@@ -3386,11 +3386,11 @@
             "id": 42725503,
             "language": "C++",
             "license": null,
-            "last_commit": "2026-09-02T01:47:16Z",
+            "last_commit": "2026-09-03T16:01:19Z",
             "open_issues": 0,
             "owner": "KDE",
             "repo": "kdeconnect-kde",
-            "stars": 3970,
+            "stars": 3974,
             "topics": []
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
@@ -3438,7 +3438,7 @@
             "open_issues": 19,
             "owner": "lvklabs",
             "repo": "QSsh",
-            "stars": 230,
+            "stars": 231,
             "topics": []
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
@@ -3805,7 +3805,7 @@
             "id": 20378353,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-02T16:42:43Z",
+            "last_commit": "2026-09-03T16:19:44Z",
             "open_issues": 2,
             "owner": "frida",
             "repo": "frida-qml",
@@ -3890,7 +3890,7 @@
             "id": 23629913,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-01T19:01:47Z",
+            "last_commit": "2026-09-02T19:24:06Z",
             "open_issues": 1,
             "owner": "Esri",
             "repo": "arcgis-maps-sdk-toolkit-qt",
@@ -4029,7 +4029,7 @@
             "open_issues": 10,
             "owner": "mengps",
             "repo": "HuskarUI",
-            "stars": 584,
+            "stars": 587,
             "topics": [
               "ant-design",
               "controls",
@@ -4563,10 +4563,10 @@
             "language": "C++",
             "license": "LGPL-3.0",
             "last_commit": "2026-08-29T09:12:37Z",
-            "open_issues": 494,
+            "open_issues": 504,
             "owner": "quickshell-mirror",
             "repo": "quickshell",
-            "stars": 2939,
+            "stars": 2948,
             "topics": [
               "audio-mixer",
               "bar",
@@ -4608,7 +4608,7 @@
             "open_issues": 754,
             "owner": "sddm",
             "repo": "sddm",
-            "stars": 2340,
+            "stars": 2341,
             "topics": [
               "qml",
               "qtquick",
@@ -4771,11 +4771,11 @@
             "id": 19374812,
             "language": "C++",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-02T10:40:59Z",
-            "open_issues": 1024,
+            "last_commit": "2026-09-03T15:41:53Z",
+            "open_issues": 1022,
             "owner": "telegramdesktop",
             "repo": "tdesktop",
-            "stars": 32815,
+            "stars": 32825,
             "topics": [
               "messenger",
               "multi-platform",
@@ -4802,7 +4802,7 @@
             "open_issues": 561,
             "owner": "Swordfish90",
             "repo": "cool-retro-term",
-            "stars": 25971,
+            "stars": 25972,
             "topics": [
               "linux",
               "macos",
@@ -4827,10 +4827,10 @@
             "language": "C++",
             "license": "GPL-2.0",
             "last_commit": "2026-08-31T18:59:49Z",
-            "open_issues": 61,
+            "open_issues": 63,
             "owner": "pbek",
             "repo": "QOwnNotes",
-            "stars": 5861,
+            "stars": 5863,
             "topics": [
               "bookmark",
               "c-plus-plus",
@@ -4868,11 +4868,11 @@
             "id": 2567844,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-02T11:15:12Z",
-            "open_issues": 1011,
+            "last_commit": "2026-09-03T16:17:29Z",
+            "open_issues": 1017,
             "owner": "mavlink",
             "repo": "qgroundcontrol",
-            "stars": 4888,
+            "stars": 4893,
             "topics": [
               "ardupilot",
               "drone",
@@ -4935,7 +4935,7 @@
             "open_issues": 27,
             "owner": "wh201906",
             "repo": "SerialTest",
-            "stars": 1649,
+            "stars": 1651,
             "topics": [
               "android",
               "bluetooth",
@@ -4974,7 +4974,7 @@
             "open_issues": 32,
             "owner": "xland",
             "repo": "ScreenCapture",
-            "stars": 1494,
+            "stars": 1495,
             "topics": [
               "canvas",
               "draw",
@@ -5311,7 +5311,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T18:01:09.084Z",
+    "last_updated": "2026-09-03T18:00:29.745Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Qt and QML libraries, resources, projects, and shiny things.",
