@@ -331,10 +331,10 @@
             "language": "Go",
             "license": "LGPL-3.0",
             "last_commit": "2024-03-04T15:58:37Z",
-            "open_issues": 372,
+            "open_issues": 371,
             "owner": "therecipe",
             "repo": "qt",
-            "stars": 10808,
+            "stars": 10807,
             "topics": [
               "android",
               "asteroidos",
@@ -421,7 +421,7 @@
             "open_issues": 15,
             "owner": "cyndis",
             "repo": "qmlrs",
-            "stars": 436,
+            "stars": 435,
             "topics": []
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
@@ -442,7 +442,7 @@
             "open_issues": 15,
             "owner": "filcuc",
             "repo": "dotherside",
-            "stars": 228,
+            "stars": 227,
             "topics": [
               "bindings",
               "qml",
@@ -1818,7 +1818,7 @@
             "open_issues": 84,
             "owner": "paceholder",
             "repo": "nodeeditor",
-            "stars": 3687,
+            "stars": 3688,
             "topics": [
               "cpp",
               "dataflow-programming",
@@ -1928,7 +1928,7 @@
             "id": 3504505,
             "language": "C++",
             "license": "GPL-2.0",
-            "last_commit": "2026-09-05T16:11:37Z",
+            "last_commit": "2026-09-07T19:20:41Z",
             "open_issues": 62,
             "owner": "lxqt",
             "repo": "qtermwidget",
@@ -2138,7 +2138,7 @@
             "open_issues": 8,
             "owner": "githubuser0xFFFF",
             "repo": "QtFreeVirtualKeyboard",
-            "stars": 271,
+            "stars": 270,
             "topics": []
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
@@ -3221,7 +3221,7 @@
             "open_issues": 523,
             "owner": "wang-bin",
             "repo": "QtAV",
-            "stars": 4255,
+            "stars": 4254,
             "topics": [
               "c-plus-plus",
               "ffmpeg",
@@ -3386,11 +3386,11 @@
             "id": 42725503,
             "language": "C++",
             "license": null,
-            "last_commit": "2026-09-07T14:59:23Z",
+            "last_commit": "2026-09-08T01:52:32Z",
             "open_issues": 0,
             "owner": "KDE",
             "repo": "kdeconnect-kde",
-            "stars": 3979,
+            "stars": 3981,
             "topics": []
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
@@ -3805,7 +3805,7 @@
             "id": 20378353,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-07T15:39:43Z",
+            "last_commit": "2026-09-08T10:14:59Z",
             "open_issues": 2,
             "owner": "frida",
             "repo": "frida-qml",
@@ -3890,7 +3890,7 @@
             "id": 23629913,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-06T19:01:44Z",
+            "last_commit": "2026-09-07T19:01:38Z",
             "open_issues": 1,
             "owner": "Esri",
             "repo": "arcgis-maps-sdk-toolkit-qt",
@@ -3972,7 +3972,7 @@
             "open_issues": 143,
             "owner": "papyros",
             "repo": "qml-material",
-            "stars": 2631,
+            "stars": 2630,
             "topics": []
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
@@ -3993,7 +3993,7 @@
             "open_issues": 21,
             "owner": "lirios",
             "repo": "fluid",
-            "stars": 890,
+            "stars": 891,
             "topics": [
               "android",
               "controls",
@@ -4563,10 +4563,10 @@
             "language": "C++",
             "license": "LGPL-3.0",
             "last_commit": "2026-08-29T09:12:37Z",
-            "open_issues": 537,
+            "open_issues": 539,
             "owner": "quickshell-mirror",
             "repo": "quickshell",
-            "stars": 2974,
+            "stars": 2982,
             "topics": [
               "audio-mixer",
               "bar",
@@ -4695,7 +4695,7 @@
             "open_issues": 91,
             "owner": "qmlbook",
             "repo": "qmlbook",
-            "stars": 2585,
+            "stars": 2584,
             "topics": []
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
@@ -4771,11 +4771,11 @@
             "id": 19374812,
             "language": "C++",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-06T21:08:39Z",
-            "open_issues": 979,
+            "last_commit": "2026-09-08T10:52:19Z",
+            "open_issues": 985,
             "owner": "telegramdesktop",
             "repo": "tdesktop",
-            "stars": 32854,
+            "stars": 32871,
             "topics": [
               "messenger",
               "multi-platform",
@@ -4826,11 +4826,11 @@
             "id": 27436491,
             "language": "C++",
             "license": "GPL-2.0",
-            "last_commit": "2026-09-07T18:35:20Z",
-            "open_issues": 65,
+            "last_commit": "2026-09-08T12:43:25Z",
+            "open_issues": 64,
             "owner": "pbek",
             "repo": "QOwnNotes",
-            "stars": 5871,
+            "stars": 5870,
             "topics": [
               "bookmark",
               "c-plus-plus",
@@ -4868,11 +4868,11 @@
             "id": 2567844,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-07T16:29:37Z",
-            "open_issues": 1024,
+            "last_commit": "2026-09-08T15:12:39Z",
+            "open_issues": 1026,
             "owner": "mavlink",
             "repo": "qgroundcontrol",
-            "stars": 4905,
+            "stars": 4910,
             "topics": [
               "ardupilot",
               "drone",
@@ -4971,10 +4971,10 @@
             "language": "C++",
             "license": "MIT",
             "last_commit": "2026-09-04T06:24:32Z",
-            "open_issues": 32,
+            "open_issues": 34,
             "owner": "xland",
             "repo": "ScreenCapture",
-            "stars": 1501,
+            "stars": 1500,
             "topics": [
               "canvas",
               "draw",
@@ -5026,8 +5026,8 @@
             "id": 16949032,
             "language": "Dart",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-07T15:04:41Z",
-            "open_issues": 106,
+            "last_commit": "2026-09-08T12:13:34Z",
+            "open_issues": 107,
             "owner": "Yubico",
             "repo": "yubioath-flutter",
             "stars": 1377,
@@ -5311,7 +5311,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T18:50:40.579Z",
+    "last_updated": "2026-09-08T18:03:29.395Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Qt and QML libraries, resources, projects, and shiny things.",
@@ -5323,7 +5323,7 @@
       "open_issues": 2,
       "owner": "mikalv",
       "repo": "awesome-qt-qml",
-      "stars": 2605,
+      "stars": 2604,
       "topics": [
         "awesome",
         "awesome-list",
