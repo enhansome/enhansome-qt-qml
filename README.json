@@ -1818,7 +1818,7 @@
             "open_issues": 84,
             "owner": "paceholder",
             "repo": "nodeeditor",
-            "stars": 3688,
+            "stars": 3689,
             "topics": [
               "cpp",
               "dataflow-programming",
@@ -1949,7 +1949,7 @@
             "id": 49439186,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-08-29T20:32:29Z",
+            "last_commit": "2026-09-11T13:48:00Z",
             "open_issues": 0,
             "owner": "pbek",
             "repo": "qmarkdowntextedit",
@@ -3319,6 +3319,36 @@
         },
         {
           "node_type": "item",
+          "title": "Webcam Settings",
+          "description": "Cross-platform GUI and CLI for discovering, configuring, saving, and restoring webcam controls.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Native cross-platform webcam controls, profiles, camera-user detection, and CLI in C++/Qt",
+            "homepage": null,
+            "id": 1348214395,
+            "language": "C++",
+            "license": "MIT",
+            "last_commit": "2026-08-27T09:02:45Z",
+            "open_issues": 0,
+            "owner": "tadas-subonis",
+            "repo": "webcam-settings",
+            "stars": 9,
+            "topics": [
+              "camera",
+              "cmake",
+              "cpp",
+              "linux",
+              "macos",
+              "qt",
+              "webcam",
+              "windows"
+            ]
+          },
+          "first_seen": "2026-09-02T18:01:09.084Z"
+        },
+        {
+          "node_type": "item",
           "title": "qml-recorder",
           "description": "A QML plugin for audio recording.",
           "children": [],
@@ -3337,36 +3367,6 @@
             "topics": []
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Webcam Settings",
-          "description": "Cross-platform GUI and CLI for discovering, configuring, saving, and restoring webcam controls.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Native cross-platform webcam controls, profiles, camera-user detection, and CLI in C++/Qt",
-            "homepage": null,
-            "id": 1348214395,
-            "language": "C++",
-            "license": "MIT",
-            "last_commit": "2026-08-27T09:02:45Z",
-            "open_issues": 0,
-            "owner": "tadas-subonis",
-            "repo": "webcam-settings",
-            "stars": 8,
-            "topics": [
-              "camera",
-              "cmake",
-              "cpp",
-              "linux",
-              "macos",
-              "qt",
-              "webcam",
-              "windows"
-            ]
-          },
-          "first_seen": "2026-09-02T18:01:09.084Z"
         }
       ],
       "title": "Multimedia"
@@ -3386,11 +3386,11 @@
             "id": 42725503,
             "language": "C++",
             "license": null,
-            "last_commit": "2026-09-10T15:47:31Z",
+            "last_commit": "2026-09-11T01:51:15Z",
             "open_issues": 0,
             "owner": "KDE",
             "repo": "kdeconnect-kde",
-            "stars": 3988,
+            "stars": 3991,
             "topics": []
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
@@ -3890,7 +3890,7 @@
             "id": 23629913,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-09T19:02:35Z",
+            "last_commit": "2026-09-10T19:32:04Z",
             "open_issues": 1,
             "owner": "Esri",
             "repo": "arcgis-maps-sdk-toolkit-qt",
@@ -4123,7 +4123,7 @@
             "open_issues": 11,
             "owner": "RinLit-233-shiroko",
             "repo": "Rin-UI",
-            "stars": 166,
+            "stars": 168,
             "topics": [
               "fluent",
               "fluent-design",
@@ -4563,10 +4563,10 @@
             "language": "C++",
             "license": "LGPL-3.0",
             "last_commit": "2026-08-29T09:12:37Z",
-            "open_issues": 551,
+            "open_issues": 557,
             "owner": "quickshell-mirror",
             "repo": "quickshell",
-            "stars": 2999,
+            "stars": 3005,
             "topics": [
               "audio-mixer",
               "bar",
@@ -4608,7 +4608,7 @@
             "open_issues": 754,
             "owner": "sddm",
             "repo": "sddm",
-            "stars": 2347,
+            "stars": 2348,
             "topics": [
               "qml",
               "qtquick",
@@ -4771,11 +4771,11 @@
             "id": 19374812,
             "language": "C++",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-10T17:42:06Z",
-            "open_issues": 987,
+            "last_commit": "2026-09-10T19:22:48Z",
+            "open_issues": 985,
             "owner": "telegramdesktop",
             "repo": "tdesktop",
-            "stars": 32886,
+            "stars": 32895,
             "topics": [
               "messenger",
               "multi-platform",
@@ -4802,7 +4802,7 @@
             "open_issues": 563,
             "owner": "Swordfish90",
             "repo": "cool-retro-term",
-            "stars": 25990,
+            "stars": 25994,
             "topics": [
               "linux",
               "macos",
@@ -4826,11 +4826,11 @@
             "id": 27436491,
             "language": "C++",
             "license": "GPL-2.0",
-            "last_commit": "2026-09-10T13:29:20Z",
+            "last_commit": "2026-09-11T13:52:41Z",
             "open_issues": 68,
             "owner": "pbek",
             "repo": "QOwnNotes",
-            "stars": 5870,
+            "stars": 5872,
             "topics": [
               "bookmark",
               "c-plus-plus",
@@ -4868,11 +4868,11 @@
             "id": 2567844,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-10T16:45:11Z",
-            "open_issues": 1031,
+            "last_commit": "2026-09-11T17:05:03Z",
+            "open_issues": 1028,
             "owner": "mavlink",
             "repo": "qgroundcontrol",
-            "stars": 4915,
+            "stars": 4921,
             "topics": [
               "ardupilot",
               "drone",
@@ -4903,7 +4903,7 @@
             "open_issues": 152,
             "owner": "mmatyas",
             "repo": "pegasus-frontend",
-            "stars": 1888,
+            "stars": 1889,
             "topics": [
               "cross-platform",
               "customizable",
@@ -4974,7 +4974,7 @@
             "open_issues": 35,
             "owner": "xland",
             "repo": "ScreenCapture",
-            "stars": 1507,
+            "stars": 1510,
             "topics": [
               "canvas",
               "draw",
@@ -5311,7 +5311,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T17:49:52.654Z",
+    "last_updated": "2026-09-11T17:52:35.115Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Qt and QML libraries, resources, projects, and shiny things.",
