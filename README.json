@@ -334,7 +334,7 @@
             "open_issues": 371,
             "owner": "therecipe",
             "repo": "qt",
-            "stars": 10807,
+            "stars": 10808,
             "topics": [
               "android",
               "asteroidos",
@@ -1876,7 +1876,7 @@
             "open_issues": 10,
             "owner": "Skycoder42",
             "repo": "QtAutoUpdater",
-            "stars": 813,
+            "stars": 814,
             "topics": [
               "automatic",
               "gui-library",
@@ -1929,7 +1929,7 @@
             "language": "C++",
             "license": "GPL-2.0",
             "last_commit": "2026-09-24T19:19:14Z",
-            "open_issues": 60,
+            "open_issues": 61,
             "owner": "lxqt",
             "repo": "qtermwidget",
             "stars": 605,
@@ -1982,7 +1982,7 @@
             "open_issues": 0,
             "owner": "Furkanzmc",
             "repo": "QML-UI-Animations",
-            "stars": 365,
+            "stars": 366,
             "topics": [
               "qml",
               "qml-implementations",
@@ -3221,7 +3221,7 @@
             "open_issues": 523,
             "owner": "wang-bin",
             "repo": "QtAV",
-            "stars": 4258,
+            "stars": 4259,
             "topics": [
               "c-plus-plus",
               "ffmpeg",
@@ -3386,11 +3386,11 @@
             "id": 42725503,
             "language": "C++",
             "license": null,
-            "last_commit": "2026-09-25T17:53:46Z",
+            "last_commit": "2026-09-26T10:56:11Z",
             "open_issues": 0,
             "owner": "KDE",
             "repo": "kdeconnect-kde",
-            "stars": 4024,
+            "stars": 4025,
             "topics": []
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
@@ -3890,7 +3890,7 @@
             "id": 23629913,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-25T18:27:42Z",
+            "last_commit": "2026-09-25T19:01:47Z",
             "open_issues": 2,
             "owner": "Esri",
             "repo": "arcgis-maps-sdk-toolkit-qt",
@@ -4563,10 +4563,10 @@
             "language": "C++",
             "license": "LGPL-3.0",
             "last_commit": "2026-09-25T13:42:10Z",
-            "open_issues": 591,
+            "open_issues": 594,
             "owner": "quickshell-mirror",
             "repo": "quickshell",
-            "stars": 3080,
+            "stars": 3087,
             "topics": [
               "audio-mixer",
               "bar",
@@ -4608,7 +4608,7 @@
             "open_issues": 753,
             "owner": "sddm",
             "repo": "sddm",
-            "stars": 2354,
+            "stars": 2355,
             "topics": [
               "qml",
               "qtquick",
@@ -4771,11 +4771,11 @@
             "id": 19374812,
             "language": "C++",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-25T16:43:21Z",
-            "open_issues": 1007,
+            "last_commit": "2026-09-26T15:32:38Z",
+            "open_issues": 1010,
             "owner": "telegramdesktop",
             "repo": "tdesktop",
-            "stars": 33017,
+            "stars": 33023,
             "topics": [
               "messenger",
               "multi-platform",
@@ -4802,7 +4802,7 @@
             "open_issues": 569,
             "owner": "Swordfish90",
             "repo": "cool-retro-term",
-            "stars": 26448,
+            "stars": 26452,
             "topics": [
               "linux",
               "macos",
@@ -4826,11 +4826,11 @@
             "id": 27436491,
             "language": "C++",
             "license": "GPL-2.0",
-            "last_commit": "2026-09-25T10:51:20Z",
+            "last_commit": "2026-09-26T17:32:01Z",
             "open_issues": 68,
             "owner": "pbek",
             "repo": "QOwnNotes",
-            "stars": 5889,
+            "stars": 5890,
             "topics": [
               "bookmark",
               "c-plus-plus",
@@ -4868,8 +4868,8 @@
             "id": 2567844,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-24T17:47:16Z",
-            "open_issues": 1061,
+            "last_commit": "2026-09-26T17:44:38Z",
+            "open_issues": 1060,
             "owner": "mavlink",
             "repo": "qgroundcontrol",
             "stars": 4978,
@@ -4903,7 +4903,7 @@
             "open_issues": 149,
             "owner": "mmatyas",
             "repo": "pegasus-frontend",
-            "stars": 1896,
+            "stars": 1897,
             "topics": [
               "cross-platform",
               "customizable",
@@ -5070,6 +5070,27 @@
         },
         {
           "node_type": "item",
+          "title": "Tasket++",
+          "description": "GUI based scheduler and automation tool for PC user actions simulations",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": "https://apps.microsoft.com/store/detail/XP9CJLHWVXS49P",
+            "id": 744848058,
+            "language": "C++",
+            "license": "GPL-3.0",
+            "last_commit": "2026-07-13T05:58:53Z",
+            "open_issues": 0,
+            "owner": "AmirHammouteneEI",
+            "repo": "ScheduledPasteAndKeys",
+            "stars": 200,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T23:39:15.877Z"
+        },
+        {
+          "node_type": "item",
           "title": "Rolisteam",
           "description": "VirtualTableTop software to play Pen and paper role playing games.",
           "children": [],
@@ -5104,27 +5125,6 @@
               "translation",
               "virtualtabletop"
             ]
-          },
-          "first_seen": "2026-08-28T23:39:15.877Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Tasket++",
-          "description": "GUI based scheduler and automation tool for PC user actions simulations",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": "https://apps.microsoft.com/store/detail/XP9CJLHWVXS49P",
-            "id": 744848058,
-            "language": "C++",
-            "license": "GPL-3.0",
-            "last_commit": "2026-07-13T05:58:53Z",
-            "open_issues": 0,
-            "owner": "AmirHammouteneEI",
-            "repo": "ScheduledPasteAndKeys",
-            "stars": 199,
-            "topics": []
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
         },
@@ -5311,7 +5311,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T18:50:43.326Z",
+    "last_updated": "2026-09-26T17:58:08.107Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Qt and QML libraries, resources, projects, and shiny things.",
@@ -5323,7 +5323,7 @@
       "open_issues": 3,
       "owner": "mikalv",
       "repo": "awesome-qt-qml",
-      "stars": 2613,
+      "stars": 2614,
       "topics": [
         "awesome",
         "awesome-list",
