@@ -400,7 +400,7 @@
             "open_issues": 94,
             "owner": "woboq",
             "repo": "qmetaobject-rs",
-            "stars": 735,
+            "stars": 736,
             "topics": []
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
@@ -421,7 +421,7 @@
             "open_issues": 15,
             "owner": "cyndis",
             "repo": "qmlrs",
-            "stars": 435,
+            "stars": 436,
             "topics": []
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
@@ -2034,7 +2034,7 @@
             "id": 70241809,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-02T13:20:42Z",
+            "last_commit": "2026-10-03T17:17:02Z",
             "open_issues": 28,
             "owner": "pureqml",
             "repo": "qmlcore",
@@ -3386,11 +3386,11 @@
             "id": 42725503,
             "language": "C++",
             "license": null,
-            "last_commit": "2026-10-03T03:43:06Z",
+            "last_commit": "2026-10-03T09:30:11Z",
             "open_issues": 0,
             "owner": "KDE",
             "repo": "kdeconnect-kde",
-            "stars": 4040,
+            "stars": 4041,
             "topics": []
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
@@ -3805,7 +3805,7 @@
             "id": 20378353,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-02T18:28:32Z",
+            "last_commit": "2026-10-03T05:56:21Z",
             "open_issues": 2,
             "owner": "frida",
             "repo": "frida-qml",
@@ -4029,7 +4029,7 @@
             "open_issues": 11,
             "owner": "mengps",
             "repo": "HuskarUI",
-            "stars": 598,
+            "stars": 597,
             "topics": [
               "ant-design",
               "controls",
@@ -4562,11 +4562,11 @@
             "id": 766993934,
             "language": "C++",
             "license": "LGPL-3.0",
-            "last_commit": "2026-09-25T13:42:10Z",
-            "open_issues": 638,
+            "last_commit": "2026-10-03T11:44:43Z",
+            "open_issues": 642,
             "owner": "quickshell-mirror",
             "repo": "quickshell",
-            "stars": 3110,
+            "stars": 3111,
             "topics": [
               "audio-mixer",
               "bar",
@@ -4608,7 +4608,7 @@
             "open_issues": 754,
             "owner": "sddm",
             "repo": "sddm",
-            "stars": 2355,
+            "stars": 2354,
             "topics": [
               "qml",
               "qtquick",
@@ -4772,10 +4772,10 @@
             "language": "C++",
             "license": "GPL-3.0",
             "last_commit": "2026-10-02T14:05:02Z",
-            "open_issues": 968,
+            "open_issues": 970,
             "owner": "telegramdesktop",
             "repo": "tdesktop",
-            "stars": 33090,
+            "stars": 33095,
             "topics": [
               "messenger",
               "multi-platform",
@@ -4802,7 +4802,7 @@
             "open_issues": 571,
             "owner": "Swordfish90",
             "repo": "cool-retro-term",
-            "stars": 26474,
+            "stars": 26476,
             "topics": [
               "linux",
               "macos",
@@ -4826,11 +4826,11 @@
             "id": 27436491,
             "language": "C++",
             "license": "GPL-2.0",
-            "last_commit": "2026-10-02T12:55:37Z",
-            "open_issues": 63,
+            "last_commit": "2026-10-03T11:55:23Z",
+            "open_issues": 62,
             "owner": "pbek",
             "repo": "QOwnNotes",
-            "stars": 5892,
+            "stars": 5893,
             "topics": [
               "bookmark",
               "c-plus-plus",
@@ -4868,8 +4868,8 @@
             "id": 2567844,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T21:01:17Z",
-            "open_issues": 1060,
+            "last_commit": "2026-10-03T16:36:13Z",
+            "open_issues": 1059,
             "owner": "mavlink",
             "repo": "qgroundcontrol",
             "stars": 4996,
@@ -5030,7 +5030,7 @@
             "open_issues": 106,
             "owner": "Yubico",
             "repo": "yubioath-flutter",
-            "stars": 1381,
+            "stars": 1384,
             "topics": [
               "fido",
               "flutter",
@@ -5311,7 +5311,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:02:48.390Z",
+    "last_updated": "2026-10-03T18:08:26.918Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Qt and QML libraries, resources, projects, and shiny things.",
