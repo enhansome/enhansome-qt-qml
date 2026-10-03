@@ -1,6 +1,6 @@
 # Awesome Qt with stars
 
-A curated list of awesome Qt and QML libraries, resources, projects, and shiny things. Inspired by [awesome-cpp](https://github.com/fffaraz/awesome-cpp) ⭐ 73,573 | 🐛 311 | 📅 2026-09-29 and other awesome lists.
+A curated list of awesome Qt and QML libraries, resources, projects, and shiny things. Inspired by [awesome-cpp](https://github.com/fffaraz/awesome-cpp) ⭐ 73,584 | 🐛 311 | 📅 2026-09-29 and other awesome lists.
 
 Pull requests of new projects/apps/libraries are welcome :)
 
@@ -185,7 +185,7 @@ Pull requests of new projects/apps/libraries are welcome :)
 
 * [nodeeditor](https://github.com/paceholder/nodeeditor) ⭐ 3,703 | 🐛 84 | 🌐 C++ | 📅 2026-07-31 - Qt Node Editor. Dataflow programming framework.
 * [Qt-Advanced-Docking-System](https://github.com/mfreiholz/Qt-Advanced-Docking-System) ⭐ 830 | 🐛 29 | 🌐 C++ | 📅 2024-08-19 - Advanced Docking System for Qt.
-* [QtAutoUpdater](https://github.com/Skycoder42/QtAutoUpdater) ⭐ 814 | 🐛 10 | 🌐 C++ | 📅 2023-03-04 - A Qt library to automatically check for updates and install them.
+* [QtAutoUpdater](https://github.com/Skycoder42/QtAutoUpdater) ⭐ 813 | 🐛 10 | 🌐 C++ | 📅 2023-03-04 - A Qt library to automatically check for updates and install them.
 * [qmlweb](https://github.com/qmlweb/qmlweb) ⭐ 792 | 🐛 80 | 🌐 JavaScript | 📅 2022-04-11 - A QML engine in a web browser.
 * [qtermwidget](https://github.com/lxde/qtermwidget) ⭐ 607 | 🐛 61 | 🌐 C++ | 📅 2026-10-01 - The terminal widget for QTerminal.
 * [QMarkdownTextEdit](https://github.com/pbek/qmarkdowntextedit) ⭐ 497 | 🐛 0 | 🌐 C++ | 📅 2026-09-28 - A C++ Qt QPlainTextEdit widget with markdown highlighting support and some other extras.
@@ -202,7 +202,7 @@ Pull requests of new projects/apps/libraries are welcome :)
 * [yat](https://github.com/jorgen/yat) ⭐ 119 | 🐛 1 | 🌐 C++ | 📅 2017-09-12 - Terminal Emulator written in C++ and qml.
 * [sparkqml](https://github.com/benlau/sparkqml) ⭐ 102 | 🐛 1 | 🌐 JavaScript | 📅 2019-06-01 - SparkQML - A QML Document Viewer for State and Transition Preview.
 * [qnite](https://github.com/evonove/qnite) ⭐ 102 | 🐛 3 | 🌐 C++ | 📅 2022-02-04 - qnite is a charting library that provides a really high level API (via QML) to customize and render interactive charts in your Qt applications.
-* [QSourceHighlite](https://github.com/Waqar144/QSourceHighlite) ⭐ 98 | 🐛 0 | 🌐 C++ | 📅 2025-01-15 - A lightweight source code/syntax highlighter written in Qt C++.
+* [QSourceHighlite](https://github.com/Waqar144/QSourceHighlite) ⭐ 99 | 🐛 0 | 🌐 C++ | 📅 2025-01-15 - A lightweight source code/syntax highlighter written in Qt C++.
 * [QtRestClient](https://github.com/Skycoder42/QtRestClient) ⚠️ Archived - A library for generic JSON-based REST-APIs, with a mechanism to map JSON to Qt objects.
 * [qml-handwriting](https://github.com/penk/qml-handwriting) ⭐ 88 | 🐛 1 | 🌐 JavaScript | 📅 2015-08-29 - Open source handwriting recognition keyboard written in QML/JavaScript.
 * [aqt-cassowary](https://github.com/Ableton/aqt-cassowary) ⭐ 55 | 🐛 7 | 🌐 QML | 📅 2024-01-16 - Aqt.Cassowary (pronounced like Acute Cassowary) is a Qt plugin that allows you to run a incremental linear constraint solver in QML applications, providing a declarative interface that fits naturally in the QML programming model.
@@ -258,7 +258,7 @@ Pull requests of new projects/apps/libraries are welcome :)
 
 ## Networking
 
-* [kdeconnect-kde](https://github.com/KDE/kdeconnect-kde) ⭐ 4,038 | 🐛 0 | 🌐 C++ | 📅 2026-10-02 - Software to connect with Andriod phones. App and Plasmoid are both in QML.
+* [kdeconnect-kde](https://github.com/KDE/kdeconnect-kde) ⭐ 4,040 | 🐛 0 | 🌐 C++ | 📅 2026-10-03 - Software to connect with Andriod phones. App and Plasmoid are both in QML.
 * [qxmpp](https://github.com/qxmpp-project/qxmpp) ⚠️ Archived - Cross-platform C++ XMPP client and server library.
 * [QSsh](https://github.com/lvklabs/QSsh) ⭐ 231 | 🐛 19 | 🌐 C++ | 📅 2019-11-30 - SSH and SFTP support for Qt. This project is based on Qt Creator's `libQtcSsh.so`.
 * [qtrest](https://github.com/qtrest/qtrest) ⭐ 223 | 🐛 2 | 🌐 C++ | 📅 2026-05-27 - a small and simple REST API client for any Qt/QML application.
@@ -327,7 +327,7 @@ Pull requests of new projects/apps/libraries are welcome :)
 ## Testing
 
 * [testable](https://github.com/benlau/testable) ⭐ 64 | 🐛 3 | 🌐 C++ | 📅 2024-08-02 - Qt/QML Test Runner and Utilities.
-* [qmlunit](https://github.com/fgrehm/qmlunit) ⭐ 29 | 🐛 1 | 🌐 JavaScript | 📅 2010-07-07 - An easy-to-use Unit Testing framework for Qt Declarative UI - QML \[unmaintained].
+* [qmlunit](https://github.com/fgrehm/qmlunit) ⭐ 28 | 🐛 1 | 🌐 JavaScript | 📅 2010-07-07 - An easy-to-use Unit Testing framework for Qt Declarative UI - QML \[unmaintained].
 * [QmlSpec](https://github.com/jemc/QmlSpec) ⭐ 6 | 🐛 0 | 🌐 QML | 📅 2015-09-30 - QmlSpec is a replacement for QML's bundled-in unit testing module QtTest.
 * [testrunner](https://github.com/benlau/testrunner) ⭐ 4 | 🐛 0 | 🌐 C++ | 📅 2016-05-11 - Qt Test Runner - A tiny tool to execute multiple QTestLib application and combine the testing result into a summary report.
 * [Testudos](https://testudos.io/) - Modern, developer-first tool for testing Qt applications.
@@ -344,8 +344,8 @@ Pull requests of new projects/apps/libraries are welcome :)
 
 ## X11/Wayland
 
-* [quickshell](https://github.com/quickshell-mirror/quickshell) ⭐ 3,109 | 🐛 637 | 🌐 C++ | 📅 2026-09-25 - Flexible toolkit for making desktop shells with QtQuick, for Wayland and X11.
-* [sddm](https://github.com/sddm/sddm) ⭐ 2,356 | 🐛 754 | 🌐 C++ | 📅 2026-08-19 - QML based X11 and Wayland display manager.
+* [quickshell](https://github.com/quickshell-mirror/quickshell) ⭐ 3,110 | 🐛 638 | 🌐 C++ | 📅 2026-09-25 - Flexible toolkit for making desktop shells with QtQuick, for Wayland and X11.
+* [sddm](https://github.com/sddm/sddm) ⭐ 2,355 | 🐛 754 | 🌐 C++ | 📅 2026-08-19 - QML based X11 and Wayland display manager.
 * [shell](https://github.com/lirios/shell) ⭐ 247 | 🐛 35 | 🌐 C++ | 📅 2024-02-11 - QtQuick and Wayland shell for convergence.
 * [qmlcompmgr](https://github.com/amezin/qmlcompmgr) ⚠️ Archived - It's a simple compositing manager for X11, written using Qt Quick and QML. Not ready for production.
 * [QtGreet](https://gitlab.com/marcusbritanicus/QtGreet) - Qt based Wayland display manager for use with [greetd](https://sr.ht/~kennylevinsen/greetd/).
@@ -367,13 +367,13 @@ Pull requests of new projects/apps/libraries are welcome :)
 
 # Software
 
-* [tdesktop](https://github.com/telegramdesktop/tdesktop) ⭐ 33,089 | 🐛 970 | 🌐 C++ | 📅 2026-10-02 - Telegram Desktop messaging app.
-* [cool-retro-term](https://github.com/Swordfish90/cool-retro-term) ⭐ 26,476 | 🐛 571 | 🌐 QML | 📅 2026-05-31 - Is a terminal emulator which mimics the look and feel of the old cathode tube screens. It has been designed to be eye-candy, customizable, and reasonably lightweight.
-* [QOwnNotes](https://github.com/pbek/QOwnNotes) ⭐ 5,893 | 🐛 63 | 🌐 C++ | 📅 2026-10-02 - QOwnNotes is a plain-text file notepad and todo-list manager with markdown support and ownCloud / Nextcloud integration.
-* [QGroundControl](https://github.com/mavlink/qgroundcontrol) ⭐ 4,995 | 🐛 1,060 | 🌐 C++ | 📅 2026-10-02 - UAV Ground Control Station (Linux, Windows, MacOS, Android, iOS)
+* [tdesktop](https://github.com/telegramdesktop/tdesktop) ⭐ 33,090 | 🐛 968 | 🌐 C++ | 📅 2026-10-02 - Telegram Desktop messaging app.
+* [cool-retro-term](https://github.com/Swordfish90/cool-retro-term) ⭐ 26,474 | 🐛 571 | 🌐 QML | 📅 2026-05-31 - Is a terminal emulator which mimics the look and feel of the old cathode tube screens. It has been designed to be eye-candy, customizable, and reasonably lightweight.
+* [QOwnNotes](https://github.com/pbek/QOwnNotes) ⭐ 5,892 | 🐛 63 | 🌐 C++ | 📅 2026-10-02 - QOwnNotes is a plain-text file notepad and todo-list manager with markdown support and ownCloud / Nextcloud integration.
+* [QGroundControl](https://github.com/mavlink/qgroundcontrol) ⭐ 4,996 | 🐛 1,060 | 🌐 C++ | 📅 2026-10-02 - UAV Ground Control Station (Linux, Windows, MacOS, Android, iOS)
 * [pegasus-frontend](https://github.com/mmatyas/pegasus-frontend) ⭐ 1,906 | 🐛 149 | 🌐 C++ | 📅 2026-10-02 - A cross platform, customizable graphical frontend for launching emulators and managing your game collection.
 * [SerialTest](https://github.com/wh201906/SerialTest) ⭐ 1,662 | 🐛 28 | 🌐 C++ | 📅 2024-06-17 - Debugging serial port/Bluetooth SPP/BLE/TCP server/TCP client/UDP connections on Windows/Linux/Android.
-* [ScreenCapture](https://github.com/xland/ScreenCapture) ⭐ 1,538 | 🐛 37 | 🌐 C++ | 📅 2026-09-04 - A feature-rich screenshot program.
+* [ScreenCapture](https://github.com/xland/ScreenCapture) ⭐ 1,539 | 🐛 37 | 🌐 C++ | 📅 2026-09-04 - A feature-rich screenshot program.
 * [panopticon](https://github.com/das-labor/panopticon) ⚠️ Archived - A libre cross-platform disassembler.
 * [yubioath-desktop](https://github.com/Yubico/yubioath-desktop) ⭐ 1,381 | 🐛 106 | 🌐 Dart | 📅 2026-10-02 - Yubico Authenticator for Desktop (Windows, macOS and Linux).
 * [QVGE](https://github.com/ArsMasiuk/qvge) ⭐ 672 | 🐛 40 | 🌐 C++ | 📅 2025-07-01 - Qt Visual Graph Editor.
@@ -395,4 +395,4 @@ Pull requests of new projects/apps/libraries are welcome :)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
