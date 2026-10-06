@@ -907,7 +907,7 @@
             "open_issues": 27,
             "owner": "Palm1r",
             "repo": "QodeAssist",
-            "stars": 437,
+            "stars": 438,
             "topics": [
               "ai",
               "ai-agent",
@@ -3190,8 +3190,8 @@
             "id": 999523866,
             "language": "C++",
             "license": "MPL-2.0",
-            "last_commit": "2026-10-05T12:28:28Z",
-            "open_issues": 1,
+            "last_commit": "2026-10-06T10:18:06Z",
+            "open_issues": 3,
             "owner": "status-im",
             "repo": "QtModelsToolkit",
             "stars": 1,
@@ -3221,7 +3221,7 @@
             "open_issues": 523,
             "owner": "wang-bin",
             "repo": "QtAV",
-            "stars": 4259,
+            "stars": 4260,
             "topics": [
               "c-plus-plus",
               "ffmpeg",
@@ -3245,7 +3245,7 @@
             "id": 42736918,
             "language": "C++",
             "license": null,
-            "last_commit": "2026-10-05T04:10:29Z",
+            "last_commit": "2026-10-06T03:06:24Z",
             "open_issues": 0,
             "owner": "KDE",
             "repo": "kamoso",
@@ -3386,7 +3386,7 @@
             "id": 42725503,
             "language": "C++",
             "license": null,
-            "last_commit": "2026-10-05T04:10:58Z",
+            "last_commit": "2026-10-06T10:21:12Z",
             "open_issues": 0,
             "owner": "KDE",
             "repo": "kdeconnect-kde",
@@ -4123,7 +4123,7 @@
             "open_issues": 11,
             "owner": "RinLit-233-shiroko",
             "repo": "Rin-UI",
-            "stars": 172,
+            "stars": 173,
             "topics": [
               "fluent",
               "fluent-design",
@@ -4562,11 +4562,11 @@
             "id": 766993934,
             "language": "C++",
             "license": "LGPL-3.0",
-            "last_commit": "2026-10-05T18:04:45Z",
-            "open_issues": 649,
+            "last_commit": "2026-10-06T04:21:06Z",
+            "open_issues": 654,
             "owner": "quickshell-mirror",
             "repo": "quickshell",
-            "stars": 3117,
+            "stars": 3120,
             "topics": [
               "audio-mixer",
               "bar",
@@ -4608,7 +4608,7 @@
             "open_issues": 754,
             "owner": "sddm",
             "repo": "sddm",
-            "stars": 2354,
+            "stars": 2353,
             "topics": [
               "qml",
               "qtquick",
@@ -4771,11 +4771,11 @@
             "id": 19374812,
             "language": "C++",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-04T03:29:07Z",
+            "last_commit": "2026-10-06T09:42:59Z",
             "open_issues": 974,
             "owner": "telegramdesktop",
             "repo": "tdesktop",
-            "stars": 33109,
+            "stars": 33114,
             "topics": [
               "messenger",
               "multi-platform",
@@ -4802,7 +4802,7 @@
             "open_issues": 571,
             "owner": "Swordfish90",
             "repo": "cool-retro-term",
-            "stars": 26483,
+            "stars": 26484,
             "topics": [
               "linux",
               "macos",
@@ -4868,11 +4868,11 @@
             "id": 2567844,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-05T19:14:43Z",
-            "open_issues": 527,
+            "last_commit": "2026-10-06T02:52:18Z",
+            "open_issues": 482,
             "owner": "mavlink",
             "repo": "qgroundcontrol",
-            "stars": 5002,
+            "stars": 5006,
             "topics": [
               "ardupilot",
               "drone",
@@ -4971,7 +4971,7 @@
             "language": "C++",
             "license": "MIT",
             "last_commit": "2026-10-05T04:16:23Z",
-            "open_issues": 36,
+            "open_issues": 37,
             "owner": "xland",
             "repo": "ScreenCapture",
             "stars": 1540,
@@ -5123,7 +5123,7 @@
             "open_issues": 0,
             "owner": "AmirHammouteneEI",
             "repo": "ScheduledPasteAndKeys",
-            "stars": 198,
+            "stars": 199,
             "topics": []
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
@@ -5144,7 +5144,7 @@
             "open_issues": 5,
             "owner": "davidar",
             "repo": "tensor",
-            "stars": 171,
+            "stars": 172,
             "topics": []
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
@@ -5311,7 +5311,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T21:36:06.867Z",
+    "last_updated": "2026-10-06T10:26:07.816Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Qt and QML libraries, resources, projects, and shiny things.",
