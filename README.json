@@ -334,7 +334,7 @@
             "open_issues": 371,
             "owner": "therecipe",
             "repo": "qt",
-            "stars": 10804,
+            "stars": 10805,
             "topics": [
               "android",
               "asteroidos",
@@ -374,7 +374,7 @@
             "open_issues": 52,
             "owner": "qmlnet",
             "repo": "qmlnet",
-            "stars": 1413,
+            "stars": 1414,
             "topics": [
               "charp",
               "mono",
@@ -3386,11 +3386,11 @@
             "id": 42725503,
             "language": "C++",
             "license": null,
-            "last_commit": "2026-10-23T10:02:02Z",
+            "last_commit": "2026-10-24T10:22:27Z",
             "open_issues": 0,
             "owner": "KDE",
             "repo": "kdeconnect-kde",
-            "stars": 4074,
+            "stars": 4076,
             "topics": []
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
@@ -3890,7 +3890,7 @@
             "id": 23629913,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-23T00:13:52Z",
+            "last_commit": "2026-10-23T19:02:11Z",
             "open_issues": 2,
             "owner": "Esri",
             "repo": "arcgis-maps-sdk-toolkit-qt",
@@ -4123,7 +4123,7 @@
             "open_issues": 11,
             "owner": "RinLit-233-shiroko",
             "repo": "Rin-UI",
-            "stars": 179,
+            "stars": 180,
             "topics": [
               "fluent",
               "fluent-design",
@@ -4500,7 +4500,7 @@
             "open_issues": 31,
             "owner": "cneben",
             "repo": "QuickQanava",
-            "stars": 1382,
+            "stars": 1383,
             "topics": [
               "complex-networks",
               "cpp",
@@ -4563,10 +4563,10 @@
             "language": "C++",
             "license": "LGPL-3.0",
             "last_commit": "2026-10-22T06:48:13Z",
-            "open_issues": 734,
+            "open_issues": 741,
             "owner": "quickshell-mirror",
             "repo": "quickshell",
-            "stars": 3179,
+            "stars": 3178,
             "topics": [
               "audio-mixer",
               "bar",
@@ -4605,10 +4605,10 @@
             "language": "C++",
             "license": "GPL-2.0",
             "last_commit": "2026-10-20T17:18:26Z",
-            "open_issues": 757,
+            "open_issues": 756,
             "owner": "sddm",
             "repo": "sddm",
-            "stars": 2364,
+            "stars": 2365,
             "topics": [
               "qml",
               "qtquick",
@@ -4772,10 +4772,10 @@
             "language": "C++",
             "license": "GPL-3.0",
             "last_commit": "2026-10-23T04:07:10Z",
-            "open_issues": 997,
+            "open_issues": 1003,
             "owner": "telegramdesktop",
             "repo": "tdesktop",
-            "stars": 33340,
+            "stars": 33352,
             "topics": [
               "messenger",
               "multi-platform",
@@ -4799,10 +4799,10 @@
             "language": "QML",
             "license": null,
             "last_commit": "2026-05-31T10:12:54Z",
-            "open_issues": 573,
+            "open_issues": 574,
             "owner": "Swordfish90",
             "repo": "cool-retro-term",
-            "stars": 26526,
+            "stars": 26528,
             "topics": [
               "linux",
               "macos",
@@ -4826,11 +4826,11 @@
             "id": 27436491,
             "language": "C++",
             "license": "GPL-2.0",
-            "last_commit": "2026-10-23T12:35:30Z",
-            "open_issues": 64,
+            "last_commit": "2026-10-24T13:22:14Z",
+            "open_issues": 65,
             "owner": "pbek",
             "repo": "QOwnNotes",
-            "stars": 5921,
+            "stars": 5923,
             "topics": [
               "bookmark",
               "c-plus-plus",
@@ -4868,11 +4868,11 @@
             "id": 2567844,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-23T18:27:41Z",
-            "open_issues": 476,
+            "last_commit": "2026-10-24T16:05:27Z",
+            "open_issues": 474,
             "owner": "mavlink",
             "repo": "qgroundcontrol",
-            "stars": 5056,
+            "stars": 5060,
             "topics": [
               "ardupilot",
               "drone",
@@ -4903,7 +4903,7 @@
             "open_issues": 150,
             "owner": "mmatyas",
             "repo": "pegasus-frontend",
-            "stars": 1915,
+            "stars": 1916,
             "topics": [
               "cross-platform",
               "customizable",
@@ -4935,7 +4935,7 @@
             "open_issues": 28,
             "owner": "wh201906",
             "repo": "SerialTest",
-            "stars": 1671,
+            "stars": 1672,
             "topics": [
               "android",
               "bluetooth",
@@ -4974,7 +4974,7 @@
             "open_issues": 40,
             "owner": "xland",
             "repo": "ScreenCapture",
-            "stars": 1563,
+            "stars": 1569,
             "topics": [
               "canvas",
               "draw",
@@ -5084,7 +5084,7 @@
             "open_issues": 0,
             "owner": "AmirHammouteneEI",
             "repo": "ScheduledPasteAndKeys",
-            "stars": 202,
+            "stars": 203,
             "topics": []
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
@@ -5311,7 +5311,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T18:40:35.236Z",
+    "last_updated": "2026-10-24T17:33:18.118Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Qt and QML libraries, resources, projects, and shiny things.",
@@ -5320,10 +5320,10 @@
       "language": null,
       "license": null,
       "last_commit": "2026-09-01T19:04:49Z",
-      "open_issues": 8,
+      "open_issues": 9,
       "owner": "mikalv",
       "repo": "awesome-qt-qml",
-      "stars": 2626,
+      "stars": 2627,
       "topics": [
         "awesome",
         "awesome-list",
