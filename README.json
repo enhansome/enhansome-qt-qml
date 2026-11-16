@@ -1818,7 +1818,7 @@
             "open_issues": 92,
             "owner": "paceholder",
             "repo": "nodeeditor",
-            "stars": 3722,
+            "stars": 3723,
             "topics": [
               "cpp",
               "dataflow-programming",
@@ -1846,7 +1846,7 @@
             "open_issues": 29,
             "owner": "mfreiholz",
             "repo": "Qt-Advanced-Docking-System",
-            "stars": 825,
+            "stars": 826,
             "topics": [
               "cpp",
               "docking",
@@ -1949,7 +1949,7 @@
             "id": 49439186,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-11-05T11:52:08Z",
+            "last_commit": "2026-11-16T19:40:25Z",
             "open_issues": 1,
             "owner": "pbek",
             "repo": "qmarkdowntextedit",
@@ -3386,11 +3386,11 @@
             "id": 42725503,
             "language": "C++",
             "license": null,
-            "last_commit": "2026-11-15T11:53:51Z",
+            "last_commit": "2026-11-16T22:00:42Z",
             "open_issues": 0,
             "owner": "KDE",
             "repo": "kdeconnect-kde",
-            "stars": 4165,
+            "stars": 4166,
             "topics": []
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
@@ -3805,7 +3805,7 @@
             "id": 20378353,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-13T11:29:57Z",
+            "last_commit": "2026-11-16T21:59:12Z",
             "open_issues": 2,
             "owner": "frida",
             "repo": "frida-qml",
@@ -3857,7 +3857,7 @@
             "open_issues": 25,
             "owner": "larpon",
             "repo": "QtFirebase",
-            "stars": 291,
+            "stars": 288,
             "topics": [
               "admob",
               "analytics",
@@ -3890,7 +3890,7 @@
             "id": 23629913,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-14T20:08:02Z",
+            "last_commit": "2026-11-16T20:06:44Z",
             "open_issues": 0,
             "owner": "Esri",
             "repo": "arcgis-maps-sdk-toolkit-qt",
@@ -4566,10 +4566,10 @@
             "language": "C++",
             "license": "LGPL-3.0",
             "last_commit": "2026-10-22T06:48:13Z",
-            "open_issues": 850,
+            "open_issues": 854,
             "owner": "quickshell-mirror",
             "repo": "quickshell",
-            "stars": 3239,
+            "stars": 3241,
             "topics": [
               "audio-mixer",
               "bar",
@@ -4698,7 +4698,7 @@
             "open_issues": 91,
             "owner": "qmlbook",
             "repo": "qmlbook",
-            "stars": 2583,
+            "stars": 2584,
             "topics": []
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
@@ -4719,7 +4719,7 @@
             "open_issues": 4,
             "owner": "Furkanzmc",
             "repo": "QML-Coding-Guide",
-            "stars": 611,
+            "stars": 612,
             "topics": [
               "qml",
               "qt"
@@ -4774,11 +4774,11 @@
             "id": 19374812,
             "language": "C++",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-15T17:22:47Z",
-            "open_issues": 1037,
+            "last_commit": "2026-11-16T18:33:42Z",
+            "open_issues": 1035,
             "owner": "telegramdesktop",
             "repo": "tdesktop",
-            "stars": 33572,
+            "stars": 33583,
             "topics": [
               "messenger",
               "multi-platform",
@@ -4805,7 +4805,7 @@
             "open_issues": 579,
             "owner": "Swordfish90",
             "repo": "cool-retro-term",
-            "stars": 26572,
+            "stars": 26573,
             "topics": [
               "linux",
               "macos",
@@ -4829,11 +4829,11 @@
             "id": 27436491,
             "language": "C++",
             "license": "GPL-2.0",
-            "last_commit": "2026-11-15T18:03:35Z",
+            "last_commit": "2026-11-16T20:20:15Z",
             "open_issues": 66,
             "owner": "pbek",
             "repo": "QOwnNotes",
-            "stars": 5962,
+            "stars": 5966,
             "topics": [
               "bookmark",
               "c-plus-plus",
@@ -4871,11 +4871,11 @@
             "id": 2567844,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-15T03:14:21Z",
-            "open_issues": 487,
+            "last_commit": "2026-11-16T21:10:17Z",
+            "open_issues": 490,
             "owner": "mavlink",
             "repo": "qgroundcontrol",
-            "stars": 5119,
+            "stars": 5121,
             "topics": [
               "ardupilot",
               "drone",
@@ -4906,7 +4906,7 @@
             "open_issues": 148,
             "owner": "mmatyas",
             "repo": "pegasus-frontend",
-            "stars": 1934,
+            "stars": 1936,
             "topics": [
               "cross-platform",
               "customizable",
@@ -5030,10 +5030,10 @@
             "language": "Dart",
             "license": "Apache-2.0",
             "last_commit": "2026-11-10T14:41:47Z",
-            "open_issues": 122,
+            "open_issues": 123,
             "owner": "Yubico",
             "repo": "yubioath-flutter",
-            "stars": 1411,
+            "stars": 1413,
             "topics": [
               "fido",
               "flutter",
@@ -5087,7 +5087,7 @@
             "open_issues": 0,
             "owner": "AmirHammouteneEI",
             "repo": "ScheduledPasteAndKeys",
-            "stars": 208,
+            "stars": 210,
             "topics": []
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
@@ -5314,7 +5314,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T19:55:46.524Z",
+    "last_updated": "2026-11-16T23:29:06.980Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Qt and QML libraries, resources, projects, and shiny things.",

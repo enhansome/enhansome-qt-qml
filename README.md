@@ -1,6 +1,6 @@
 # Awesome Qt with stars
 
-A curated list of awesome Qt and QML libraries, resources, projects, and shiny things. Inspired by [awesome-cpp](https://github.com/fffaraz/awesome-cpp) ⭐ 74,441 | 🐛 289 | 📅 2026-11-11 and other awesome lists.
+A curated list of awesome Qt and QML libraries, resources, projects, and shiny things. Inspired by [awesome-cpp](https://github.com/fffaraz/awesome-cpp) ⭐ 74,461 | 🐛 290 | 📅 2026-11-11 and other awesome lists.
 
 Pull requests of new projects/apps/libraries are welcome :)
 
@@ -146,7 +146,7 @@ Pull requests of new projects/apps/libraries are welcome :)
 ## Images
 
 * [QML-Loaders](https://github.com/Furkanzmc/QML-Loaders) ⭐ 290 | 🐛 1 | 🌐 QML | 📅 2021-04-06 - Loading animation implementations in QML.
-* [SCodes](https://github.com/scytheStudio/SCodes) ⭐ 142 | 🐛 15 | 🌐 C++ | 📅 2026-04-20 - Qt & QML wrapper for [ZXing-C++ Library](https://github.com/nu-book/zxing-cpp) ⭐ 2,102 | 🐛 45 | 🌐 C++ | 📅 2026-11-13 with ready-made QML items for decoding and generating 1D and 2D barcodes (aka. QR codes).
+* [SCodes](https://github.com/scytheStudio/SCodes) ⭐ 142 | 🐛 15 | 🌐 C++ | 📅 2026-04-20 - Qt & QML wrapper for [ZXing-C++ Library](https://github.com/nu-book/zxing-cpp) ⭐ 2,103 | 🐛 44 | 🌐 C++ | 📅 2026-11-16 with ready-made QML items for decoding and generating 1D and 2D barcodes (aka. QR codes).
 * [qqr.js](https://github.com/M4rtinK/qqr.js) ⭐ 40 | 🐛 2 | 🌐 JavaScript | 📅 2015-02-24 - QML bindings for qr.js Javascript QR code library.
 * [imagequick](https://github.com/hluk/imagequick) ⭐ 18 | 🐛 0 | 🌐 C++ | 📅 2014-07-09 - Simple image browser written in QML.
 * [QML-ImageProvider](https://github.com/Daguerreo/QML-ImageProvider) ⭐ 14 | 🐛 0 | 🌐 C++ | 📅 2021-03-09 - Demonstrate how to use QQuickImageProvider to provide a stream of image to QML.
@@ -183,12 +183,12 @@ Pull requests of new projects/apps/libraries are welcome :)
 
 ## Misc
 
-* [nodeeditor](https://github.com/paceholder/nodeeditor) ⭐ 3,722 | 🐛 92 | 🌐 C++ | 📅 2026-11-14 - Qt Node Editor. Dataflow programming framework.
-* [Qt-Advanced-Docking-System](https://github.com/mfreiholz/Qt-Advanced-Docking-System) ⭐ 825 | 🐛 29 | 🌐 C++ | 📅 2024-08-19 - Advanced Docking System for Qt.
+* [nodeeditor](https://github.com/paceholder/nodeeditor) ⭐ 3,723 | 🐛 92 | 🌐 C++ | 📅 2026-11-14 - Qt Node Editor. Dataflow programming framework.
+* [Qt-Advanced-Docking-System](https://github.com/mfreiholz/Qt-Advanced-Docking-System) ⭐ 826 | 🐛 29 | 🌐 C++ | 📅 2024-08-19 - Advanced Docking System for Qt.
 * [QtAutoUpdater](https://github.com/Skycoder42/QtAutoUpdater) ⭐ 813 | 🐛 10 | 🌐 C++ | 📅 2023-03-04 - A Qt library to automatically check for updates and install them.
 * [qmlweb](https://github.com/qmlweb/qmlweb) ⭐ 793 | 🐛 80 | 🌐 JavaScript | 📅 2022-04-11 - A QML engine in a web browser.
 * [qtermwidget](https://github.com/lxde/qtermwidget) ⭐ 608 | 🐛 60 | 🌐 C++ | 📅 2026-11-09 - The terminal widget for QTerminal.
-* [QMarkdownTextEdit](https://github.com/pbek/qmarkdowntextedit) ⭐ 497 | 🐛 1 | 🌐 C++ | 📅 2026-11-05 - A C++ Qt QPlainTextEdit widget with markdown highlighting support and some other extras.
+* [QMarkdownTextEdit](https://github.com/pbek/qmarkdowntextedit) ⭐ 497 | 🐛 1 | 🌐 C++ | 📅 2026-11-16 - A C++ Qt QPlainTextEdit widget with markdown highlighting support and some other extras.
 * [QML-UI-Animations](https://github.com/Furkanzmc/QML-UI-Animations) ⭐ 368 | 🐛 0 | 🌐 QML | 📅 2024-12-11 - QML implementations of various UI concepts by various artists.
 * [QtMvvm](https://github.com/Skycoder42/QtMvvm) ⚠️ Archived - A mvvm oriented library for Qt, to create Projects for Widgets and Quick in parallel.
 * [qmlcore](https://github.com/pureqml/qmlcore) ⭐ 338 | 🐛 27 | 🌐 Python | 📅 2026-11-09 - QML to HTML5 translator, both for mobile and desktop targets.
@@ -258,7 +258,7 @@ Pull requests of new projects/apps/libraries are welcome :)
 
 ## Networking
 
-* [kdeconnect-kde](https://github.com/KDE/kdeconnect-kde) ⭐ 4,165 | 🐛 0 | 🌐 C++ | 📅 2026-11-15 - Software to connect with Andriod phones. App and Plasmoid are both in QML.
+* [kdeconnect-kde](https://github.com/KDE/kdeconnect-kde) ⭐ 4,166 | 🐛 0 | 🌐 C++ | 📅 2026-11-16 - Software to connect with Andriod phones. App and Plasmoid are both in QML.
 * [qxmpp](https://github.com/qxmpp-project/qxmpp) ⚠️ Archived - Cross-platform C++ XMPP client and server library.
 * [QSsh](https://github.com/lvklabs/QSsh) ⭐ 230 | 🐛 19 | 🌐 C++ | 📅 2019-11-30 - SSH and SFTP support for Qt. This project is based on Qt Creator's `libQtcSsh.so`.
 * [qtrest](https://github.com/qtrest/qtrest) ⭐ 222 | 🐛 2 | 🌐 C++ | 📅 2026-05-27 - a small and simple REST API client for any Qt/QML application.
@@ -285,14 +285,14 @@ Pull requests of new projects/apps/libraries are welcome :)
 
 * [qmlc](https://github.com/qmlc/qmlc) ⭐ 140 | 🐛 14 | 🌐 C++ | 📅 2017-03-05 - The Qml Compiler can be used to convert Qml source code files into precompiled Qml files. The precompiled Qml files are faster to load and do not expose the source code. Normally, the Qt either compiles the Qml files in the startup or interprets the Qml files runtime.
 * [quickcross](https://github.com/benlau/quickcross) ⭐ 49 | 🐛 0 | 🌐 C++ | 📅 2017-03-13 - QML Cross Platform Utility Library.
-* [frida-qml](https://github.com/frida/frida-qml) ⭐ 48 | 🐛 2 | 🌐 C++ | 📅 2026-11-13 - Frida Qml plugin.
+* [frida-qml](https://github.com/frida/frida-qml) ⭐ 48 | 🐛 2 | 🌐 C++ | 📅 2026-11-16 - Frida Qml plugin.
 * [viewstack.pri](https://github.com/benlau/viewstack.pri) ⭐ 9 | 🐛 0 | 🌐 QML | 📅 2018-08-17 - ViewStack is a wrapper of StackView (QQC2) that provides a stateless interface.
 * [qml-colors](https://gooroo.github.io/qml-colors/) - A library that extends the set of operations with `color` values in QML.
 
 ## SDKs
 
-* [QtFirebase](https://github.com/Larpon/QtFirebase) ⭐ 291 | 🐛 25 | 🌐 C++ | 📅 2022-11-28 - An effort to bring the Firebase C++ API to Qt + QML.
-* [arcgis-runtime-toolkit-qt](https://github.com/Esri/arcgis-runtime-toolkit-qt) ⭐ 146 | 🐛 0 | 🌐 C++ | 📅 2026-11-14 - This project contains QML source code for controls and utilities you can use with the ArcGIS Runtime SDK for Qt.
+* [QtFirebase](https://github.com/Larpon/QtFirebase) ⭐ 288 | 🐛 25 | 🌐 C++ | 📅 2022-11-28 - An effort to bring the Firebase C++ API to Qt + QML.
+* [arcgis-runtime-toolkit-qt](https://github.com/Esri/arcgis-runtime-toolkit-qt) ⭐ 146 | 🐛 0 | 🌐 C++ | 📅 2026-11-16 - This project contains QML source code for controls and utilities you can use with the ArcGIS Runtime SDK for Qt.
 * [QtAdMob](https://github.com/yevgeniy-logachev/QtAdMob) ⭐ 101 | 🐛 8 | 🌐 Objective-C | 📅 2021-03-14 - QtAdMob is a C++ lib for Qt with QML support, which allows to show ads from AdMob on Android and iOS platforms.
 * [GATutorial-QML](https://github.com/lasconic/GATutorial-QML) ⭐ 9 | 🐛 0 | 🌐 Objective-C | 📅 2014-09-30 - A simple integration of Google Analytics with Qt Quick for iOS and Android.
 * [Felgo](https://felgo.com/) - Felgo (previously V-Play Engine) allows easy cross-platform mobile games and apps development for all major platforms including iOS, Android, BlackBerry.
@@ -344,7 +344,7 @@ Pull requests of new projects/apps/libraries are welcome :)
 
 ## X11/Wayland
 
-* [quickshell](https://github.com/quickshell-mirror/quickshell) ⭐ 3,239 | 🐛 850 | 🌐 C++ | 📅 2026-10-22 - Flexible toolkit for making desktop shells with QtQuick, for Wayland and X11.
+* [quickshell](https://github.com/quickshell-mirror/quickshell) ⭐ 3,241 | 🐛 854 | 🌐 C++ | 📅 2026-10-22 - Flexible toolkit for making desktop shells with QtQuick, for Wayland and X11.
 * [sddm](https://github.com/sddm/sddm) ⭐ 2,385 | 🐛 762 | 🌐 C++ | 📅 2026-10-20 - QML based X11 and Wayland display manager.
 * [shell](https://github.com/lirios/shell) ⭐ 248 | 🐛 35 | 🌐 C++ | 📅 2024-02-11 - QtQuick and Wayland shell for convergence.
 * [qmlcompmgr](https://github.com/amezin/qmlcompmgr) ⚠️ Archived - It's a simple compositing manager for X11, written using Qt Quick and QML. Not ready for production.
@@ -355,8 +355,8 @@ Pull requests of new projects/apps/libraries are welcome :)
 
 # Learning
 
-* [The QML Book](http://qmlbook.github.io/) - The QML Book. ([source](https://github.com/qmlbook/qmlbook) ⭐ 2,583 | 🐛 91 | 🌐 Batchfile | 📅 2023-06-02)
-* [QML Coding Guidelines](https://github.com/Furkanzmc/QML-Coding-Guide) ⭐ 611 | 🐛 4 | 📅 2022-04-18: A collection of good practices when writing QML code.
+* [The QML Book](http://qmlbook.github.io/) - The QML Book. ([source](https://github.com/qmlbook/qmlbook) ⭐ 2,584 | 🐛 91 | 🌐 Batchfile | 📅 2023-06-02)
+* [QML Coding Guidelines](https://github.com/Furkanzmc/QML-Coding-Guide) ⭐ 612 | 🐛 4 | 📅 2022-04-18: A collection of good practices when writing QML code.
 * [RCSE](https://github.com/Rolisteam/rcse) ⭐ 10 | 🐛 2 | 🌐 C++ | 📅 2020-12-11 - Rolisteam Character Sheet Editor: easier way to create a character sheet, rcse provides more than that. It helps learning QML: draw your page, generate code, change it, execute it, and see the result.
 * [GCompris](http://www.gcompris.net/index-en.html) - For Kids.
 * [Ktouch](https://www.kde.org/applications/education/ktouch/) - Touch Typing Tutor.
@@ -367,17 +367,17 @@ Pull requests of new projects/apps/libraries are welcome :)
 
 # Software
 
-* [tdesktop](https://github.com/telegramdesktop/tdesktop) ⭐ 33,572 | 🐛 1,037 | 🌐 C++ | 📅 2026-11-15 - Telegram Desktop messaging app.
-* [cool-retro-term](https://github.com/Swordfish90/cool-retro-term) ⭐ 26,572 | 🐛 579 | 🌐 QML | 📅 2026-05-31 - Is a terminal emulator which mimics the look and feel of the old cathode tube screens. It has been designed to be eye-candy, customizable, and reasonably lightweight.
-* [QOwnNotes](https://github.com/pbek/QOwnNotes) ⭐ 5,962 | 🐛 66 | 🌐 C++ | 📅 2026-11-15 - QOwnNotes is a plain-text file notepad and todo-list manager with markdown support and ownCloud / Nextcloud integration.
-* [QGroundControl](https://github.com/mavlink/qgroundcontrol) ⭐ 5,119 | 🐛 487 | 🌐 C++ | 📅 2026-11-15 - UAV Ground Control Station (Linux, Windows, MacOS, Android, iOS)
-* [pegasus-frontend](https://github.com/mmatyas/pegasus-frontend) ⭐ 1,934 | 🐛 148 | 🌐 C++ | 📅 2026-11-15 - A cross platform, customizable graphical frontend for launching emulators and managing your game collection.
+* [tdesktop](https://github.com/telegramdesktop/tdesktop) ⭐ 33,583 | 🐛 1,035 | 🌐 C++ | 📅 2026-11-16 - Telegram Desktop messaging app.
+* [cool-retro-term](https://github.com/Swordfish90/cool-retro-term) ⭐ 26,573 | 🐛 579 | 🌐 QML | 📅 2026-05-31 - Is a terminal emulator which mimics the look and feel of the old cathode tube screens. It has been designed to be eye-candy, customizable, and reasonably lightweight.
+* [QOwnNotes](https://github.com/pbek/QOwnNotes) ⭐ 5,966 | 🐛 66 | 🌐 C++ | 📅 2026-11-16 - QOwnNotes is a plain-text file notepad and todo-list manager with markdown support and ownCloud / Nextcloud integration.
+* [QGroundControl](https://github.com/mavlink/qgroundcontrol) ⭐ 5,121 | 🐛 490 | 🌐 C++ | 📅 2026-11-16 - UAV Ground Control Station (Linux, Windows, MacOS, Android, iOS)
+* [pegasus-frontend](https://github.com/mmatyas/pegasus-frontend) ⭐ 1,936 | 🐛 148 | 🌐 C++ | 📅 2026-11-15 - A cross platform, customizable graphical frontend for launching emulators and managing your game collection.
 * [SerialTest](https://github.com/wh201906/SerialTest) ⭐ 1,675 | 🐛 28 | 🌐 C++ | 📅 2024-06-17 - Debugging serial port/Bluetooth SPP/BLE/TCP server/TCP client/UDP connections on Windows/Linux/Android.
 * [ScreenCapture](https://github.com/xland/ScreenCapture) ⭐ 1,587 | 🐛 40 | 🌐 C++ | 📅 2026-10-14 - A feature-rich screenshot program.
 * [panopticon](https://github.com/das-labor/panopticon) ⚠️ Archived - A libre cross-platform disassembler.
-* [yubioath-desktop](https://github.com/Yubico/yubioath-desktop) ⭐ 1,411 | 🐛 122 | 🌐 Dart | 📅 2026-11-10 - Yubico Authenticator for Desktop (Windows, macOS and Linux).
+* [yubioath-desktop](https://github.com/Yubico/yubioath-desktop) ⭐ 1,413 | 🐛 123 | 🌐 Dart | 📅 2026-11-10 - Yubico Authenticator for Desktop (Windows, macOS and Linux).
 * [QVGE](https://github.com/ArsMasiuk/qvge) ⭐ 671 | 🐛 40 | 🌐 C++ | 📅 2025-07-01 - Qt Visual Graph Editor.
-* [Tasket++](https://github.com/AmirHammouteneEI/ScheduledPasteAndKeys) ⭐ 208 | 🐛 0 | 🌐 C++ | 📅 2026-11-14 - GUI based scheduler and automation tool for PC user actions simulations
+* [Tasket++](https://github.com/AmirHammouteneEI/ScheduledPasteAndKeys) ⭐ 210 | 🐛 0 | 🌐 C++ | 📅 2026-11-14 - GUI based scheduler and automation tool for PC user actions simulations
 * [Rolisteam](https://github.com/Rolisteam/rolisteam) ⭐ 200 | 🐛 15 | 🌐 C++ | 📅 2026-06-21 - VirtualTableTop software to play Pen and paper role playing games.
 * [tensor](https://github.com/davidar/tensor) ⭐ 173 | 🐛 5 | 🌐 C++ | 📅 2017-02-21 - Tensor is an IM client for the Matrix protocol in development.
 * [yat](https://github.com/jorgen/yat) ⭐ 119 | 🐛 1 | 🌐 C++ | 📅 2017-09-12 - Terminal Emulator written in C++ and qml.
@@ -395,4 +395,4 @@ Pull requests of new projects/apps/libraries are welcome :)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._
