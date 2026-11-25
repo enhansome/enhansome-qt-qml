@@ -334,7 +334,7 @@
             "open_issues": 371,
             "owner": "therecipe",
             "repo": "qt",
-            "stars": 10800,
+            "stars": 10799,
             "topics": [
               "android",
               "asteroidos",
@@ -1818,7 +1818,7 @@
             "open_issues": 68,
             "owner": "paceholder",
             "repo": "nodeeditor",
-            "stars": 3729,
+            "stars": 3730,
             "topics": [
               "cpp",
               "dataflow-programming",
@@ -1846,7 +1846,7 @@
             "open_issues": 29,
             "owner": "mfreiholz",
             "repo": "Qt-Advanced-Docking-System",
-            "stars": 825,
+            "stars": 826,
             "topics": [
               "cpp",
               "docking",
@@ -3386,11 +3386,11 @@
             "id": 42725503,
             "language": "C++",
             "license": null,
-            "last_commit": "2026-11-24T02:28:28Z",
+            "last_commit": "2026-11-25T02:33:30Z",
             "open_issues": 0,
             "owner": "KDE",
             "repo": "kdeconnect-kde",
-            "stars": 4188,
+            "stars": 4194,
             "topics": []
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
@@ -3784,7 +3784,7 @@
             "id": 20378353,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-23T22:34:15Z",
+            "last_commit": "2026-11-25T22:02:55Z",
             "open_issues": 2,
             "owner": "frida",
             "repo": "frida-qml",
@@ -3890,11 +3890,11 @@
             "id": 23629913,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-24T20:34:05Z",
+            "last_commit": "2026-11-25T21:37:58Z",
             "open_issues": 1,
             "owner": "Esri",
             "repo": "arcgis-maps-sdk-toolkit-qt",
-            "stars": 146,
+            "stars": 147,
             "topics": [
               "arcgis-maps-sdk-qt",
               "arcgis-runtime-sdk",
@@ -4123,7 +4123,7 @@
             "open_issues": 11,
             "owner": "RinLit-233-shiroko",
             "repo": "Rin-UI",
-            "stars": 187,
+            "stars": 189,
             "topics": [
               "cross-platform",
               "fluent",
@@ -4203,7 +4203,7 @@
             "open_issues": 3,
             "owner": "MarkoStanojevic12",
             "repo": "MMaterial",
-            "stars": 68,
+            "stars": 69,
             "topics": []
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
@@ -4566,10 +4566,10 @@
             "language": "C++",
             "license": "LGPL-3.0",
             "last_commit": "2026-10-22T06:48:13Z",
-            "open_issues": 898,
+            "open_issues": 904,
             "owner": "quickshell-mirror",
             "repo": "quickshell",
-            "stars": 3261,
+            "stars": 3264,
             "topics": [
               "audio-mixer",
               "bar",
@@ -4611,7 +4611,7 @@
             "open_issues": 763,
             "owner": "sddm",
             "repo": "sddm",
-            "stars": 2391,
+            "stars": 2392,
             "topics": [
               "qml",
               "qtquick",
@@ -4774,11 +4774,11 @@
             "id": 19374812,
             "language": "C++",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-24T15:30:59Z",
-            "open_issues": 864,
+            "last_commit": "2026-11-25T19:26:19Z",
+            "open_issues": 866,
             "owner": "telegramdesktop",
             "repo": "tdesktop",
-            "stars": 33673,
+            "stars": 33682,
             "topics": [
               "messenger",
               "multi-platform",
@@ -4802,10 +4802,10 @@
             "language": "QML",
             "license": null,
             "last_commit": "2026-05-31T10:12:54Z",
-            "open_issues": 577,
+            "open_issues": 578,
             "owner": "Swordfish90",
             "repo": "cool-retro-term",
-            "stars": 26589,
+            "stars": 26593,
             "topics": [
               "linux",
               "macos",
@@ -4830,7 +4830,7 @@
             "language": "C++",
             "license": "GPL-2.0",
             "last_commit": "2026-11-24T19:25:02Z",
-            "open_issues": 57,
+            "open_issues": 58,
             "owner": "pbek",
             "repo": "QOwnNotes",
             "stars": 5974,
@@ -4871,11 +4871,11 @@
             "id": 2567844,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-24T17:49:49Z",
-            "open_issues": 503,
+            "last_commit": "2026-11-25T07:05:09Z",
+            "open_issues": 504,
             "owner": "mavlink",
             "repo": "qgroundcontrol",
-            "stars": 5131,
+            "stars": 5133,
             "topics": [
               "ardupilot",
               "drone",
@@ -4906,7 +4906,7 @@
             "open_issues": 148,
             "owner": "mmatyas",
             "repo": "pegasus-frontend",
-            "stars": 1941,
+            "stars": 1942,
             "topics": [
               "cross-platform",
               "customizable",
@@ -4974,10 +4974,10 @@
             "language": "C++",
             "license": "MIT",
             "last_commit": "2026-10-14T01:29:54Z",
-            "open_issues": 42,
+            "open_issues": 43,
             "owner": "xland",
             "repo": "ScreenCapture",
-            "stars": 1596,
+            "stars": 1599,
             "topics": [
               "canvas",
               "draw",
@@ -5087,7 +5087,7 @@
             "open_issues": 0,
             "owner": "AmirHammouteneEI",
             "repo": "ScheduledPasteAndKeys",
-            "stars": 211,
+            "stars": 212,
             "topics": []
           },
           "first_seen": "2026-08-28T23:39:15.877Z"
@@ -5314,7 +5314,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T23:36:53.123Z",
+    "last_updated": "2026-11-25T23:16:07.922Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Qt and QML libraries, resources, projects, and shiny things.",
@@ -5326,7 +5326,7 @@
       "open_issues": 14,
       "owner": "mikalv",
       "repo": "awesome-qt-qml",
-      "stars": 2632,
+      "stars": 2633,
       "topics": [
         "awesome",
         "awesome-list",
